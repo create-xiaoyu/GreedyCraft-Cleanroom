@@ -105,6 +105,10 @@ events.onCommand(function (event as CommandEvent) {
 
 events.onPlayerTick(function (event as PlayerTickEvent) {
     
+        if ((event.player.world.getWorldTime() as long) % 200 != 0 || event.player.world.remote || event.phase != "END" || event.side != "SERVER") {
+        return;
+    }
+
     var showScoreboard as bool = true;
     val overworld as IWorld = IWorld.getFromID(0);
     if(!isNull(overworld)) {
@@ -118,9 +122,8 @@ events.onPlayerTick(function (event as PlayerTickEvent) {
         }
     }
 
-    if (!showScoreboard || (event.player.world.getWorldTime() as long) % 200 != 0 || event.player.world.remote || event.phase != "END" || event.side != "SERVER") {
-        return;
-    }
+    if (!showScoreboard)return;
+
     var player as IPlayer = event.player;
     if (isNull(player)) {
         return;
