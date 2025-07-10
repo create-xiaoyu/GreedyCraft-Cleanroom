@@ -120,6 +120,7 @@ val removedRecipes as IIngredient[] = [
     <cfm:item_log>,
     <projecte:item.pe_swrg>,
     <actuallyadditions:item_wings_of_the_bats>,
+    <extracells:terminal.universal.wireless>,
     <danknull:dank_null_panel_0>,
     <danknull:dank_null_panel_1>,
     <danknull:dank_null_panel_2>,
