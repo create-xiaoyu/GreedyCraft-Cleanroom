@@ -121,7 +121,7 @@ RecipeUtil.addShapeless("auto_gen_-2147158797", <minecraft:splash_potion>.withTa
     [<minecraft:glass_bottle>, <additions:greedycraft-wither_soul>, <ore:shardCreative>, <ore:shardCreative>]
 );
 RecipeUtil.addShapeless("auto_gen_1498134564", <appliedenergistics2:wireless_terminal>,
-    [<wit:wit_creative>, <wct:wct_creative>, <wft:wft_creative>]
+    [<wit:wit_creative>, <appliedenergistics2:wireless_crafting_terminal>, <wft:wft_creative>]
 );
 RecipeUtil.addShapeless("auto_gen_269849607", <additions:greedycraft-experience_block> * 9,
     [<additions:greedycraft-compressed_experience_block>]

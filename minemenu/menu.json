@@ -81,12 +81,12 @@
     "6": {
       "title": "§6打开无线合成终端 §7(如果已装备) §9§oWCT2",
       "icon": {
-        "name": "wct:wct",
+        "name": "appliedenergistics2:wireless_crafting_terminal",
         "damage": 0
       },
       "action": {
         "key": {
-          "key": "key.open_wct.desc",
+          "key": "key.open_wireless_crafting_terminal.desc",
           "toggle": false
         }
       }

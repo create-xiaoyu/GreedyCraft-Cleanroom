@@ -9705,8 +9705,8 @@ waystones:return_scroll - 13387
 waystones:bound_scroll - 13388
 waystones:warp_scroll - 13389
 waystones:warp_stone - 13390
-wct:wct - 13391
-wct:wct_creative - 13392
+appliedenergistics2:wireless_crafting_terminal - 13391
+appliedenergistics2:wireless_crafting_terminal - 13392
 appliedenergistics2:material:60 - 13393
 wft:wft - 13394
 wft:wft_creative - 13395
