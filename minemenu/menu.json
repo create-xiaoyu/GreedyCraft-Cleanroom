@@ -86,7 +86,7 @@
       },
       "action": {
         "key": {
-          "key": "key.open_wct.desc",
+          "key": "key.open_wireless_crafting_terminal.desc",
           "toggle": false
         }
       }
