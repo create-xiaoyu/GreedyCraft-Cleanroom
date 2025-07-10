@@ -514,9 +514,7 @@ GameStagesUtil.stageGraduated.addIngredients([
     <randomthings:creativeplayerinterface>,
     <draconicevolution:creative_exchanger>,
     <randomthings:spectrecoil_genesis>,
-    <additions:greedycraft-ocd_certificate>,
-    <ae2wtlib:wut_creative>,
-    <ae2wtlib:wut_creative>.withTag({StoredTerminals: [{ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wct:wct_creative", Count: 1 as byte, Damage: 0 as short}, {ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wit:wct_creative", Count: 1 as byte, Damage: 0 as short}, {ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wit:wit_creative", Count: 1 as byte, Damage: 0 as short}, {ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wft:wft_creative", Count: 1 as byte, Damage: 0 as short}], IsInRange: 0 as byte, SelectedTerminal: 0, internalCurrentPower: 1600000.0})
+    <additions:greedycraft-ocd_certificate>
 ]);
 
 GameStagesUtil.stageAbyssalConquerer.addIngredients([

@@ -5480,8 +5480,8 @@ projecte:item.pe_tome - 9162
 projecte:item.pe_transmutation_tablet - 9163
 projecte:item.pe_manual - 9164
 appliedenergistics2:material:59 - 9165
-ae2wtlib:wut - 9166
-ae2wtlib:wut_creative - 9167
+appliedenergistics2:wireless_terminal - 9166
+appliedenergistics2:wireless_terminal - 9167
 aeble:air_ring - 9168
 aeble:ice_ring - 9169
 aeble:bubble_ring - 9170
