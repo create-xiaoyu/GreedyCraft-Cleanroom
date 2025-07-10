@@ -5479,7 +5479,7 @@ projecte:item.pe_catalitic_lens - 9161
 projecte:item.pe_tome - 9162
 projecte:item.pe_transmutation_tablet - 9163
 projecte:item.pe_manual - 9164
-ae2wtlib:infinity_booster_card - 9165
+appliedenergistics2:material:59 - 9165
 ae2wtlib:wut - 9166
 ae2wtlib:wut_creative - 9167
 aeble:air_ring - 9168

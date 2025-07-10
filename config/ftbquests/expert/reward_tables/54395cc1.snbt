@@ -47,7 +47,7 @@
 		item: "minecraft:end_crystal"
 	},
 	{
-		item: "ae2wtlib:infinity_booster_card",
+		item: "appliedenergistics2:material:59",
 		count: 10,
 		random_bonus: 10
 	},
