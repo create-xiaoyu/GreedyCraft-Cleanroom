@@ -11,7 +11,7 @@
 		uid: "9910ae62",
 		type: "item",
 		items: [{
-			id: "appliedenergistics2:wireless_crafting_terminal",
+			id: "wct:wct",
 			tag: {
 				InfinityEnergy: 2147483647,
 				internalCurrentPower: 1600000.0d
@@ -29,7 +29,7 @@
 		uid: "eb116f39",
 		type: "item",
 		item: {
-			id: "appliedenergistics2:material:60",
+			id: "wct:magnet_card",
 			tag: {
 				MagnetMode: 0
 			}
@@ -38,7 +38,7 @@
 	{
 		uid: "bd21a167",
 		type: "item",
-		item: "",
+		item: "ae2wtlib:infinity_booster_card",
 		count: 8
 	},
 	{

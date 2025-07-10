@@ -81,12 +81,12 @@
     "6": {
       "title": "§6打开无线合成终端 §7(如果已装备) §9§oWCT2",
       "icon": {
-        "name": "appliedenergistics2:wireless_crafting_terminal",
+        "name": "wct:wct",
         "damage": 0
       },
       "action": {
         "key": {
-          "key": "key.open_wireless_crafting_terminal.desc",
+          "key": "key.open_wct.desc",
           "toggle": false
         }
       }
@@ -118,9 +118,9 @@
       }
     },
     "9": {
-      "title": "§a切换磁卡模式 §9§o（此项无效）",
+      "title": "§a切换磁卡模式 §9§oWCT2",
       "icon": {
-        "name": "appliedenergistics2:material:60",
+        "name": "wct:magnet_card",
         "damage": 0
       },
       "action": {
