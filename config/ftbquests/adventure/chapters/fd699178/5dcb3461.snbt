@@ -29,7 +29,7 @@
 		uid: "eb116f39",
 		type: "item",
 		item: {
-			id: "wct:magnet_card",
+			id: "appliedenergistics2:material:60",
 			tag: {
 				MagnetMode: 0
 			}

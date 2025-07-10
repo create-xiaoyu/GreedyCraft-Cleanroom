@@ -9707,7 +9707,7 @@ waystones:warp_scroll - 13389
 waystones:warp_stone - 13390
 wct:wct - 13391
 wct:wct_creative - 13392
-wct:magnet_card - 13393
+appliedenergistics2:material:60 - 13393
 wft:wft - 13394
 wft:wft_creative - 13395
 wit:wit - 13396

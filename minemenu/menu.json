@@ -118,9 +118,9 @@
       }
     },
     "9": {
-      "title": "§a切换磁卡模式 §9§oWCT2",
+      "title": "§a切换磁卡模式 §9§o（此项无效）",
       "icon": {
-        "name": "wct:magnet_card",
+        "name": "appliedenergistics2:material:60",
         "damage": 0
       },
       "action": {
