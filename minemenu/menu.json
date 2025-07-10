@@ -120,7 +120,7 @@
     "9": {
       "title": "§a切换磁卡模式 §9§o(此项无效)",
       "icon": {
-        "name": "appliedenergistics2:material:60",
+        "name": "appliedenergistics2:memory_card",
         "damage": 0
       },
       "action": {
