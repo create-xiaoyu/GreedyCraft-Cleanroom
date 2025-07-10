@@ -217,7 +217,7 @@
 		random_bonus: 8
 	},
 	{
-		item: "ae2wtlib:infinity_booster_card",
+		item: "",
 		count: 3,
 		random_bonus: 4
 	},

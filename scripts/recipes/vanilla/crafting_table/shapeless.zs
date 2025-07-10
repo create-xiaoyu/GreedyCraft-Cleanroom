@@ -120,9 +120,6 @@ RecipeUtil.addShapeless("auto_gen_1296047035", <minecraft:splash_potion>.withTag
 RecipeUtil.addShapeless("auto_gen_-2147158797", <minecraft:splash_potion>.withTag({CustomPotionEffects:[{Duration:2400,Id:2,Amplifier:49},{Duration:2400,Id:4,Amplifier:49},{Id:7,Amplifier:28},{Duration:2400,Id:9},{Duration:2400,Id:15},{Duration:2400,Id:17,Amplifier:49},{Duration:2400,Id:18,Amplifier:49},{Duration:2400,Id:19,Amplifier:4},{Duration:2400,Id:20,Amplifier:2},{Duration:2400,Id:24},{Duration:2400,Id:25,Amplifier:49},{Duration:2400,Id:27,Amplifier:49}],CustomPotionColor:0,display:{Lore:[LangUtil.translate("greedycraft.misc.blight_potion.tooltip")],Name:LangUtil.translate("greedycraft.misc.blight_potion.name")}}),
     [<minecraft:glass_bottle>, <additions:greedycraft-wither_soul>, <ore:shardCreative>, <ore:shardCreative>]
 );
-RecipeUtil.addShapeless("auto_gen_1498134564", <ae2wtlib:wut_creative>,
-    [<wit:wit_creative>, <wct:wct_creative>, <wft:wft_creative>]
-);
 RecipeUtil.addShapeless("auto_gen_269849607", <additions:greedycraft-experience_block> * 9,
     [<additions:greedycraft-compressed_experience_block>]
 );
