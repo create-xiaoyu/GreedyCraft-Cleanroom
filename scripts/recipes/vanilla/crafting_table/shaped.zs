@@ -442,7 +442,7 @@ RecipeUtil.addShaped("auto_gen_1736866776", <actuallyadditions:item_wings_of_the
     [<actuallyadditions:item_misc:15>, <actuallyadditions:item_misc:15>, <actuallyadditions:item_misc:15>],
     [<actuallyadditions:item_misc:15>, <minecraft:elytra>, <actuallyadditions:item_misc:15>]
 ]);
-            RecipeUtil.addShaped("auto_gen_-136091464", <extracells:terminal.universal.wireless>, [
+            RecipeUtil.addShaped("auto_gen_-136091464", <ae2fc:wireless_fluid_pattern_terminal>, [
     [<appliedenergistics2:wireless_terminal>, <ore:wool>, null],
     [null, null, null],
     [null, null, null]

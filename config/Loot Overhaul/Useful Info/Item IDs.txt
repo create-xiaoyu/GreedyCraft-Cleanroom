@@ -2420,7 +2420,7 @@ extracells:fluid.item - 6102
 extracells:storage.fluid.portable - 6103
 extracells:storage.gas.portable - 6104
 extracells:pattern.crafting - 6105
-extracells:terminal.universal.wireless - 6106
+ae2fc:wireless_fluid_pattern_terminal - 6106
 extracells:terminal.gas.wireless - 6107
 extracells:gas.item - 6108
 extracells:certustank - 6109
