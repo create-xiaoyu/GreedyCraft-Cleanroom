@@ -261,17 +261,17 @@ RecipeUtil.addShapeless("auto_gen_-1168410344", <appliedenergistics2:material:37
 RecipeUtil.addShapeless("auto_gen_-1308565577", <appliedenergistics2:material:38>,
     [<appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>, <appliedenergistics2:material:37>]
 );
-RecipeUtil.addShapeless("auto_gen_-326012325", <extracells:storage.component>,
+RecipeUtil.addShapeless("auto_gen_-326012325", <aeadditions:storage.component>,
     [<appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>, <appliedenergistics2:material:38>]
 );
-RecipeUtil.addShapeless("auto_gen_159103536", <extracells:storage.component:1>,
-    [<extracells:storage.component>, <extracells:storage.component>, <extracells:storage.component>, <extracells:storage.component>]
+RecipeUtil.addShapeless("auto_gen_159103536", <aeadditions:storage.component:1>,
+    [<aeadditions:storage.component>, <aeadditions:storage.component>, <aeadditions:storage.component>, <aeadditions:storage.component>]
 );
-RecipeUtil.addShapeless("auto_gen_-981757333", <extracells:storage.component:2>,
-    [<extracells:storage.component:1>, <extracells:storage.component:1>, <extracells:storage.component:1>, <extracells:storage.component:1>]
+RecipeUtil.addShapeless("auto_gen_-981757333", <aeadditions:storage.component:2>,
+    [<aeadditions:storage.component:1>, <aeadditions:storage.component:1>, <aeadditions:storage.component:1>, <aeadditions:storage.component:1>]
 );
-RecipeUtil.addShapeless("auto_gen_1276343630", <extracells:storage.component:3>,
-    [<extracells:storage.component:2>, <extracells:storage.component:2>, <extracells:storage.component:2>, <extracells:storage.component:2>]
+RecipeUtil.addShapeless("auto_gen_1276343630", <aeadditions:storage.component:3>,
+    [<aeadditions:storage.component:2>, <aeadditions:storage.component:2>, <aeadditions:storage.component:2>, <aeadditions:storage.component:2>]
 );
 RecipeUtil.addShapeless("auto_gen_462958864", <projectex:energy_link>,
     [<additions:greedycraft-matter_block>, <rftools:machine_frame>, <ore:ingotProtonium>, <ore:ingotElectronium>]
