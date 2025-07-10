@@ -218,7 +218,7 @@
 		random_bonus: 8
 	},
 	{
-		item: "appliedenergistics2:material:59",
+		item: "ae2wtlib:infinity_booster_card",
 		count: 3,
 		random_bonus: 4
 	},
