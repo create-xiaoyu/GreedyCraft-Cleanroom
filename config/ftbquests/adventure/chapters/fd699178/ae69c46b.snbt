@@ -10,7 +10,7 @@
 		uid: "fdaff796",
 		type: "item",
 		items: [{
-			id: "extracells:storage.physical",
+			id: "aeadditions:storage.physical",
 			tag: {
 				upgrades: {},
 				config: {},
@@ -24,7 +24,7 @@
 		uid: "835f73fa",
 		type: "item",
 		item: {
-			id: "extracells:storage.physical",
+			id: "aeadditions:storage.physical",
 			tag: {
 				upgrades: {},
 				config: {},

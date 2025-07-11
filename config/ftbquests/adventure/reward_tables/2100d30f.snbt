@@ -236,7 +236,7 @@
 	},
 	{
 		item: {
-			id: "extracells:storage.physical",
+			id: "aeadditions:storage.physical",
 			tag: {
 				upgrades: {},
 				config: {},
@@ -246,7 +246,7 @@
 	},
 	{
 		item: {
-			id: "extracells:storage.physical",
+			id: "aeadditions:storage.physical",
 			tag: {
 				upgrades: {},
 				config: {},
