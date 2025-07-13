@@ -120,12 +120,12 @@
     "9": {
       "title": "§a切换磁卡模式 §9§o(此项无效)",
       "icon": {
-        "name": "appliedenergistics2:memory_card",
-        "damage": 0
+        "name": "appliedenergistics2:material",
+        "damage": 60
       },
       "action": {
         "key": {
-          "key": "key.cycle_magnet_mode.desc",
+          "key": "key.fart.desc",
           "toggle": false
         }
       }
