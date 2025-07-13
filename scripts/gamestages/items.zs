@@ -468,7 +468,6 @@ GameStagesUtil.stageInfinity.addIngredients([
     <ambience:ocarina>,
     <additions:greedycraft-creative_soul>,
     <additions:greedycraft-difficulty_changer>,
-    <additions:greedycraft-creative_controller>,
     <minecraft:diamond_sword>.withTag({ench: [{lvl: 10 as short}]}),
     <minecraft:diamond_pickaxe>.withTag({ench: [{lvl: 10 as short}]}),
     <minecraft:diamond_helmet>.withTag({ench: [{lvl: 10 as short}]}),
