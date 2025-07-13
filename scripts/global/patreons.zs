@@ -4,7 +4,7 @@
  */ 
 
 #priority 32766
-#no_fix_recipe_book
+
 
 global NOT_SPONSOR as int = 0;
 global REDSTONE_SPONSOR as int = 1;

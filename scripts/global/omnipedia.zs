@@ -4,7 +4,7 @@
  */
 
 #priority 30000
-#no_fix_recipe_book
+
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;

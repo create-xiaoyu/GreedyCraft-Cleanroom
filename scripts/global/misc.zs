@@ -4,7 +4,7 @@
  */
 
 #priority 32767
-#no_fix_recipe_book
+
 
 global HARDMODE_MIN_ROLLS as int = 2;
 global HARDMODE_MAX_ROLLS as int = 3;

@@ -4,7 +4,7 @@
  */ 
 
 #priority 32767
-#no_fix_recipe_book
+
 
 global whitelistedCommands as string[] = [
     "ping",

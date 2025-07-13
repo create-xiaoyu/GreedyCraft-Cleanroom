@@ -4,7 +4,7 @@
  */ 
 
 #priority 50
-#no_fix_recipe_book
+
 #packmode casual
 // Powered by TCreopargh
 import crafttweaker.event.CommandEvent;

@@ -4,7 +4,7 @@
  */ 
 
 #priority 32400
-#no_fix_recipe_book
+
 
 import mods.versioner.Versioner;
 

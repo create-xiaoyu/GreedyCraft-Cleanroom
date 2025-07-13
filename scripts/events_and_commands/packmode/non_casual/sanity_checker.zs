@@ -4,7 +4,7 @@
  */
 
 #priority 233
-#no_fix_recipe_book
+
 
 #packmode adventure expert
 

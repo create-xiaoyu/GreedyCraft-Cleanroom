@@ -4,7 +4,7 @@
  */ 
 
 #priority 32200
-#no_fix_recipe_book
+
 
 import crafttweaker.player.IPlayer;
 import mods.versioner.Versioner;
