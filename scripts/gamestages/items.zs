@@ -665,7 +665,6 @@ GameStagesUtil.stageSkilledEngineer.addIngredients([
     <ore:dustEnderium>,
     <ore:gearEnderium>,
     <ore:gemGelidCrystal>,
-    <ore:blockGelidGem>,
     <ore:blockGelidEnderium>,
     <ore:ingotGelidEnderium>,
     <ore:nuggetGelidEnderium>,
