@@ -29,17 +29,13 @@
 	{
 		uid: "eb116f39",
 		type: "item",
-		item: {
-			id: "appliedenergistics2:material:60",
-			tag: {
-				MagnetMode: 0
-			}
-		}
+		item: "appliedenergistics2:material 1 60",
+		count: 1
 	},
 	{
 		uid: "bd21a167",
 		type: "item",
-		item: "appliedenergistics2:material:59",
+		item: "appliedenergistics2:material 1 59",
 		count: 8
 	},
 	{
