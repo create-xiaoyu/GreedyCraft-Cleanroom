@@ -5,7 +5,7 @@
 
 #loader contenttweaker 
 #priority 2200
-#no_fix_recipe_book
+
 
 // For other items added by this modpack, please go to the /addons/additions folder.
 

@@ -12,7 +12,7 @@
 #modloaded mysticalagriculture
 
 #priority 2200
-#no_fix_recipe_book
+
 
 import crafttweaker.liquid.ILiquidStack;
 import crafttweaker.game.IGame;

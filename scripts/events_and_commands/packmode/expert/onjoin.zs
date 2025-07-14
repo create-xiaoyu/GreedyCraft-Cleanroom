@@ -4,7 +4,7 @@
  */ 
 
 #priority 120
-#no_fix_recipe_book
+
 #packmode expert
 
 import crafttweaker.text.ITextComponent;

@@ -4,7 +4,7 @@
  */ 
 
 #priority 100
-#no_fix_recipe_book
+
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -144,7 +144,7 @@ val tooltipMap as string[][IIngredient] = {
     <comforts:hammock:*> : [cant_set_spawn],
     <theoneprobe:probenote> : [game.localize("greedycraft.tooltip.theoneprobe.probenote.1")],
     <scalinghealth:heartcontainer> : [game.localize("greedycraft.tooltip.scalinghealth.heartcontainer.1"), game.localize("greedycraft.tooltip.scalinghealth.heartcontainer.2")],
-    <redstonerepository:ring_mining> : [game.localize("greedycraft.tooltip.redstonerepository.ring_mining.1")],
+    <redstonerepository:util.ring_mining> : [game.localize("greedycraft.tooltip.redstonerepository.ring_mining.1")],
     <prefab:item_monster_masher> : [game.localize("greedycraft.tooltip.prefab.item_monster_masher.1")],
     <tconstruct:materials:19> : [game.localize("greedycraft.tooltip.tconstruct.materials.1")],
     <harvestcraft:hamandpineapplepizzaitem> : [game.localize("greedycraft.tooltip.harvestcraft.hamandpineapplepizzaitem.1")],

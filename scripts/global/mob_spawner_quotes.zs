@@ -4,7 +4,7 @@
  */
 
 #priority 32766
-#no_fix_recipe_book
+
 
 global mobSpawnerQuotes as string[][string] = {
     en_us: [

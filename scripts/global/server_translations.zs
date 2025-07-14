@@ -4,7 +4,7 @@
  */
 
 #priority 32767
-#no_fix_recipe_book
+
 
 // Server side translations
 global serverTranslations as string[string][string] = {

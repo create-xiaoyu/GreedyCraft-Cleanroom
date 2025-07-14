@@ -4,7 +4,7 @@
  */
 
 #priority 4002
-#no_fix_recipe_book
+
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -262,7 +262,7 @@ val removedRecipes as IIngredient[] = [
     <enderio:item_material:10>,
     <cyclicmagic:bundled_pipe>,
     <redstonearsenal:util.quiver_flux>,
-    <redstonerepository:feeder>,
+    <redstonerepository:util.feeder>,
     <forestry:bronze_pickaxe>,
     <mekanism:basicblock:8>,
     <buildinggadgets:buildingtool>,
@@ -309,7 +309,7 @@ val removedRecipes as IIngredient[] = [
     <extrautils2:itembuilderswand>,
     <lootbags:loot_storage>,
     <ambience:horn>,
-    <redstonerepository:ring_mining>,
+    <redstonerepository:util.ring_mining>,
     <hooked:hook:4>,
     <bloodmagic:soul_snare>,
     <cyclicmagic:magnet_anti_block>,

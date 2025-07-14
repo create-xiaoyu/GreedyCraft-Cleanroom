@@ -4,7 +4,7 @@
  */
 
 #priority 40
-#no_fix_recipe_book
+
 
 import mods.dropt.Dropt;
 

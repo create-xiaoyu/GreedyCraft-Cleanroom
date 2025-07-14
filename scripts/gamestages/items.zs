@@ -4,7 +4,7 @@
  */
 
 #priority 950
-#no_fix_recipe_book
+
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -468,7 +468,6 @@ GameStagesUtil.stageInfinity.addIngredients([
     <ambience:ocarina>,
     <additions:greedycraft-creative_soul>,
     <additions:greedycraft-difficulty_changer>,
-    <additions:greedycraft-creative_controller>,
     <minecraft:diamond_sword>.withTag({ench: [{lvl: 10 as short}]}),
     <minecraft:diamond_pickaxe>.withTag({ench: [{lvl: 10 as short}]}),
     <minecraft:diamond_helmet>.withTag({ench: [{lvl: 10 as short}]}),
@@ -665,8 +664,8 @@ GameStagesUtil.stageSkilledEngineer.addIngredients([
     <ore:nuggetEnderium>,
     <ore:dustEnderium>,
     <ore:gearEnderium>,
-    <ore:gemGelid>,
-    <ore:blockGelidGem>,
+    <ore:gemGelidCrystal>,
+    <ore:blockGelidCrystal>,
     <ore:blockGelidEnderium>,
     <ore:ingotGelidEnderium>,
     <ore:nuggetGelidEnderium>,

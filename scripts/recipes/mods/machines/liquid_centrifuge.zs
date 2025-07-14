@@ -4,7 +4,7 @@
  */
 
 #priority 30
-#no_fix_recipe_book
+
 
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
@@ -168,7 +168,7 @@ RecipeBuilder.newBuilder(regName + "_crude_oil", regName, speed, 0)
     .setChance(0.05f / 10.0f)
     .addItemOutput(<minecraft:slime>)
     .setChance(0.04f / 10.0f)
-    .addItemOutput(<mekanism:polyethene>)
+    .addItemOutput(<mekanism:hdpe_pellet>)
     .setChance(0.03f / 10.0f)
     .addFluidOutput(<liquid:petrotheum> * 10)
     .addFluidOutput(<liquid:refined_oil> * 60)

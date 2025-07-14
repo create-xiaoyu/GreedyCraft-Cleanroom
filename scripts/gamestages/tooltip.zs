@@ -4,7 +4,7 @@
  */ 
 
 #priority 110
-#no_fix_recipe_book
+
 
 import mods.tieredtooltips;
 import mods.ItemStages;

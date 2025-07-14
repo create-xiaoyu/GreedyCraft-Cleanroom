@@ -4,7 +4,7 @@
  */ 
 
 #priority 80
-#no_fix_recipe_book
+
 #packmode expert
 
 import crafttweaker.player.IFoodStats;

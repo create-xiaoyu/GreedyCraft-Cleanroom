@@ -46,7 +46,7 @@
 		item: "minecraft:end_crystal"
 	},
 	{
-		item: "appliedenergistics2:material:59",
+		item: "appliedenergistics2:material 1 59",
 		count: 10,
 		random_bonus: 10
 	},

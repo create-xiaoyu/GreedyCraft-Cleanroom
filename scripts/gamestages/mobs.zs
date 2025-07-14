@@ -4,7 +4,7 @@
  */
 
 #priority 1000
-#no_fix_recipe_book
+
 
 import mods.MobStages;
 

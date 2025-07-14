@@ -4,7 +4,7 @@
  */
 
 #priority 32767
-#no_fix_recipe_book
+
 
 global commonStages as string[] = [
     "getting_started",

@@ -4,7 +4,7 @@
  */
 
 #priority 100
-#no_fix_recipe_book
+
 #packmode casual adventure
 
 events.onWorldTick(function(event as crafttweaker.event.WorldTickEvent) {
