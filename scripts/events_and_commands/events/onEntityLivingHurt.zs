@@ -4,7 +4,6 @@
  */
 
 #priority 90
-#no_fix_recipe_book
 
 import crafttweaker.event.PlayerLoggedInEvent;
 import crafttweaker.event.IPlayerEvent;
@@ -115,7 +114,7 @@ events.onEntityLivingHurt(function(event as EntityLivingHurtEvent) {
     // Scales projectile damage
     if (!isNull(event.damageSource.getTrueSource()) && event.damageSource.getTrueSource() instanceof IEntityLivingBase && event.damageSource.isProjectile()) {
         if (!event.damageSource.getTrueSource().isBoss) {
-            dmg *= (1.0 + 0.0012 * player.difficulty) as double;
+            dmg *= (1.0 + 0.003 * player.difficulty) as double;
             if (!isNull(event.damageSource.getTrueSource().definition) && skeletonEntities has event.damageSource.getTrueSource().definition.id) {
                 dmg *= 2.0f;
             }
