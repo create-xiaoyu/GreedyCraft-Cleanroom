@@ -1697,3 +1697,6 @@ greedycraft.event.executor.welcome.0=§9>§d>§6> §d§ka§r §c裁决者§6
 greedycraft.event.executor.welcome.1=§c加入了游戏！§d§ka§r §6<§d<§9<
 greedycraft.event.sponsor.welcome.0=§e>§a>§b> §d§ka§r §e
 greedycraft.event.sponsor.welcome.1=§e加入了游戏！§d§ka§r §b<§a<§e<
+
+greedycraft.misc.lightspeedpotion.name=§b§o卡其脱离太
+greedycraft.misc.lightspeedpotion.tooltip=§a感受疾风吧！
