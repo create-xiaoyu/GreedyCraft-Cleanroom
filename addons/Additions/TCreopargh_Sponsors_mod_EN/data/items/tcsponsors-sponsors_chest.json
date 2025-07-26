@@ -1,0 +1,8 @@
+{
+  "name": "§6Sponsor's Chest",
+  "tooltip": [
+    "§bThank you for supporting this modpack!",
+    "§7Right click to open"
+  ],
+  "type": "additions:simple"
+}

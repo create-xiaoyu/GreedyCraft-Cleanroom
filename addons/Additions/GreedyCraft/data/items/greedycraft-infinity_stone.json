@@ -1,7 +1,7 @@
 {
-  "name": "§d§o无限宝石",
+  "name": "§d§oInfinity Stone",
   "shines": true,
-  "tooltip": "§5“只有够格的人才有资格拥有它。”",
+  "tooltip": "§5For the worthy...",
   "max_stack": 1,
   "ore_dict": "itemInfinityStone",
   "type": "additions:simple"

@@ -1,6 +1,6 @@
 
 {
-	title: "随机奖励 §6[传说]",
+	title: "Loot Crate §6[LEGENDARY]",
 	loot_size: 1,
 	hide_tooltip: true,
 	use_title: true,
@@ -379,144 +379,144 @@
 																																																				},
 																																																				display: {
 																																																					Lore: [
-																																																						"§b§o看来你已经到达了终点。"
+																																																						"§b§oLooks like you've reached an end."
 																																																					],
-																																																					Name: "§d§o最后的箱子"
+																																																					Name: "§d§oThe Last Box"
 																																																				}
 																																																			}
 																																																		}]
 																																																	},
 																																																	display: {
 																																																		Lore: [
-																																																			"§b禁止套娃！！"
+																																																			"§bjava.lang.StackOverflowError"
 																																																		],
-																																																		Name: "§c套娃之箱"
+																																																		Name: "§cBox of Recursion"
 																																																	}
 																																																}
 																																															}]
 																																														},
 																																														display: {
 																																															Lore: [
-																																																"§b禁止套娃！！"
+																																																"§bjava.lang.StackOverflowError"
 																																															],
-																																															Name: "§c套娃之箱"
+																																															Name: "§cBox of Recursion"
 																																														}
 																																													}
 																																												}]
 																																											},
 																																											display: {
 																																												Lore: [
-																																													"§b禁止套娃！！"
+																																													"§bjava.lang.StackOverflowError"
 																																												],
-																																												Name: "§c套娃之箱"
+																																												Name: "§cBox of Recursion"
 																																											}
 																																										}
 																																									}]
 																																								},
 																																								display: {
 																																									Lore: [
-																																										"§b禁止套娃！！"
+																																										"§bjava.lang.StackOverflowError"
 																																									],
-																																									Name: "§c套娃之箱"
+																																									Name: "§cBox of Recursion"
 																																								}
 																																							}
 																																						}]
 																																					},
 																																					display: {
 																																						Lore: [
-																																							"§b禁止套娃！！"
+																																							"§bjava.lang.StackOverflowError"
 																																						],
-																																						Name: "§c套娃之箱"
+																																						Name: "§cBox of Recursion"
 																																					}
 																																				}
 																																			}]
 																																		},
 																																		display: {
 																																			Lore: [
-																																				"§b禁止套娃！！"
+																																				"§bjava.lang.StackOverflowError"
 																																			],
-																																			Name: "§c套娃之箱"
+																																			Name: "§cBox of Recursion"
 																																		}
 																																	}
 																																}]
 																															},
 																															display: {
 																																Lore: [
-																																	"§b禁止套娃！！"
+																																	"§bjava.lang.StackOverflowError"
 																																],
-																																Name: "§c套娃之箱"
+																																Name: "§cBox of Recursion"
 																															}
 																														}
 																													}]
 																												},
 																												display: {
 																													Lore: [
-																														"§b禁止套娃！！"
+																														"§bjava.lang.StackOverflowError"
 																													],
-																													Name: "§c套娃之箱"
+																													Name: "§cBox of Recursion"
 																												}
 																											}
 																										}]
 																									},
 																									display: {
 																										Lore: [
-																											"§b禁止套娃！！"
+																											"§bjava.lang.StackOverflowError"
 																										],
-																										Name: "§c套娃之箱"
+																										Name: "§cBox of Recursion"
 																									}
 																								}
 																							}]
 																						},
 																						display: {
 																							Lore: [
-																								"§b禁止套娃！！"
+																								"§bjava.lang.StackOverflowError"
 																							],
-																							Name: "§c套娃之箱"
+																							Name: "§cBox of Recursion"
 																						}
 																					}
 																				}]
 																			},
 																			display: {
 																				Lore: [
-																					"§b禁止套娃！！"
+																					"§bjava.lang.StackOverflowError"
 																				],
-																				Name: "§c套娃之箱"
+																				Name: "§cBox of Recursion"
 																			}
 																		}
 																	}]
 																},
 																display: {
 																	Lore: [
-																		"§b禁止套娃！！"
+																		"§bjava.lang.StackOverflowError"
 																	],
-																	Name: "§c套娃之箱"
+																	Name: "§cBox of Recursion"
 																}
 															}
 														}]
 													},
 													display: {
 														Lore: [
-															"§b禁止套娃！！"
+															"§bjava.lang.StackOverflowError"
 														],
-														Name: "§c套娃之箱"
+														Name: "§cBox of Recursion"
 													}
 												}
 											}]
 										},
 										display: {
 											Lore: [
-												"§b禁止套娃！！"
+												"§bjava.lang.StackOverflowError"
 											],
-											Name: "§c套娃之箱"
+											Name: "§cBox of Recursion"
 										}
 									}
 								}]
 							},
 							display: {
 								Lore: [
-									"§b禁止套娃！！"
+									"§bjava.lang.StackOverflowError"
 								],
-								Name: "§c套娃之箱"
+								Name: "§cBox of Recursion"
 							}
 						},
 						Damage: 0s
@@ -524,9 +524,9 @@
 				},
 				display: {
 					Lore: [
-						"§b禁止套娃！！"
+						"§bjava.lang.StackOverflowError"
 					],
-					Name: "§c套娃之箱"
+					Name: "§cBox of Recursion"
 				}
 			}
 		}
@@ -546,7 +546,7 @@
 	}],
 	loot_crate: {
 		string_id: "loot_level_4",
-		item_name: "奖励箱 §6[传说]",
+		item_name: "Loot Crate §6[LEGENDARY]",
 		color: 16755200,
 		glow: true,
 		drops: {

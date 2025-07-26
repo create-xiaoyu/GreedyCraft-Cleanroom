@@ -6,7 +6,7 @@
 	tasks: [{
 		uid: "03134442",
 		type: "observation",
-		title: "发现一个瓦瓮",
+		title: "Discover an urn",
 		icon: "pyramidplunder:urn",
 		match_type: "block_id",
 		match: "pyramidplunder:urn",

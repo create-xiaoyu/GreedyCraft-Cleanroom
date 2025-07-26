@@ -1,5 +1,5 @@
 {
-  "name": "§3恒钢锭",
+  "name": "§3Aeonsteel Ingot",
   "is_beacon_payment": true,
   "ore_dict": "ingotAeonsteel",
   "type": "additions:simple"

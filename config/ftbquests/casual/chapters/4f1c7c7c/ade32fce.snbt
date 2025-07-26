@@ -1,6 +1,6 @@
 
 {
-	title: "§c切换为: §c§n专家模式",
+	title: "§cSwitch to: §c§nExpert Mode",
 	icon: "minecraft:fire_charge",
 	x: 13.0d,
 	y: -0.62d,
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "0dcc7905",
 		type: "checkmark",
-		title: "§c点击以切换为专家模式"
+		title: "§cClick this button to switch to Expert Mode"
 	}],
 	rewards: [{
 		uid: "0011e7e7",

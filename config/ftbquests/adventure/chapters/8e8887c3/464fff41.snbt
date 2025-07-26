@@ -6,7 +6,7 @@
 	shape: "rsquare",
 	description: "{greedycraft.quest.464fff41.desc}",
 	text: [
-		"§e§e/dank/null的使用方法请参阅整合包手册"
+		"§e§eFor how to use a /dank/null see the modpack guide book"
 	],
 	dependencies: [
 		"bb3d9aaa"

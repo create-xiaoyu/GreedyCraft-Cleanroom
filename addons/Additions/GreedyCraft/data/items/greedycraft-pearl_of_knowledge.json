@@ -1,9 +1,9 @@
 {
-  "name": "§a知识宝珠",
+  "name": "§aPearl of Knowledge",
   "shines": true,
   "tooltip": [
-    "§e存储大量经验",
-    "§a拿着时按右键使用"
+    "§eStores a lot of XP.",
+    "§aRight click to use."
   ],
   "type": "additions:simple"
 }

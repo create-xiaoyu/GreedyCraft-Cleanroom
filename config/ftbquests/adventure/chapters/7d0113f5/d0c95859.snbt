@@ -32,7 +32,7 @@
 	{
 		uid: "4f2b068c",
 		type: "command",
-		title: "§c这个指令是为了修复炼金杂项无法完成的问题",
+		title: "§cThis command is to fix a problem that caused some research to be impossible to complete",
 		auto: "enabled",
 		command: "/thaumcraft research @p HEDGEALCHEMY"
 	},

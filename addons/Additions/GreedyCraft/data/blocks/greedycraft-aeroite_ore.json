@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§b云浮矿",
+    "name": "§bAeroite Ore",
     "ore_dict": "oreAeroite",
     "type": "additions:block_simple"
   },
-  "name": "§b云浮矿",
+  "name": "§bAeroite Ore",
   "material": "minecraft:snow",
   "place_sound": "minecraft:block.snow.place",
   "break_sound": "minecraft:block.snow.break",

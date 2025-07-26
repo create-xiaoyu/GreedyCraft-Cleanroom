@@ -1,0 +1,12 @@
+{
+    "mob_id": "twilightforest:lich",
+    "attributes": [
+        {
+            "id": "generic.maxHealth",
+            "modifier": {
+                "min": 600
+            },
+            "isflat": true
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
   "weight": 250,
   "type": "tconevo:tool",
-  "name": "万流斩",
-  "lore": "不费吹灰之力就能斩断最强大的敌人。",
+  "name": "Myriad Slashes",
+  "lore": "Feared by even the strongest opponent.",
   "tool": "rapier",
   "materials": [
     "pladium",

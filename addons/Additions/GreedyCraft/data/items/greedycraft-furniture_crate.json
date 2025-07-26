@@ -1,8 +1,8 @@
 {
-  "name": "§e家具板条箱",
+  "name": "§eFurniture Crate",
   "tooltip": [
-    "§b看样子装着很多装饰物品！",
-    "§7右键打开"
+    "§bFilled with furnitures and decorations!",
+    "§7Right click to open"
   ],
   "type": "additions:simple"
 }

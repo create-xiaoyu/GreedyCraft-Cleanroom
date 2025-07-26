@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§2大地合金块",
+    "name": "§2Terra Alloy Block",
     "ore_dict": "blockTerraAlloy",
     "type": "additions:block_simple"
   },
-  "name": "§2大地合金块",
+  "name": "§2Terra Alloy Block",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

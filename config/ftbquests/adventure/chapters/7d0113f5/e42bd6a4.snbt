@@ -34,7 +34,7 @@
 	{
 		uid: "a63ee2c6",
 		type: "command",
-		title: "自动获得最初的进度",
+		title: "Grants the first step research",
 		auto: "no_toast",
 		command: "/thaumcraft research @p FIRSTSTEPS"
 	}]

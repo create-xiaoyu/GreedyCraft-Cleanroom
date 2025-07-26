@@ -6,7 +6,7 @@
 	y: 0.0d,
 	description: "{greedycraft.quest.af192f11.desc}",
 	text: [
-		"使用任务显示器连接通量管道来提交红石通量"
+		"Submit FE by connecting a Task Screen with conductor"
 	],
 	can_repeat: true,
 	dependencies: [

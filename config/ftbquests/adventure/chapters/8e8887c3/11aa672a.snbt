@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "f930c3c9",
 		type: "item",
-		title: "鹅卵石或燧石",
+		title: "Pebble or flint",
 		icon: "additions:greedycraft-pebble",
 		items: [{
 			ForgeCaps: {

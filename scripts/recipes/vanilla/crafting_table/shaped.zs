@@ -4,7 +4,7 @@
  */
 
 #priority 4000
-
+#no_fix_recipe_book
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -442,7 +442,7 @@ RecipeUtil.addShaped("auto_gen_1736866776", <actuallyadditions:item_wings_of_the
     [<actuallyadditions:item_misc:15>, <actuallyadditions:item_misc:15>, <actuallyadditions:item_misc:15>],
     [<actuallyadditions:item_misc:15>, <minecraft:elytra>, <actuallyadditions:item_misc:15>]
 ]);
-            RecipeUtil.addShaped("auto_gen_-136091464", <ae2wut:wireless_universal_terminal>, [
+            RecipeUtil.addShaped("auto_gen_-136091464", <extracells:terminal.universal.wireless>, [
     [<appliedenergistics2:wireless_terminal>, <ore:wool>, null],
     [null, null, null],
     [null, null, null]

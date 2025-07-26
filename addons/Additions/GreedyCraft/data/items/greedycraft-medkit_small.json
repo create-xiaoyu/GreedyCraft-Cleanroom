@@ -1,8 +1,8 @@
 {
-  "name": "§a医疗包",
+  "name": "§aMedkit",
   "tooltip": [
-    "§7使用后回复16点生命值",
-    "§7并获得20秒的生命恢复I效果"
+    "§7Restores 16 health.",
+    "§7Gains 20s of regen I."
   ],
   "hunger": 0,
   "saturation": 0.0,

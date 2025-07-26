@@ -4,6 +4,7 @@
  */
 
 #priority 90
+#no_fix_recipe_book
 
 import crafttweaker.event.PlayerLoggedInEvent;
 import crafttweaker.event.IPlayerEvent;
@@ -115,7 +116,7 @@ events.onEntityLivingHurt(function(event as EntityLivingHurtEvent) {
     if (!isNull(event.damageSource.getTrueSource()) && event.damageSource.getTrueSource() instanceof IEntityLivingBase && event.damageSource.isProjectile()) {
         if (!event.damageSource.getTrueSource().isBoss) {
             dmg *= (1.0 + 0.003 * player.difficulty) as double;
-            if (!isNull(event.damageSource.getTrueSource().definition) && skeletonEntities has event.damageSource.getTrueSource().definition.id) {
+            if (skeletonEntities has event.damageSource.getTrueSource().definition.id) {
                 dmg *= 2.0f;
             }
         }
@@ -131,7 +132,7 @@ events.onEntityLivingHurt(function(event as EntityLivingHurtEvent) {
     }
     
     // Prevents damage overflow from Eldrich Guardian
-    if (!isNull(event.damageSource.getTrueSource()) && event.damageSource.getTrueSource() instanceof IEntityLivingBase && !isNull(event.damageSource.getTrueSource().definition) && event.damageSource.getTrueSource().definition.id == <entity:thaumcraft:eldritchguardian>.id) {
+    if (!isNull(event.damageSource.getTrueSource()) && event.damageSource.getTrueSource() instanceof IEntityLivingBase && event.damageSource.getTrueSource().definition.id == <entity:thaumcraft:eldritchguardian>.id) {
         if (dmg > player.maxHealth * 0.15) {
             dmg = player.maxHealth * 0.15;
         }

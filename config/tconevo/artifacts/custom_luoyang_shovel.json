@@ -1,8 +1,8 @@
 {
     "weight": 80,
     "type": "tconevo:tool",
-    "name": "洛阳铲",
-    "lore": "透露着浓厚的历史韵味。",
+    "name": "Ancient Shovel",
+    "lore": "5000 years old.",
     "tool": "excavator",
     "materials": [
         "steel",

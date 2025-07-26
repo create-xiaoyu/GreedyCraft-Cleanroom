@@ -1,10 +1,10 @@
 {
-  "name": "§1便便",
+  "name": "§1Poop",
   "burn_time": 12000,
   "tooltip": [
-    "§1怎么这么臭啊！",
-    "§8可以用来换EMC",
-    "§8也可以当作不错的沼气燃料（呕）"
+    "§1Ewwwww stinky!",
+    "§8Can be exchanged for EMC",
+    "§8It's fuel (but why)"
   ],
   "max_stack": 63,
   "ore_dict": "itemPoop",

@@ -47,7 +47,7 @@
             }],
             "messages": [{
                 "id": "require_empty_hand",
-                "message": "§e你需要空手右键才能捡起它。"
+                "message": "§eYou can only pick it up with an empty hand."
             }]
         },
         {
@@ -76,7 +76,7 @@
             }],
             "messages": [{
                 "id": "require_empty_hand",
-                "message": "§e你需要空手右键才能捡起它。"
+                "message": "§eYou can only pick it up with an empty hand."
             }]
         },
         {
@@ -178,7 +178,7 @@
             }],
             "messages": [{
                 "id": "require_empty_hand",
-                "message": "§e你需要空手右键才能捡起它。"
+                "message": "§eYou can only pick it up with an empty hand."
             }]
         },
         {
@@ -209,7 +209,7 @@
             }],
             "messages": [{
                 "id": "require_empty_hand",
-                "message": "§e你需要空手右键才能捡起它。"
+                "message": "§eYou can only pick it up with an empty hand."
             }]
         },
         {
@@ -318,7 +318,7 @@
             ],
             "messages": [{
                 "id": "require_empty_hand",
-                "message": "§e你需要空手右键才能捡起它。"
+                "message": "§eYou can only pick it up with an empty hand."
             }]
         },
         {
@@ -333,7 +333,7 @@
             "clicktype": "break",
             "messages": [{
                 "id": "success",
-                "message": "§e你无法徒手获取木头！§6关于如何获取木头，请参阅整合包指导手册。"
+                "message": "§eYou can't punch trees with bare hands! For how to get wood, see the modpack guide book which is placed in your hotbar on first join."
             }],
             "drops": [{
                 "name": "thermalfoundation:material",
@@ -366,7 +366,7 @@
             }],
             "messages": [{
                 "id": "require_empty_hand",
-                "message": "§e你需要空手右键才能捡起它。"
+                "message": "§eYou can only pick it up with an empty hand."
             }]
         },
         {
@@ -381,7 +381,7 @@
             "clicktype": "break",
             "messages": [{
                 "id": "success",
-                "message": "§e你无法徒手获取木头！§6关于如何获取木头，请参阅整合包指导手册。"
+                "message": "§eYou can't punch trees with bare hands! For how to get wood, see the modpack guide book which is placed in your hotbar on first join."
             }],
             "drops": [{
                 "name": "thermalfoundation:material",

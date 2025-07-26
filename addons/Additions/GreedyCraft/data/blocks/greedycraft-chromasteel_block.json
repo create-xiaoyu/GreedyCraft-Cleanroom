@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§d炫钢块",
+    "name": "§dChromasteel Block",
     "ore_dict": "blockChromasteel",
     "type": "additions:block_simple"
   },
-  "name": "§d炫钢块",
+  "name": "§dChromasteel Block",
   "material": "minecraft:metal",
   "map_color": "minecraft:tnt",
   "hardness": 60.0,

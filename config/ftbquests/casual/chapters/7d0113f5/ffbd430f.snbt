@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "871bef6c",
 		type: "observation",
-		title: "观察坩埚",
+		title: "Observe a Crucible",
 		icon: "thaumcraft:crucible",
 		match_type: "block_id",
 		match: "thaumcraft:crucible",

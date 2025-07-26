@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§6永燃矿",
+    "name": "§6Infernium Ore",
     "ore_dict": "oreInfernium",
     "type": "additions:block_simple"
   },
-  "name": "§6永燃矿",
+  "name": "§6Infernium Ore",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

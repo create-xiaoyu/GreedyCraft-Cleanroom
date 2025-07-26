@@ -27,7 +27,7 @@
 	{
 		uid: "acacffc2",
 		type: "command",
-		title: "修复研究无法完成的bug",
+		title: "Fix a bug that caused some research to be impossible to complete",
 		auto: "no_toast",
 		command: "/thaumcraft research @p TAR_MITHRILLIUM_SMELTER"
 	}]

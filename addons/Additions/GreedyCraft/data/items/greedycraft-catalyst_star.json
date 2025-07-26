@@ -1,8 +1,8 @@
 {
-  "name": "§b催化之星",
+  "name": "§bCatalyst Star",
   "shines": true,
   "burn_time": 144000,
   "is_beacon_payment": true,
-  "tooltip": "§e极好的催化剂。",
+  "tooltip": "§eA super efficient catalyst.",
   "type": "additions:simple"
 }

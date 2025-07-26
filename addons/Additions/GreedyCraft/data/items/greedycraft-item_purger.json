@@ -1,8 +1,8 @@
 {
-  "name": "§6超时空扫帚",
+  "name": "§6Item Purger",
   "tooltip": [
-    "§b右键来清理所有掉落物品。",
-    "§b供提升性能用。"
+    "§bRight click to clear all ground items.",
+    "§bUsed for increasing performance."
   ],
   "max_stack": 1,
   "type": "additions:simple"

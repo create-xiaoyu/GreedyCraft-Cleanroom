@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§a胞嘧矿",
+    "name": "§aCytosinite Ore",
     "ore_dict": "oreCytosinite",
     "type": "additions:block_simple"
   },
-  "name": "§a胞嘧矿",
+  "name": "§aCytosinite Ore",
   "material": "minecraft:dirt",
   "map_color": "minecraft:lime",
   "hardness": 3.0,

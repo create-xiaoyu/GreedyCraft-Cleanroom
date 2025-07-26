@@ -1,7 +1,7 @@
 {
-  "name": "§d重生之锚",
+  "name": "§dAnchor of Resurrection",
   "shines": true,
-  "tooltip": "§e右键以设定当前位置为出生点",
+  "tooltip": "§eRight click to set current location as spawn point.",
   "ore_dict": "dungeonLootTier3",
   "type": "additions:simple"
 }

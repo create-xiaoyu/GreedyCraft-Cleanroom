@@ -1,8 +1,8 @@
 {
     "weight": 60,
     "type": "tconevo:tool",
-    "name": "泰拉之刃",
-    "lore": "我是不是走错游戏了？",
+    "name": "Terra Blade",
+    "lore": "Did I just go into the wrong game?",
     "tool": "broadsword",
     "materials": [
         "diamond",

@@ -1,6 +1,6 @@
 {
-  "name": "§f简易手斧",
-  "tooltip": "§7...能用就行。",
+  "name": "§fCrude Hatchet",
+  "tooltip": "§7...It works!",
   "max_stack": 1,
   "attribute_modifiers": [
     {

@@ -12,7 +12,7 @@
 	tasks: [{
 		uid: "61616b8a",
 		type: "observation",
-		title: "§9看向一块基岩",
+		title: "§9Simply look at a bedrock",
 		icon: "minecraft:bedrock",
 		match_type: "block_id",
 		match: "minecraft:bedrock",

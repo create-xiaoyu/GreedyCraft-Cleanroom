@@ -4,7 +4,7 @@
  */
 
 #priority 950
-
+#no_fix_recipe_book
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -468,6 +468,7 @@ GameStagesUtil.stageInfinity.addIngredients([
     <ambience:ocarina>,
     <additions:greedycraft-creative_soul>,
     <additions:greedycraft-difficulty_changer>,
+    <additions:greedycraft-creative_controller>,
     <minecraft:diamond_sword>.withTag({ench: [{lvl: 10 as short}]}),
     <minecraft:diamond_pickaxe>.withTag({ench: [{lvl: 10 as short}]}),
     <minecraft:diamond_helmet>.withTag({ench: [{lvl: 10 as short}]}),
@@ -503,6 +504,9 @@ GameStagesUtil.stageGraduated.addIngredients([
     <projecte:item.pe_tome>,
     <thermalfoundation:upgrade:256>,
     <chancecubes:creative_pendant>,
+    <wct:wct_creative>,
+    <wit:wit_creative>,
+    <wft:wft_creative>,
     <storagedrawers:upgrade_creative:1>,
     <extrautils2:spike_creative>,
     <extrautils2:creativechest>,
@@ -510,7 +514,9 @@ GameStagesUtil.stageGraduated.addIngredients([
     <randomthings:creativeplayerinterface>,
     <draconicevolution:creative_exchanger>,
     <randomthings:spectrecoil_genesis>,
-    <additions:greedycraft-ocd_certificate>
+    <additions:greedycraft-ocd_certificate>,
+    <ae2wtlib:wut_creative>,
+    <ae2wtlib:wut_creative>.withTag({StoredTerminals: [{ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wct:wct_creative", Count: 1 as byte, Damage: 0 as short}, {ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wit:wct_creative", Count: 1 as byte, Damage: 0 as short}, {ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wit:wit_creative", Count: 1 as byte, Damage: 0 as short}, {ForgeCaps: {"astralsorcery:cap_item_amulet_holder": {}}, id: "wft:wft_creative", Count: 1 as byte, Damage: 0 as short}], IsInRange: 0 as byte, SelectedTerminal: 0, internalCurrentPower: 1600000.0})
 ]);
 
 GameStagesUtil.stageAbyssalConquerer.addIngredients([
@@ -664,8 +670,8 @@ GameStagesUtil.stageSkilledEngineer.addIngredients([
     <ore:nuggetEnderium>,
     <ore:dustEnderium>,
     <ore:gearEnderium>,
-    <ore:gemGelidCrystal>,
-    <ore:blockGelidCrystal>,
+    <ore:gemGelid>,
+    <ore:blockGelidGem>,
     <ore:blockGelidEnderium>,
     <ore:ingotGelidEnderium>,
     <ore:nuggetGelidEnderium>,

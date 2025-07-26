@@ -1,8 +1,8 @@
 {
   "weight": 240,
   "type": "tconevo:armour",
-  "name": "相位之靴",
-  "lore": "借助风的力量使你直步青云。",
+  "name": "Phase Boots",
+  "lore": "Makes you walk on wind.",
   "armour": "boots",
   "materials": [
     "tofumetal",

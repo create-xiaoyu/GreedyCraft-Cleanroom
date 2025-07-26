@@ -1,0 +1,14 @@
+{
+    "name": "§aSponsors' Items",
+    "tab_item": {
+        "item": "additions:tcsponsors-sponsors_chest"
+    },
+    "items": [
+        {
+            "item": "additions:tcsponsors-sponsors_chest"
+        },
+        {
+            "item": "additions:tcsponsors-sponsor_chest_fragment"
+        }
+    ]
+}

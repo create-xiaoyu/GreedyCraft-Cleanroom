@@ -1,8 +1,8 @@
 {
-  "name": "§9史莱姆皇冠",
+  "name": "§9Slime Crown",
   "tooltip": [
-    "§e召唤史莱姆之神",
-    "§6右键使用"
+    "§eSummons the Slime God",
+    "§6Right click to use"
   ],
   "type": "additions:simple"
 }

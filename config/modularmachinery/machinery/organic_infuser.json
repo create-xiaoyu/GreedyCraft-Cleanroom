@@ -1,6 +1,6 @@
 {
     "registryname": "organic_infuser",
-    "localizedname": "有机灌注机",
+    "localizedname": "Organic Infuser",
     "color": "8bc34a",
     "modifiers": [
         {
@@ -8,7 +8,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以提高25%种子产出率及副产品产出率！",
+            "description": "Replace the block right on top of the controller into this block to increase byproduct production rate by 25%!",
             "modifier": {
                 "io": "output",
                 "target": "item",
@@ -22,7 +22,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以提高50%种子产出率及副产品产出率！",
+            "description": "Replace the block right on top of the controller into this block to increase byproduct production rate by 50%!",
             "modifier": {
                 "io": "output",
                 "target": "item",
@@ -36,7 +36,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以提高75%种子产出率及副产品产出率！",
+            "description": "Replace the block right on top of the controller into this block to increase byproduct production rate by 75%!",
             "modifier": {
                 "io": "output",
                 "target": "item",
@@ -50,7 +50,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以提高100%种子产出率及副产品产出率！",
+            "description": "Replace the block right on top of the controller into this block to increase byproduct production rate by 100%!",
             "modifier": {
                 "io": "output",
                 "target": "item",

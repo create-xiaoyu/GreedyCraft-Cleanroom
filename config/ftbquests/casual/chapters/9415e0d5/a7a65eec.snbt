@@ -5,7 +5,7 @@
 	y: 3.5d,
 	description: "{greedycraft.quest.a7a65eec.desc}",
 	text: [
-		"§c注意：上床的时候需要按住Shift"
+		"§cNote: Try to hold shift if you can't get on a hammock"
 	],
 	tasks: [{
 		uid: "b4f09193",

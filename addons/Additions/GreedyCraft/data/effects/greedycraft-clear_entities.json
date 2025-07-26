@@ -23,7 +23,7 @@
       "type": "additions:command"
     },
     {
-      "command": "/tellraw @a {\"text\": \"§c§o已清除所有实体。\"}",
+      "command": "/tellraw @a {\"text\": \"§c§oCleared all entities.\"}",
       "type": "additions:command"
     },
     {

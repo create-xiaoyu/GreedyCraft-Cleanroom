@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "bd2911da",
 		type: "observation",
-		title: "§9将压印器放在地上后看向它！",
+		title: "§9Put a Inscriber on the ground and look at it!",
 		icon: "appliedenergistics2:inscriber",
 		match_type: "block_id",
 		match: "appliedenergistics2:inscriber",

@@ -1,15 +1,15 @@
 {
   "item_block": {
-    "name": "§c无§e尽§a块§b块",
+    "name": "§cBlock §eof §aBlock §bof §dInfinity",
     "shines": true,
     "tooltip": [
-      "§d§o你认真的？",
-      "§7可以用作信标基座（如果你想的话）"
+      "§d§oSeriously?",
+      "§7Can be used as beacon base (if you want)"
     ],
     "ore_dict": "blockCompressedInfinity",
     "type": "additions:block_simple"
   },
-  "name": "§c无§e尽§a块§b块",
+  "name": "§cBlock §eof §aBlock §bof §dInfinity",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.stone.break",

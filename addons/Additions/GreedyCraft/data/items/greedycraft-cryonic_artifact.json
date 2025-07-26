@@ -1,9 +1,9 @@
 {
-  "name": "§b极寒圣物",
+  "name": "§bCryonic Artifact",
   "shines": true,
   "tooltip": [
-    "§3传说中就连太阳神也不能抵御它的寒冷。",
-    "§3右键可以消耗该物品并使20格以内的烈阳巨灵血量降至1。"
+    "§3It is cold enough to freeze the sun.",
+    "§3Right click to consume and nerf all nearby Sun Spirits to 1HP."
   ],
   "max_stack": 1,
   "type": "additions:simple"

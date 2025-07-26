@@ -1,8 +1,8 @@
 {
-  "name": "§c贪婪整合包 §b§o从入门到入土",
+  "name": "§b§oIntroduction to §cCreedyGraft",
   "tooltip": [
-    "§6这本书上只写着一行字：",
-    "§b“为了你的头发，放弃吧。“"
+    "§6There's only one line of text on it:",
+    "§b\"Give up, before you become bald.\""
   ],
   "max_stack": 1,
   "type": "additions:simple"

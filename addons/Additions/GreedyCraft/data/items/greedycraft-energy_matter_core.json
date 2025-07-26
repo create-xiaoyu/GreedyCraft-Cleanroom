@@ -1,6 +1,6 @@
 {
-  "name": "§b质能转换核心",
+  "name": "§bEnergy-Matter Conversion Core",
   "shines": true,
-  "tooltip": "§eE\u003dmc²，显而易见。",
+  "tooltip": "§eE\u003dmc², obviously.",
   "type": "additions:simple"
 }

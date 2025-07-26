@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§9聚合矩阵块",
+    "name": "§9Coalescence Matrix Block",
     "ore_dict": "blockFusionMatrix",
     "type": "additions:block_simple"
   },
-  "name": "§9聚合矩阵块",
+  "name": "§9Coalescence Matrix Block",
   "material": "minecraft:metal",
   "map_color": "minecraft:light_gray",
   "hardness": 3.0,

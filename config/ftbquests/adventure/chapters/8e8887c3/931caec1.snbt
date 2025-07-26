@@ -5,9 +5,9 @@
 	shape: "rsquare",
 	description: "{greedycraft.quest.931caec1.desc}",
 	text: [
-		"请打开并仔细阅读放置在你物品栏中的整合包指导手册。",
-		"它将为你进行游戏提供很大的帮助。",
-		"如果弄丢了它，可以使用3个木棍再制作一本。"
+		"Please read the modpack guide book in your hotbar carefully.",
+		"It provides a lot of help for how to progress in this game",
+		"If you somehow lost it, you can make another one with 3 wooden sticks."
 	],
 	dependencies: [
 		"286f21d3"

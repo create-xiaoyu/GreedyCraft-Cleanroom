@@ -1,7 +1,7 @@
 {
-  "name": "§6滑稽果",
+  "name": "§6Emoji Fruit",
   "tooltip": [
-    "§e滑稽树上滑稽果，滑稽树下你和我。"
+    "§eGives you health boost."
   ],
   "max_stack": 64,
   "hunger": 10,

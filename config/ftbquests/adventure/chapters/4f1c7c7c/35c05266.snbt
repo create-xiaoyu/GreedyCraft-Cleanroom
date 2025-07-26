@@ -1,5 +1,5 @@
 {
-	title: "§6切换为: §6§n冒险模式",
+	title: "§6Switch to: §6§nAdventure Mode",
 	icon: {
 		id: "minecraft:diamond_sword"
 	},
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "666dc188",
 		type: "checkmark",
-		title: "§6点击以切换为冒险模式"
+		title: "§6Click this button to switch to Adventure Mode"
 	}],
 	rewards: [{
 		uid: "2a015ae7",

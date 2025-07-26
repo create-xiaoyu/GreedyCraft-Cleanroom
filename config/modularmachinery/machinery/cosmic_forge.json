@@ -1,6 +1,6 @@
 {
     "registryname": "cosmic_forge",
-    "localizedname": "寰宇熔炉",
+    "localizedname": "Cosmic Forge",
     "color": "424242",
     "modifiers": [
         {
@@ -8,7 +8,7 @@
             "x": 0,
             "y": -1,
             "z": 0,
-            "description": "将控制器下方紧挨着的方块换成此方块以降低配方制作时间至75%！",
+            "description": "Replace the block right under the controller into this block to reduce crafting time to 75%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -21,7 +21,7 @@
             "x": 0,
             "y": -1,
             "z": 0,
-            "description": "将控制器下方紧挨着的方块换成此方块以降低配方制作时间至66%！",
+            "description": "Replace the block right under the controller into this block to reduce crafting time to 66%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -34,7 +34,7 @@
             "x": 0,
             "y": -1,
             "z": 0,
-            "description": "将控制器下方紧挨着的方块换成此方块以降低配方制作时间至50%！",
+            "description": "Replace the block right under the controller into this block to reduce crafting time to 50%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -47,7 +47,7 @@
             "x": 0,
             "y": -1,
             "z": 0,
-            "description": "将控制器下方紧挨着的方块换成此方块以降低配方制作时间至33%！",
+            "description": "Replace the block right under the controller into this block to reduce crafting time to 33%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",

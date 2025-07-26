@@ -1,6 +1,6 @@
 
 {
-	title: "随机奖励 §d[史诗]",
+	title: "Loot Crate §d[EPIC]",
 	loot_size: 1,
 	hide_tooltip: true,
 	use_title: true,
@@ -237,7 +237,7 @@
 	},
 	{
 		item: {
-			id: "aeadditions:storage.physical",
+			id: "extracells:storage.physical",
 			tag: {
 				upgrades: {},
 				config: {},
@@ -247,7 +247,7 @@
 	},
 	{
 		item: {
-			id: "aeadditions:storage.physical",
+			id: "extracells:storage.physical",
 			tag: {
 				upgrades: {},
 				config: {},
@@ -450,144 +450,144 @@
 																																																	},
 																																																	display: {
 																																																		Lore: [
-																																																			"§b§o看来你已经到达了终点。"
+																																																			"§b§oLooks like you've reached an end."
 																																																		],
-																																																		Name: "§d§o最后的箱子"
+																																																		Name: "§d§oThe Last Box"
 																																																	}
 																																																}
 																																															}]
 																																														},
 																																														display: {
 																																															Lore: [
-																																																"§b禁止套娃！！"
+																																																"§bjava.lang.StackOverflowError"
 																																															],
-																																															Name: "§c套娃之箱"
+																																															Name: "§cBox of Recursion"
 																																														}
 																																													}
 																																												}]
 																																											},
 																																											display: {
 																																												Lore: [
-																																													"§b禁止套娃！！"
+																																													"§bjava.lang.StackOverflowError"
 																																												],
-																																												Name: "§c套娃之箱"
+																																												Name: "§cBox of Recursion"
 																																											}
 																																										}
 																																									}]
 																																								},
 																																								display: {
 																																									Lore: [
-																																										"§b禁止套娃！！"
+																																										"§bjava.lang.StackOverflowError"
 																																									],
-																																									Name: "§c套娃之箱"
+																																									Name: "§cBox of Recursion"
 																																								}
 																																							}
 																																						}]
 																																					},
 																																					display: {
 																																						Lore: [
-																																							"§b禁止套娃！！"
+																																							"§bjava.lang.StackOverflowError"
 																																						],
-																																						Name: "§c套娃之箱"
+																																						Name: "§cBox of Recursion"
 																																					}
 																																				}
 																																			}]
 																																		},
 																																		display: {
 																																			Lore: [
-																																				"§b禁止套娃！！"
+																																				"§bjava.lang.StackOverflowError"
 																																			],
-																																			Name: "§c套娃之箱"
+																																			Name: "§cBox of Recursion"
 																																		}
 																																	}
 																																}]
 																															},
 																															display: {
 																																Lore: [
-																																	"§b禁止套娃！！"
+																																	"§bjava.lang.StackOverflowError"
 																																],
-																																Name: "§c套娃之箱"
+																																Name: "§cBox of Recursion"
 																															}
 																														}
 																													}]
 																												},
 																												display: {
 																													Lore: [
-																														"§b禁止套娃！！"
+																														"§bjava.lang.StackOverflowError"
 																													],
-																													Name: "§c套娃之箱"
+																													Name: "§cBox of Recursion"
 																												}
 																											}
 																										}]
 																									},
 																									display: {
 																										Lore: [
-																											"§b禁止套娃！！"
+																											"§bjava.lang.StackOverflowError"
 																										],
-																										Name: "§c套娃之箱"
+																										Name: "§cBox of Recursion"
 																									}
 																								}
 																							}]
 																						},
 																						display: {
 																							Lore: [
-																								"§b禁止套娃！！"
+																								"§bjava.lang.StackOverflowError"
 																							],
-																							Name: "§c套娃之箱"
+																							Name: "§cBox of Recursion"
 																						}
 																					}
 																				}]
 																			},
 																			display: {
 																				Lore: [
-																					"§b禁止套娃！！"
+																					"§bjava.lang.StackOverflowError"
 																				],
-																				Name: "§c套娃之箱"
+																				Name: "§cBox of Recursion"
 																			}
 																		}
 																	}]
 																},
 																display: {
 																	Lore: [
-																		"§b禁止套娃！！"
+																		"§bjava.lang.StackOverflowError"
 																	],
-																	Name: "§c套娃之箱"
+																	Name: "§cBox of Recursion"
 																}
 															}
 														}]
 													},
 													display: {
 														Lore: [
-															"§b禁止套娃！！"
+															"§bjava.lang.StackOverflowError"
 														],
-														Name: "§c套娃之箱"
+														Name: "§cBox of Recursion"
 													}
 												}
 											}]
 										},
 										display: {
 											Lore: [
-												"§b禁止套娃！！"
+												"§bjava.lang.StackOverflowError"
 											],
-											Name: "§c套娃之箱"
+											Name: "§cBox of Recursion"
 										}
 									}
 								}]
 							},
 							display: {
 								Lore: [
-									"§b禁止套娃！！"
+									"§bjava.lang.StackOverflowError"
 								],
-								Name: "§c套娃之箱"
+								Name: "§cBox of Recursion"
 							}
 						}
 					}]
 				},
 				display: {
 					Lore: [
-						"§b禁止套娃！！"
+						"§bjava.lang.StackOverflowError"
 					],
-					Name: "§c套娃之箱"
+					Name: "§cBox of Recursion"
 				}
 			}
 		}
@@ -754,7 +754,7 @@
 			id: "minecraft:written_book",
 			tag: {
 				pages: [
-					"{\"text\":\"§c实验记录 §6#-2147483647\\n\\n§k//// HELP US!\\n§d§k//// OOUR SPECIES IS IN GREAT DANGER\\n§k§4§c§k//// HALF OF OUR PEOPLE WERE ERASED IN THE PAST FEW HOURS\\n§2§k//// SEEK FOR COMMUNICATION WITH THE INTRUDER IMMEDIATELY\\n\\n§k§4§k - UNITED GOVERNMENT\\n§k§9§k§9§k- OPERATO\"}"
+					"{\"text\":\"§cExperiment Log §6#-2147483647\\n\\n§k//// HELP US!\\n§d§k//// OOUR SPECIES IS IN GREAT DANGER\\n§k§4§c§k//// HALF OF OUR PEOPLE WERE ERASED IN THE PAST FEW HOURS\\n§2§k//// SEEK FOR COMMUNICATION WITH THE INTRUDER IMMEDIATELY\\n\\n§k§4§k - UNITED GOVERNMENT\\n§k§9§k§9§k- OPERATOR\"}"
 				],
 				author: "J",
 				title: "§b§kEMERGENCY!§6",
@@ -862,7 +862,7 @@
 	}],
 	loot_crate: {
 		string_id: "loot_level_3",
-		item_name: "奖励箱 §d[史诗]",
+		item_name: "Loot Crate §d[EPIC]",
 		color: 16733695,
 		drops: {
 			boss: 0,

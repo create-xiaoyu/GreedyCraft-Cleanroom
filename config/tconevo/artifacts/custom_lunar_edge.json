@@ -1,8 +1,8 @@
 {
   "weight": 750,
   "type": "tconevo:tool",
-  "name": "月刃",
-  "lore": "代表月亮消灭你！",
+  "name": "Lunar Edge",
+  "lore": "The power of the moon!",
   "tool": "broadsword",
   "materials": [
     "gold",

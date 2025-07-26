@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§e远古残骸",
+    "name": "§eAncient Debris",
     "ore_dict": "oreAncientDebris",
     "type": "additions:block_simple"
   },
-  "name": "§e远古残骸",
+  "name": "§eAncient Debris",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

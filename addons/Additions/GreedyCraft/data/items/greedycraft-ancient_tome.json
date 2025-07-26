@@ -1,10 +1,10 @@
 {
-  "name": "§b远古书卷",
+  "name": "§bAncient Tome",
   "shines": true,
   "tooltip": [
-    "§e经过不懈的努力，你终于修复了这古人的遗物",
-    "§e上面的文字是由某种你看不懂的奇特语言写成",
-    "§e尽管如此，你相信这个遗物将大有用途"
+    "§eYou have finally restored the artifact of the ancients.",
+    "§eIt's all written in a strange language you don't understand.",
+    "§eBut you still think this is gonna be very useful."
   ],
   "type": "additions:simple"
 }

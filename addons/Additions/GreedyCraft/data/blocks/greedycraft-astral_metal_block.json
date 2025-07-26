@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§5星辰块",
+    "name": "§5Astral Metal Block",
     "ore_dict": "blockAstralMetal",
     "type": "additions:block_simple"
   },
-  "name": "§5星辰块",
+  "name": "§5Astral Metal Block",
   "material": "minecraft:metal",
   "map_color": "minecraft:magenta",
   "hardness": 5.0,

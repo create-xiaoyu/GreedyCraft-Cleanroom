@@ -1,8 +1,8 @@
 {
     "weight": 60,
     "type": "tconevo:tool",
-    "name": "无名英雄之剑",
-    "lore": "所有辉煌的史诗都伴随着牺牲。",
+    "name": "Sword of the unnamed hero",
+    "lore": "All brilliant epics come with sacrifices.",
     "tool": "longbow",
     "materials": [
         "emerald_plustic",

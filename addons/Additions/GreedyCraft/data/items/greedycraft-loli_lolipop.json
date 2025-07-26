@@ -1,9 +1,8 @@
 {
-  "name": "§d萝莉牌棒棒糖",
+  "name": "§dLoli™ Lolipop",
   "tooltip": [
-    "§b§o上面写着一行字：“诱拐专用”",
-    "§6可以用于驯服或诱拐女仆",
-    "§e吃掉后可以将周围10格内女仆的最大生命值同步为自己最大生命值的4倍"
+    "§6Used to tame or lore little maids.",
+    "§eWhen you eat it, all nearby maids will be set to 4x of your health."
   ],
   "ore_dict": "foodLolipop",
   "hunger": 10,

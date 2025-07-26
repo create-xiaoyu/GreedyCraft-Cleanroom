@@ -4,7 +4,7 @@
 	y: 5.5d,
 	description: "{greedycraft.quest.22287c8d.desc}",
 	text: [
-		"破坏草丛时有小概率获得"
+		"Obtained from punching grass at a low chance"
 	],
 	tasks: [{
 		uid: "23c6907d",

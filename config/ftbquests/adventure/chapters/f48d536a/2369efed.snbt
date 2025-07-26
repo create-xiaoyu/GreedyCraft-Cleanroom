@@ -4,7 +4,7 @@
 	y: 0.0d,
 	description: "{greedycraft.quest.2369efed.desc}",
 	text: [
-		"§e你可以制作阴影怪物的刷怪蛋来快速获取阴影宝石，配方请查看整合包手册的杂项配方。"
+		"§eIf you can't find shadow mobs you can craft their spawn eggs! View the modpack guide book for recipe."
 	],
 	dependencies: [
 		"ad76507c"

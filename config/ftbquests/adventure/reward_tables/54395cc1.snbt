@@ -1,5 +1,5 @@
 {
-	title: "随机奖励 §9[稀有]",
+	title: "Loot Crate §9[RARE]",
 	loot_size: 1,
 	hide_tooltip: true,
 	use_title: true,
@@ -46,7 +46,7 @@
 		item: "minecraft:end_crystal"
 	},
 	{
-		item: "appliedenergistics2:material 1 59",
+		item: "ae2wtlib:infinity_booster_card",
 		count: 10,
 		random_bonus: 10
 	},
@@ -245,9 +245,9 @@
 				CustomPotionColor: 720859,
 				display: {
 					Lore: [
-						"§a感受疾风吧！"
+						"§aFeel the speed!"
 					],
-					Name: "§b§o卡其脱离太"
+					Name: "§b§oDeja Vu"
 				}
 			}
 		}
@@ -288,9 +288,9 @@
 				}],
 				display: {
 					Lore: [
-						"§d§o你不要过来啊！！！"
+						"§d§oSTAY THE FRICK AWAY FROM ME!!"
 					],
-					Name: "§b击退之杖"
+					Name: "§bWand of Knockback"
 				}
 			}
 		}
@@ -403,144 +403,144 @@
 																																																	},
 																																																	display: {
 																																																		Lore: [
-																																																			"§b§o看来你已经到达了终点。"
+																																																			"§b§oLooks like you've reached an end."
 																																																		],
-																																																		Name: "§d§o最后的箱子"
+																																																		Name: "§d§oThe Last Box"
 																																																	}
 																																																}
 																																															}]
 																																														},
 																																														display: {
 																																															Lore: [
-																																																"§b禁止套娃！！"
+																																																"§bjava.lang.StackOverflowError"
 																																															],
-																																															Name: "§c套娃之箱"
+																																															Name: "§cBox of Recursion"
 																																														}
 																																													}
 																																												}]
 																																											},
 																																											display: {
 																																												Lore: [
-																																													"§b禁止套娃！！"
+																																													"§bjava.lang.StackOverflowError"
 																																												],
-																																												Name: "§c套娃之箱"
+																																												Name: "§cBox of Recursion"
 																																											}
 																																										}
 																																									}]
 																																								},
 																																								display: {
 																																									Lore: [
-																																										"§b禁止套娃！！"
+																																										"§bjava.lang.StackOverflowError"
 																																									],
-																																									Name: "§c套娃之箱"
+																																									Name: "§cBox of Recursion"
 																																								}
 																																							}
 																																						}]
 																																					},
 																																					display: {
 																																						Lore: [
-																																							"§b禁止套娃！！"
+																																							"§bjava.lang.StackOverflowError"
 																																						],
-																																						Name: "§c套娃之箱"
+																																						Name: "§cBox of Recursion"
 																																					}
 																																				}
 																																			}]
 																																		},
 																																		display: {
 																																			Lore: [
-																																				"§b禁止套娃！！"
+																																				"§bjava.lang.StackOverflowError"
 																																			],
-																																			Name: "§c套娃之箱"
+																																			Name: "§cBox of Recursion"
 																																		}
 																																	}
 																																}]
 																															},
 																															display: {
 																																Lore: [
-																																	"§b禁止套娃！！"
+																																	"§bjava.lang.StackOverflowError"
 																																],
-																																Name: "§c套娃之箱"
+																																Name: "§cBox of Recursion"
 																															}
 																														}
 																													}]
 																												},
 																												display: {
 																													Lore: [
-																														"§b禁止套娃！！"
+																														"§bjava.lang.StackOverflowError"
 																													],
-																													Name: "§c套娃之箱"
+																													Name: "§cBox of Recursion"
 																												}
 																											}
 																										}]
 																									},
 																									display: {
 																										Lore: [
-																											"§b禁止套娃！！"
+																											"§bjava.lang.StackOverflowError"
 																										],
-																										Name: "§c套娃之箱"
+																										Name: "§cBox of Recursion"
 																									}
 																								}
 																							}]
 																						},
 																						display: {
 																							Lore: [
-																								"§b禁止套娃！！"
+																								"§bjava.lang.StackOverflowError"
 																							],
-																							Name: "§c套娃之箱"
+																							Name: "§cBox of Recursion"
 																						}
 																					}
 																				}]
 																			},
 																			display: {
 																				Lore: [
-																					"§b禁止套娃！！"
+																					"§bjava.lang.StackOverflowError"
 																				],
-																				Name: "§c套娃之箱"
+																				Name: "§cBox of Recursion"
 																			}
 																		}
 																	}]
 																},
 																display: {
 																	Lore: [
-																		"§b禁止套娃！！"
+																		"§bjava.lang.StackOverflowError"
 																	],
-																	Name: "§c套娃之箱"
+																	Name: "§cBox of Recursion"
 																}
 															}
 														}]
 													},
 													display: {
 														Lore: [
-															"§b禁止套娃！！"
+															"§bjava.lang.StackOverflowError"
 														],
-														Name: "§c套娃之箱"
+														Name: "§cBox of Recursion"
 													}
 												}
 											}]
 										},
 										display: {
 											Lore: [
-												"§b禁止套娃！！"
+												"§bjava.lang.StackOverflowError"
 											],
-											Name: "§c套娃之箱"
+											Name: "§cBox of Recursion"
 										}
 									}
 								}]
 							},
 							display: {
 								Lore: [
-									"§b禁止套娃！！"
+									"§bjava.lang.StackOverflowError"
 								],
-								Name: "§c套娃之箱"
+								Name: "§cBox of Recursion"
 							}
 						}
 					}]
 				},
 				display: {
 					Lore: [
-						"§b禁止套娃！！"
+						"§bjava.lang.StackOverflowError"
 					],
-					Name: "§c套娃之箱"
+					Name: "§cBox of Recursion"
 				}
 			}
 		}
@@ -913,19 +913,19 @@
 				}],
 				display: {
 					Lore: [
-						"§9+2147483647 近战伤害",
-						"§7锋利 32767",
-						"§7耐久 32767",
-						"§7抢夺 32767",
-						"§7火焰附加 32767",
-						"§7击退 32767",
-						"§7亡灵杀手 32767",
-						"§7节肢杀手 32767",
-						"§b无法破坏",
-						"§d有0.0000114514%概率从奖励箱获得",
-						"§0§o以上均为胡扯§r"
+						"§9+2147483647 Melee Damage",
+						"§7Sharpness 32767",
+						"§7Unbreaking 32767",
+						"§7Looting 32767",
+						"§7Fire Aspect 32767",
+						"§7Knockback 32767",
+						"§7Smite 32767",
+						"§7Bane of Arthropods 32767",
+						"§bUnbreakable",
+						"§dDrop chance is 0.000042069% from loot crates",
+						"§0§oAll of above are bullshit§r"
 					],
-					Name: "§c至§6尊§e欧§a皇§b之§9剑"
+					Name: "§4§lS§c§lw§6§lo§e§lr§2§ld§a§l §b§lo§3§lf§1§l §9§lt§d§lh§4§le§c§l §6§lR§e§lN§2§lG§a§l §b§lG§3§lo§9§ld"
 				}
 			}
 		}
@@ -990,7 +990,7 @@
 			id: "minecraft:spawn_egg",
 			tag: {
 				display: {
-					Name: "§eTCreopargh§b的刷怪蛋"
+					Name: "§eTCreopargh§b's spawning egg"
 				},
 				EntityTag: {
 					Username: "TCreopargh",
@@ -1080,9 +1080,9 @@
 				}],
 				display: {
 					Lore: [
-						"§d§o你不要过来啊！！！"
+						"§d§oSTAY THE FRICK AWAY FROM ME!!"
 					],
-					Name: "§b击退之杖"
+					Name: "§bWand of Knockback"
 				}
 			}
 		}
@@ -1103,9 +1103,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"§4§o这把剑会违抗它主人的意愿。"
+						"§4§oThis sword will disobey the wills of its master."
 					],
-					Name: "§c叛徒之剑"
+					Name: "§cTraitor's Sword"
 				}
 			}
 		}
@@ -1212,7 +1212,7 @@
 	}],
 	loot_crate: {
 		string_id: "loot_level_2",
-		item_name: "奖励箱 §9[稀有]",
+		item_name: "Loot Crate §9[RARE]",
 		color: 5592575,
 		drops: {
 			boss: 0,

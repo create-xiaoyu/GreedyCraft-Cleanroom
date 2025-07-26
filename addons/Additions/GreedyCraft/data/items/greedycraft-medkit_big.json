@@ -1,9 +1,9 @@
 {
-  "name": "§2高级医疗包",
+  "name": "§2Advanced Medkit",
   "tooltip": [
-    "§7使用后提高20点最大生命值，持续40秒",
-    "§7并获得40秒的生命恢复III效果",
-    "§7同时回复32点生命值"
+    "§7Increases max health by 20 which lasts for 40s.",
+    "§7Gains 40s of regen III.",
+    "§7Restores 32 health."
   ],
   "hunger": 0,
   "saturation": 0.0,

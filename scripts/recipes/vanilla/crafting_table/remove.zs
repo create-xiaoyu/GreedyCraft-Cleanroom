@@ -4,7 +4,7 @@
  */
 
 #priority 4002
-
+#no_fix_recipe_book
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -120,7 +120,7 @@ val removedRecipes as IIngredient[] = [
     <cfm:item_log>,
     <projecte:item.pe_swrg>,
     <actuallyadditions:item_wings_of_the_bats>,
-    <ae2wut:wireless_universal_terminal>,
+    <extracells:terminal.universal.wireless>,
     <danknull:dank_null_panel_0>,
     <danknull:dank_null_panel_1>,
     <danknull:dank_null_panel_2>,
@@ -141,10 +141,10 @@ val removedRecipes as IIngredient[] = [
     <appliedenergistics2:material:36>,
     <appliedenergistics2:material:37>,
     <appliedenergistics2:material:38>,
-    <aeadditions:storage.component>,
-    <aeadditions:storage.component:1>,
-    <aeadditions:storage.component:2>,
-    <aeadditions:storage.component:3>,
+    <extracells:storage.component>,
+    <extracells:storage.component:1>,
+    <extracells:storage.component:2>,
+    <extracells:storage.component:3>,
     <projectex:energy_link>,
     <tconevo:material>,
     <cyclicmagic:sleeping_mat>,
@@ -158,7 +158,7 @@ val removedRecipes as IIngredient[] = [
     <hooked:hook>,
     <botania:enderhand>,
     <twilightforest:magic_map_focus>,
-//    <mekanism:transmitter:*>,
+    <mekanism:transmitter:*>,
     <extrabitmanipulation:bodypart_template>,
     <cyclicmagic:block_miner>,
     <cyclicmagic:slingshot_weapon>,
@@ -262,7 +262,7 @@ val removedRecipes as IIngredient[] = [
     <enderio:item_material:10>,
     <cyclicmagic:bundled_pipe>,
     <redstonearsenal:util.quiver_flux>,
-    <redstonerepository:util.feeder>,
+    <redstonerepository:feeder>,
     <forestry:bronze_pickaxe>,
     <mekanism:basicblock:8>,
     <buildinggadgets:buildingtool>,
@@ -309,7 +309,7 @@ val removedRecipes as IIngredient[] = [
     <extrautils2:itembuilderswand>,
     <lootbags:loot_storage>,
     <ambience:horn>,
-    <redstonerepository:util.ring_mining>,
+    <redstonerepository:ring_mining>,
     <hooked:hook:4>,
     <bloodmagic:soul_snare>,
     <cyclicmagic:magnet_anti_block>,

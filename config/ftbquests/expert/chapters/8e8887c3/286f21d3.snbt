@@ -12,7 +12,7 @@
 	shape: "rsquare",
 	description: "{greedycraft.quest.286f21d3.desc}",
 	text: [
-		"百科全书使用方法：按右键即可变成对应的教程书，对空气按左键可变回百科全书，潜行状态下按/键可以分离出来当前的书籍。"
+		"How to use the Omnipedia: right click to turn it into one of the books, left click air with it to turn it back. Press / on numpad when sneaking to throw the current book out of the Omnipedia."
 	],
 	tasks: [{
 		uid: "818939bc",
@@ -24,7 +24,7 @@
         icon: "akashictome:tome",
 		uid: "6fb9a7b7",
 		type: "command",
-		title: "§e点击以领取你的§d百科全书§e！",
+		title: "§eClick to claim your §dOmnipedia§e!",
 		command: "/giveomnipedia @p"
 	}]
 }

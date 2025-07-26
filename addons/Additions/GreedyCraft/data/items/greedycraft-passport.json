@@ -1,9 +1,9 @@
 {
-  "name": "§6通行令牌",
+  "name": "§6Passport",
   "tooltip": [
-    "§6右键以解锁所有游戏阶段",
-    "§6左键以锁上所有游戏阶段",
-    "§b创造模式专用"
+    "§6Right click to unlock all game stages",
+    "§6Left click to lock all game stages",
+    "§bCreative mode only"
   ],
   "type": "additions:simple"
 }

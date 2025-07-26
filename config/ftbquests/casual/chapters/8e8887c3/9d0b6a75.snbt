@@ -44,9 +44,9 @@
 	{
 		uid: "bc57a5dc",
 		type: "command",
-		title: "§5一个提醒",
+		title: "§5A notification",
 		auto: "enabled",
-		command: "/tellraw @p {\"text\":\"§5§o古龙的邪恶力量得到了释放。\"}"
+		command: "/tellraw @p {\"text\":\"§5§oThe evil spirit within the ancient dragon has been unleashed.\"}"
 	},
 	{
 		uid: "ad8ae4f4",

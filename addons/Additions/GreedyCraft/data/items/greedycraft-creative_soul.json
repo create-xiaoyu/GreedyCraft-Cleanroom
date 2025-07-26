@@ -1,9 +1,9 @@
 {
-  "name": "§b§ka§r §d创造之魂 §b§ka§r",
+  "name": "§b§ka§r §dCreative Soul §b§ka§r",
   "shines": true,
   "tooltip": [
-    "§5这仅仅是无限创造之力的一小部分。",
-    "§5即使如此，你还是感觉到了它蕴含的巨大能量。"
+    "§5Only a little bit of the infinite power of creativity.",
+    "§5You can already feel the pulse inside it."
   ],
   "type": "additions:simple"
 }

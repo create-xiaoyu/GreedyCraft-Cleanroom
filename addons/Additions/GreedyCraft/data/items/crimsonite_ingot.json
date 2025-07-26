@@ -1,5 +1,5 @@
 {
-  "name": "§4猩红锭",
+  "name": "§4Crimsonite Ingot",
   "is_beacon_payment": true,
   "ore_dict": "ingotCrimsonite",
   "type": "additions:simple"

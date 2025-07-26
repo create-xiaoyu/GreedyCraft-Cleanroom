@@ -1,6 +1,6 @@
 {
-  "name": "§e太阳图腾",
+  "name": "§eSun Totem",
   "shines": true,
-  "tooltip": "§eShift右键§c铸造祭坛§e以召唤§6太阳酋长",
+  "tooltip": "§eShift-right-click a §cSummoning Altar§e to summon §6Barako, the Sun Chief",
   "type": "additions:simple"
 }

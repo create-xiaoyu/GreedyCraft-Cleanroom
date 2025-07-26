@@ -1,8 +1,8 @@
 {
-  "name": "§a知识精华粒",
+  "name": "§aKnowledge Essence Nugget",
   "tooltip": [
-    "§7用于存储经验",
-    "§a拿在手上按右键可以使用并获得经验"
+    "§7Used to store XP",
+    "§aRight click to consume and gain XP"
   ],
   "ore_dict": "nuggetExperience",
   "type": "additions:simple"

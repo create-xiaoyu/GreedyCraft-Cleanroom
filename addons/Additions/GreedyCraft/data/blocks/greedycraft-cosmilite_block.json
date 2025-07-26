@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§5寰宇块",
+    "name": "§5Cosmilite Block",
     "ore_dict": "blockCosmilite",
     "type": "additions:block_simple"
   },
-  "name": "§5寰宇块",
+  "name": "§5Cosmilite Block",
   "material": "minecraft:metal",
   "map_color": "minecraft:purple",
   "hardness": 25.0,

@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§9电子块",
+    "name": "§9Block of Electronium",
     "ore_dict": "blockElectronium",
     "type": "additions:block_simple"
   },
-  "name": "§9电子块",
+  "name": "§9Block of Electronium",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

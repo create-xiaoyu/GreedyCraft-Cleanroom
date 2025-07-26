@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "0c62d7f4",
 		type: "item",
-		title: "任何金矿",
+		title: "Any Gold Ore",
 		items: [{
 			ForgeCaps: {
 				Parent: {

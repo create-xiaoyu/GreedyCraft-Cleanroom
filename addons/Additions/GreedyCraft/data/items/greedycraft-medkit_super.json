@@ -1,9 +1,9 @@
 {
-  "name": "§d超级医疗包",
+  "name": "§dSuper Medkit",
   "tooltip": [
-    "§7使用后提高80点最大生命值，持续60秒",
-    "§7并获得60秒的生命恢复V效果",
-    "§7同时回复64点生命值"
+    "§7Increases max health by 80 which lasts for 60s.",
+    "§7Gains 60s of regen V.",
+    "§7Restores 64 health."
   ],
   "hunger": 0,
   "saturation": 0.0,

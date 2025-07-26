@@ -4,7 +4,7 @@
  */
 
 #priority 90
-
+#no_fix_recipe_book
 
 import loottweaker.vanilla.loot.LootTables;
 import loottweaker.vanilla.loot.LootTable;
@@ -59,7 +59,7 @@ LootUtil.addItem(<thermalfoundation:material:161>, 6, 1, 2, 12);
 LootUtil.addItem(<thermalfoundation:material:162>, 6, 1, 2, 12);
 LootUtil.addItem(<additions:chromium_ingot>, 5, 1, 4, 12);
 LootUtil.addItem(<projecte:item.pe_fuel>, 3, 1, 2, 6);
-LootUtil.addItem(<appliedenergistics2:material:59>, 12, 1, 1, 8);
+LootUtil.addItem(<ae2wtlib:infinity_booster_card>, 12, 1, 1, 8);
 LootUtil.addItem(<progressivebosses:nether_star_shard>, 2, 1, 4, 18);
 LootUtil.addItem(<thaumcraft:sanity_soap>, 2, 1, 2, 8);
 LootUtil.addItem(<minecraft:emerald>, 10, 1, 2, 6);

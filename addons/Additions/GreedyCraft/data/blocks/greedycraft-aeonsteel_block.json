@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§3恒钢块",
+    "name": "§3Aeonsteel Block",
     "ore_dict": "blockAeonsteel",
     "type": "additions:block_simple"
   },
-  "name": "§3恒钢块",
+  "name": "§3Aeonsteel Block",
   "material": "minecraft:metal",
   "map_color": "minecraft:cyan",
   "hardness": 20.0,

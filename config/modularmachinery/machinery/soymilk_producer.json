@@ -1,6 +1,6 @@
 {
     "registryname": "soymilk_producer",
-    "localizedname": "豆浆机",
+    "localizedname": "Soymilk Producer",
     "color": "ffffeb",
     "modifiers": [
         {
@@ -8,7 +8,7 @@
             "x": 0,
             "y": 1,
             "z": 1,
-            "description": "将最上层中间的方块换成此方块以降低配方制作时间至75%！",
+            "description": "Replace the block in the middle on the topmost of the machine to reduce crafting time to 75%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -21,7 +21,7 @@
             "x": 0,
             "y": 1,
             "z": 1,
-            "description": "将最上层中间的方块换成此方块以降低配方制作时间至66%！",
+            "description": "Replace the block in the middle on the topmost of the machine to reduce crafting time to 66%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -34,7 +34,7 @@
             "x": 0,
             "y": 1,
             "z": 1,
-            "description": "将最上层中间的方块换成此方块以降低配方制作时间至50%！",
+            "description": "Replace the block in the middle on the topmost of the machine to reduce crafting time to 50%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -47,7 +47,7 @@
             "x": 0,
             "y": 1,
             "z": 1,
-            "description": "将最上层中间的方块换成此方块以降低配方制作时间至33%！",
+            "description": "Replace the block in the middle on the topmost of the machine to reduce crafting time to 33%!",
             "modifier": {
                 "io": "output",
                 "target": "duration",

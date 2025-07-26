@@ -1,9 +1,9 @@
 {
-  "name": "§b暮色之庇护",
+  "name": "§bTwilight Shield",
   "shines": true,
   "tooltip": [
-    "§6能够抵抗地狱般的炎热",
-    "§e拿在手上右键以解锁游戏阶段§6twilight_shield"
+    "§6Can resist the heat from hell.",
+    "§eRight click to unlock game stage: §6twilight_shield"
   ],
   "type": "additions:simple"
 }

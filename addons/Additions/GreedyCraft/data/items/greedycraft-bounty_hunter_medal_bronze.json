@@ -1,5 +1,5 @@
 {
-  "name": "§b赏金猎人奖章 §7[§6铜§7]",
-  "tooltip": "§e可从悬赏任务中获得",
+  "name": "§bBounty Hunter Medal §7[§6Bronze§7]",
+  "tooltip": "§eCan be obtained from bounties.",
   "type": "additions:simple"
 }

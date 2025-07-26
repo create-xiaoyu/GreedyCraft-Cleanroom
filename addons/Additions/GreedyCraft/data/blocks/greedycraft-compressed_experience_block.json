@@ -1,15 +1,15 @@
 {
   "item_block": {
-    "name": "§a压缩知识精化块",
+    "name": "§aCompressed Block of Knowledge",
     "tooltip": [
-      "§7用于存储经验",
-      "§a拿在手上对空气左键以使用并获得经验",
-      "§e为附魔台提供相当于16个书架的附魔强度"
+      "§7Used to store XP",
+      "§aLeft click air to consume and gain XP",
+      "§eCounts as 16 bookshelves when placed near a enchanting table"
     ],
     "ore_dict": "blockCompressedExperience",
     "type": "additions:block_simple"
   },
-  "name": "§a压缩知识精化块",
+  "name": "§aCompressed Block of Knowledge",
   "material": "minecraft:metal",
   "map_color": "minecraft:lime",
   "hardness": 4.0,

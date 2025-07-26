@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§3锰结核矿",
+    "name": "§3Manganese Nodules",
     "ore_dict": "oreManganese",
     "type": "additions:block_simple"
   },
-  "name": "§3锰结核矿",
+  "name": "§3Manganese Nodules",
   "material": "minecraft:stone",
   "map_color": "minecraft:cyan",
   "hardness": 4.5,

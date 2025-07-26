@@ -1,11 +1,11 @@
 {
   "item_block": {
-    "name": "§5暗影矿",
-    "tooltip": "§7这种矿物几乎吸收了所有的光亮。",
+    "name": "§5Shadowium Ore",
+    "tooltip": "§7This ore absorbs nearly all light.",
     "ore_dict": "oreShadowium",
     "type": "additions:block_simple"
   },
-  "name": "§5暗影矿",
+  "name": "§5Shadowium Ore",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

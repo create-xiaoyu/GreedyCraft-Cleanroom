@@ -1,6 +1,6 @@
 {
     "registryname": "exp_power_generator",
-    "localizedname": "经验发电机",
+    "localizedname": "Experience Power Generator",
     "color": "76ff03",
     "modifiers": [
         {
@@ -8,7 +8,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以增加25%电量产出！",
+            "description": "Replace the block on top of the controller into this block to increase energy output by 25%!",
             "modifier": {
                 "io": "output",
                 "target": "energy",
@@ -21,7 +21,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以增加50%电量产出！",
+            "description": "Replace the block on top of the controller into this block to increase energy output by 50%!",
             "modifier": {
                 "io": "output",
                 "target": "energy",
@@ -34,7 +34,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以增加100%电量产出！",
+            "description": "Replace the block on top of the controller into this block to increase energy output by 100%!",
             "modifier": {
                 "io": "output",
                 "target": "energy",
@@ -47,7 +47,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "将控制器上方的紧挨着的方块换成此方块以增加150%电量产出！",
+            "description": "Replace the block on top of the controller into this block to increase energy output by 150%!",
             "modifier": {
                 "io": "output",
                 "target": "energy",

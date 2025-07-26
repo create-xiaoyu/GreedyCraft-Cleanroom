@@ -1,15 +1,15 @@
 {
   "item_block": {
-    "name": " §d§ka§r §c§o无§6§o尽§e§o块§b§o块§a§o块 §r§d§ka§r",
+    "name": " §d§ka§r §9Block §6of §cBlock §eof §aBlock §bof §dInfinity §r§d§ka§r",
     "shines": true,
     "tooltip": [
-      "§b够了。禁止套娃。",
-      "§7可以用作信标基座（真是个好用途呢）"
+      "§bThat's enough, I say, that's enough!",
+      "§7Can be used as beacon base (Best usage ever)"
     ],
     "ore_dict": "blockDoubleCompressedInfinity",
     "type": "additions:block_simple"
   },
-  "name": " §d§ka§r §c§o无§6§o尽§e§o块§b§o块§a§o块 §r§d§ka§r",
+  "name": " §d§ka§r §9Block §6of §cBlock §eof §aBlock §bof §dInfinity §r§d§ka§r",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.glass.place",
   "break_sound": "minecraft:block.metal.break",

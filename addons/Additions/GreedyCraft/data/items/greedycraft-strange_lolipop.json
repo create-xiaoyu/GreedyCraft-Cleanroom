@@ -1,10 +1,10 @@
 {
-  "name": "§6古怪的棒棒糖",
+  "name": "§6Strange Lollipop",
   "shines": true,
   "tooltip": [
-    "§e吃掉后让你几乎无法移动",
-    "§e但是大幅提高输出伤害",
-    "§d§l专家模式专属"
+    "§eMakes you move super slow",
+    "§eBut grants a huge boost to damage.",
+    "§d§lEXPERT ONLY"
   ],
   "hunger": 10,
   "saturation": 0.5,

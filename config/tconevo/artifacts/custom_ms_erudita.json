@@ -1,10 +1,10 @@
 {
   "weight": 500,
   "type": "tconevo:tool",
-  "name": "Erudita之刃",
+  "name": "Ms. Erudita",
   "lore": [
-    "只是为了防止有人嫉妒我的研究。",
-    "- 特别鸣谢ChromaPIE -"
+    "Easy. Just in case someone's jealous of my research.",
+    "- Special Thanks to ChromaPIE -"
   ],
   "tool": "rapier",
   "materials": [

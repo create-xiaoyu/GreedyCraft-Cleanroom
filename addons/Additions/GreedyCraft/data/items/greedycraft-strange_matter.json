@@ -1,8 +1,8 @@
 {
-  "name": "§a奇异物质",
+  "name": "§aStrange Matter",
   "tooltip": [
-    "§2宇宙中最危险的物质，储藏于磁力约束装置中。",
-    "§7唯一的用处是换取EMC"
+    "§2The most dangerous substance in the universe and is stored in a magnetic field constraint device.",
+    "§7Can only be used to exchange for EMC"
   ],
   "ore_dict": "itemStrangeMatter",
   "type": "additions:simple"

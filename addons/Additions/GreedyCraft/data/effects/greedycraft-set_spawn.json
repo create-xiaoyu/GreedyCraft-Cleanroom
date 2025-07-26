@@ -21,7 +21,7 @@
       "type": "additions:command"
     },
     {
-      "command": "/tellraw @p {\"text\":\"§6重生点已设置！\"}",
+      "command": "/tellraw @p {\"text\":\"§6Spawnpoint Set!\"}",
       "type": "additions:command"
     }
   ]

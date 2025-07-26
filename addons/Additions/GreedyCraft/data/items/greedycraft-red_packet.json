@@ -1,8 +1,8 @@
 {
-  "name": "§c红包",
+  "name": "§cRed Envelope",
   "tooltip": [
-    "§e新年快乐！",
-    "§6右键打开"
+    "§eHappy lunar new year!",
+    "§6Right click to open"
   ],
   "type": "additions:simple"
 }
