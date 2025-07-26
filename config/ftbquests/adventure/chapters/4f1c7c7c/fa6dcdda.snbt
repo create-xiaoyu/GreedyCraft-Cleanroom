@@ -1,5 +1,5 @@
 {
-	title: "§aSwitch to: §a§nCasual Mode",
+	title: "§a切换为: §a§n休闲模式",
 	icon: {
 		id: "minecraft:iron_hoe"
 	},
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "b6245f0a",
 		type: "checkmark",
-		title: "§aClick this button to switch to Casual Mode"
+		title: "§a点击以切换为休闲模式"
 	}],
 	rewards: [{
 		uid: "01015074",

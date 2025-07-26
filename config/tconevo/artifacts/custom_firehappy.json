@@ -1,8 +1,8 @@
 {
   "weight": 10,
   "type": "tconevo:tool",
-  "name": "Firehappy",
-  "lore": "Probably the opposite of Icemourne but I just want to say wtf",
+  "name": "火之高兴",
+  "lore": "霜之哀伤的反义词...吧？",
   "tool": "broadsword",
   "materials": [
     "fusion_matrix",

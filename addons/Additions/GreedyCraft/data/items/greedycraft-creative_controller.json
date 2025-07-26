@@ -1,8 +1,8 @@
 {
-  "name": "§dCreative Mode Controller",
+  "name": "§d创造模式控制器",
   "tooltip": [
-    "§bRight click to switch to creative mode and left click to switch back.",
-    "§6You are unstoppable now."
+    "§b使用右键切换到创造模式，使用左键切换到生存模式",
+    "§6你已经无人能挡了。"
   ],
   "max_stack": 1,
   "type": "additions:simple"

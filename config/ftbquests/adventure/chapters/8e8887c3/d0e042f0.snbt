@@ -21,7 +21,7 @@
 			id: "tinymobfarm:lasso",
 			tag: {
 				capturedMob: {
-					mobName: "Enderman",
+					mobName: "末影人",
 					mobHostile: 1b,
 					mobMaxHealth: 177.52914428710938d,
 					mobLootTableLocation: "minecraft:entities/enderman",

@@ -6,10 +6,10 @@
 	shape: "square",
 	description: "{greedycraft.quest.b4991d6f.desc}",
 	text: [
-		"§eFind chaotic islands at coordinates where x and y can be divided by 5000, kill the boss there and get chaos shards",
-		"§bMake sure to put Chaos Resistance modifier before fighting, it will help you a very great deal.",
-		"§6It's strongly recommended that you attempt to fight it after having full Draconic armor.",
-		"§cChaos Crystals don't regenerate but they may still respawn if they are out of your render distance. Set your render distance higher before this battle."
+		"§e在末地坐标为5000的倍数处找到混沌之地，击败那里的boss并获取混沌碎片",
+		"§b如果打不过，可以试试降低难度。匠魂的混沌抵抗强化会帮上大忙。",
+		"§6无论如何，建议做出神龙套以后再前往。",
+		"§c混沌水晶理论上不会重新生成，但离开视距范围时可能会重新生成。打混沌龙时请调高你的视距范围。"
 	],
 	dependencies: [
 		"82d57b54"

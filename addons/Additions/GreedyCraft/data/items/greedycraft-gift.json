@@ -1,8 +1,8 @@
 {
-  "name": "§2Christmas Gift",
+  "name": "§2圣诞礼物",
   "tooltip": [
     "§aHo ho ho!",
-    "§eRight click to open"
+    "§e右键打开"
   ],
   "type": "additions:simple"
 }

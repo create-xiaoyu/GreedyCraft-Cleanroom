@@ -1,6 +1,6 @@
 {
-  "name": "Loot Crate Ticket§6 [LEGENDARY]",
+  "name": "奖励箱兑换券§6 [传说]",
   "shines": true,
-  "tooltip": "§7Put into crafting table or right click to get a §6LEGENDARY§r§7 Loot Crate",
+  "tooltip": "§7放入合成台或拿在手上右键以获得一个§6传说§r§7奖励箱",
   "type": "additions:simple"
 }

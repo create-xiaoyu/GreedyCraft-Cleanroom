@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§eAsgardium Ore",
+    "name": "§e神金矿",
     "ore_dict": "oreAsgardium",
     "type": "additions:block_simple"
   },
-  "name": "§eAsgardium Ore",
+  "name": "§e神金矿",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

@@ -7,7 +7,7 @@
 	shape: "rsquare",
 	description: "{greedycraft.quest.9d0b6a75.desc}",
 	text: [
-		"Note: Killing an Ender Dragon for the first time will affect your game difficulty."
+		"注意：首次杀死末影龙将会调整你的世界难度。"
 	],
 	dependencies: [
 		"a357fcd1",
@@ -44,9 +44,9 @@
 	{
 		uid: "bc57a5dc",
 		type: "command",
-		title: "§5A notification",
+		title: "§5一个提醒",
 		auto: "enabled",
-		command: "/tellraw @p {\"text\":\"§5§oThe evil spirit within the ancient dragon has been unleashed.\"}"
+		command: "/tellraw @p {\"text\":\"§5§o古龙的邪恶力量得到了释放。\"}"
 	},
 	{
 		uid: "ad8ae4f4",
@@ -67,8 +67,8 @@
 	{
 		uid: "1049d994",
 		type: "command",
-		title: "Another notification",
+		title: "另一个提醒",
 		auto: "enabled",
-		command: "/tellraw @p {\"text\":\"§2§oYour world has been blessed with new ores!\"}"
+		command: "/tellraw @p {\"text\":\"§2§o你的世界生成了新的矿石！\"}"
 	}]
 }

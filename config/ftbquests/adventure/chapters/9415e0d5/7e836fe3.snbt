@@ -55,9 +55,9 @@
 				CustomPotionColor: 0,
 				display: {
 					Lore: [
-						"§9Veeeery good RNG today!"
+						"§9今天出货率真高啊！"
 					],
-					Name: "§8RNG God Potion"
+					Name: "§8非酋药剂"
 				}
 			}
 		}

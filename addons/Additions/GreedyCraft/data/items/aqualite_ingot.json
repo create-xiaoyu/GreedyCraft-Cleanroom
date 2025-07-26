@@ -1,5 +1,5 @@
 {
-  "name": "§bAqualite Ingot",
+  "name": "§b水华锭",
   "is_beacon_payment": true,
   "ore_dict": "ingotAqualite",
   "type": "additions:simple"

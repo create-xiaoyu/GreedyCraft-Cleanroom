@@ -1,8 +1,8 @@
 {
-  "name": "§3Ender Charm",
+  "name": "§3末影护符",
   "tooltip": [
-    "§3Only those who has once fell into the abyss shall enter the End.",
-    "§eRight click to unlock game stage: §6ender_charm§e."
+    "§3只有历经深渊之人才被准许进入终末之地。",
+    "§e拿在手上右键以解锁游戏阶段§6ender_charm§e。"
   ],
   "type": "additions:simple"
 }

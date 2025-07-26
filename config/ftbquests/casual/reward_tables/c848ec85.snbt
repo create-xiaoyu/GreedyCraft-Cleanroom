@@ -1,6 +1,6 @@
 
 {
-	title: "Loot Crate §a[COMMON]",
+	title: "随机奖励 §a[普通]",
 	loot_size: 1,
 	hide_tooltip: true,
 	use_title: true,
@@ -142,9 +142,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"§eYou can make it your pet"
+						"§e你可以把它当作宠物"
 					],
-					Name: "§bA Precious Stone"
+					Name: "§b一块宝贵的石头"
 				}
 			}
 		}
@@ -250,9 +250,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"§d§oYou mean George Bush?"
+						"§d§o完全是字面意思。"
 					],
-					Name: "§bDed Bush"
+					Name: "§b死掉的布什"
 				}
 			}
 		}
@@ -263,11 +263,11 @@
 			tag: {
 				display: {
 					Lore: [
-						"§6Put it near machines or crops",
-						"§6to speed them up by 1000 times!",
-						"§0All of above are bullshit, lol"
+						"§6把它放在机器或农作物旁边，",
+						"§6即可将机器或农作物的速度提升至1000倍！",
+						"§0其实它一点屁用都没有，你是不是PY又痒了"
 					],
-					Name: "§b10x Compressed Torcherino"
+					Name: "§b十重压缩加速火把"
 				}
 			}
 		}
@@ -505,19 +505,19 @@
 				}],
 				display: {
 					Lore: [
-						"§9+2147483647 Melee Damage",
-						"§7Sharpness 32767",
-						"§7Unbreaking 32767",
-						"§7Looting 32767",
-						"§7Fire Aspect 32767",
-						"§7Knockback 32767",
-						"§7Smite 32767",
-						"§7Bane of Arthropods 32767",
-						"§bUnbreakable",
-						"§dDrop chance is 0.000042069% from loot crates",
-						"§0§oAll of above are bullshit§r"
+						"§9+2147483647 近战伤害",
+						"§7锋利 32767",
+						"§7耐久 32767",
+						"§7抢夺 32767",
+						"§7火焰附加 32767",
+						"§7击退 32767",
+						"§7亡灵杀手 32767",
+						"§7节肢杀手 32767",
+						"§b无法破坏",
+						"§d有0.0000114514%概率从奖励箱获得",
+						"§0§o以上均为胡扯§r"
 					],
-					Name: "§4§lS§c§lw§6§lo§e§lr§2§ld§a§l §b§lo§3§lf§1§l §9§lt§d§lh§4§le§c§l §6§lR§e§lN§2§lG§a§l §b§lG§3§lo§9§ld"
+					Name: "§c至§6尊§e欧§a皇§b之§9剑"
 				}
 			}
 		}
@@ -532,7 +532,7 @@
 			id: "minecraft:spawn_egg",
 			tag: {
 				display: {
-					Name: "§eTCreopargh§b's spawning egg"
+					Name: "§eTCreopargh§b的刷怪蛋"
 				},
 				EntityTag: {
 					Username: "TCreopargh",
@@ -605,9 +605,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"§4§oThis sword will disobey the wills of its master."
+						"§4§o这把剑会违抗它主人的意愿。"
 					],
-					Name: "§cTraitor's Sword"
+					Name: "§c叛徒之剑"
 				}
 			}
 		}
@@ -683,7 +683,7 @@
 	}],
 	loot_crate: {
 		string_id: "loot_level_1",
-		item_name: "Loot Crate §a[COMMON]",
+		item_name: "奖励箱 §a[普通]",
 		color: 5635925,
 		drops: {
 			boss: 0,

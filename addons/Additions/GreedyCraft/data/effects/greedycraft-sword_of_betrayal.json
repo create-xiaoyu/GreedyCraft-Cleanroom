@@ -3,7 +3,7 @@
     "item": {
       "item": "cyclicmagic:emerald_sword",
       "damage": "any",
-      "tag": "{display:{Lore:[\"§4§oThis sword will of its owner.\"],Name:\"§cTraitor's Sword\"}}"
+      "tag": "{display:{Lore:[\"§4§o这把剑会违抗它主人的意愿。\"],Name:\"§c叛徒之剑\"}}"
     },
     "target_self": true,
     "type": "additions:item_attack"

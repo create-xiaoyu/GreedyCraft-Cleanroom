@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§bCryonium Ore",
+    "name": "§b极寒矿",
     "ore_dict": "oreCryonium",
     "type": "additions:block_simple"
   },
-  "name": "§bCryonium Ore",
+  "name": "§b极寒矿",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

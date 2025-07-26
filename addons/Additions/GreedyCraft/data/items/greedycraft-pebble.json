@@ -1,8 +1,8 @@
 {
-  "name": "Pebble",
+  "name": "鹅卵石",
   "tooltip": [
-    "§7White and smooth.",
-    "§7Can be shot with sling from Cyclic"
+    "§7洁白而光滑。",
+    "§7可被Cyclic的弹弓发射"
   ],
   "ore_dict": [
     "stonePebble",

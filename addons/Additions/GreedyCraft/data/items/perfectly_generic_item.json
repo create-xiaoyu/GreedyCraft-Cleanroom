@@ -1,7 +1,7 @@
 {
-  "name": "§2Perfectly Generic Item",
+  "name": "§2完美通用物品",
   "is_beacon_payment": true,
-  "tooltip": "§aIt's a perfectly generic item, perhaps a bit too perfect.",
+  "tooltip": "§a这是一个完美的通用物品，太完美了。",
   "ore_dict": [
     "dungeonLootTier3",
     "itemPerfect"

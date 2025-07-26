@@ -1,8 +1,8 @@
 {
     "weight": 65,
     "type": "tconevo:tool",
-    "name": "Excalibur",
-    "lore": "No need to elaborate on this legendary weapon.",
+    "name": "圣剑",
+    "lore": "EX咖喱棒！",
     "tool": "broadsword",
     "materials": [
         "silver",

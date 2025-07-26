@@ -1,5 +1,5 @@
 {
-  "name": "§bAeroite Ingot",
+  "name": "§b云浮锭",
   "is_beacon_payment": true,
   "ore_dict": "ingotAeroite",
   "type": "additions:simple"

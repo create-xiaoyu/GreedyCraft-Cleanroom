@@ -5,7 +5,7 @@
 	y: -0.5d,
 	description: "{greedycraft.quest.7d7bba7f.desc}",
 	text: [
-		"Shift right click to deposit XP, right click to retrieve XP"
+		"Shift右击存储经验，右击取得经验"
 	],
 	tasks: [{
 		uid: "f6d864a3",

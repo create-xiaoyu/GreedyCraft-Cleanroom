@@ -1,5 +1,5 @@
 {
-  "name": "§2Terra Alloy Ingot",
+  "name": "§2大地合金锭",
   "is_beacon_payment": true,
   "ore_dict": "ingotTerraAlloy",
   "type": "additions:simple"

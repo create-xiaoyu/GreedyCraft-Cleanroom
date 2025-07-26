@@ -1,9 +1,9 @@
 {
-  "name": "§dPurifying Pill",
+  "name": "§d净化灵丹",
   "shines": true,
   "tooltip": [
-    "§eThe best mental medicine.",
-    "§dCleans all warp when used."
+    "§e没有什么比这个更沁人心脾了。",
+    "§d使用后，清除所有扭曲"
   ],
   "type": "additions:simple"
 }

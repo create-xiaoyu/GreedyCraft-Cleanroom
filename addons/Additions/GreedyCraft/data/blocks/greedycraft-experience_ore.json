@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§aExperience Ore",
+    "name": "§a经验矿石",
     "ore_dict": "oreExperience",
     "type": "additions:block_simple"
   },
-  "name": "§aExperience Ore",
+  "name": "§a经验矿石",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

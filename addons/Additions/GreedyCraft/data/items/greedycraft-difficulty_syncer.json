@@ -1,11 +1,11 @@
 {
-  "name": "§dDifficulty Synchorizing Orb",
+  "name": "§d难度同步宝珠",
   "shines": true,
   "tooltip": [
-    "§dWhen used, set your difficulty to the supposed difficulty at your game stage.",
-    "§6Used to fix some bugs",
-    "§eDoes not consume",
-    "§7§m/syncdifficulty does this too but this is for people who can't remember commands."
+    "§d使用后，根据你的游戏阶段设定你的难度",
+    "§6用于修复某些bug",
+    "§e可无限使用",
+    "§7§m其实用/syncdifficulty指令也可以达到相同效果，这个物品只是为了防止有人记不住指令"
   ],
   "max_stack": 1,
   "type": "additions:simple"

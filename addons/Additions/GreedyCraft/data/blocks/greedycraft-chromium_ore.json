@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§3Chromium Ore",
+    "name": "§3铬矿",
     "ore_dict": "oreChromium",
     "type": "additions:block_simple"
   },
-  "name": "§3Chromium Ore",
+  "name": "§3铬矿",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

@@ -1,11 +1,11 @@
 {
   "item_block": {
-    "name": "§fHardened Stone",
-    "tooltip": "§eVery hard to break.",
+    "name": "§f坚硬岩石",
+    "tooltip": "§e极其坚固。",
     "ore_dict": "stone",
     "type": "additions:block_simple"
   },
-  "name": "§fHardened Stone",
+  "name": "§f坚硬岩石",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

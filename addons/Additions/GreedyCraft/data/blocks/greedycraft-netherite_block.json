@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§eBlock of Netherite",
+    "name": "§e下界合金块",
     "ore_dict": "blockNetherite",
     "type": "additions:block_simple"
   },
-  "name": "§eBlock of Netherite",
+  "name": "§e下界合金块",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

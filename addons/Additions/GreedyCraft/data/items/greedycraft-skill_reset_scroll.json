@@ -1,9 +1,9 @@
 {
-  "name": "§6Skill Reset Scroll",
+  "name": "§6技能重置卷轴",
   "shines": true,
   "tooltip": [
-    "§6Resets all your skills.",
-    "§cNo XP will be given back."
+    "§6重置你的所有技能。",
+    "§c技能耗费的经验不会返还"
   ],
   "max_stack": 1,
   "type": "additions:simple"

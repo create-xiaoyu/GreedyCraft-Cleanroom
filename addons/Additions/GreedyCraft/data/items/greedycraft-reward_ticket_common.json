@@ -1,5 +1,5 @@
 {
-  "name": "Loot Crate Ticket§a [COMMON]",
-  "tooltip": "§7Put into crafting table or right click to get a §aCOMMON§r§7 Loot Crate",
+  "name": "奖励箱兑换券§a [普通]",
+  "tooltip": "§7放入合成台或拿在手上右键以获得一个§a普通§r§7奖励箱",
   "type": "additions:simple"
 }

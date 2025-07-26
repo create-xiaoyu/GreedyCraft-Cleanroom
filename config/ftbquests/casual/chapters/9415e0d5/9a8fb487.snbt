@@ -8,7 +8,7 @@
 	tasks: [{
 		uid: "c526b9fb",
 		type: "dimension",
-		title: "§eEnter Candy World by eating a Magic Piece of Candy",
+		title: "§e使用魔法糖果进入糖果世界",
 		icon: "candymod:teleporter",
 		dim: 23
 	}],

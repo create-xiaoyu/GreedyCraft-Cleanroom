@@ -8,7 +8,7 @@
 	shape: "rsquare",
 	description: "{greedycraft.quest.a357fcd1.desc}",
 	text: [
-		"This will increase your game difficulty even further."
+		"这会进一步增加你的游戏难度。"
 	],
 	dependencies: [
 		"459b608d"
@@ -50,9 +50,9 @@
 	{
 		uid: "13352c37",
 		type: "command",
-		title: "§5Another notification",
+		title: "§5另一个提醒",
 		auto: "enabled",
-		command: "/tellraw @p {\"text\":\"§4§oThe withered soul of the Wither is about to bring death and evil to your world.\"}"
+		command: "/tellraw @p {\"text\":\"§4§o凋灵的腐化灵魂将给你的世界带来邪恶与死亡。\"}"
 	},
 	{
 		uid: "977e1b58",

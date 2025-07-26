@@ -1,8 +1,8 @@
 {
     "weight": 200,
     "type": "tconevo:armour",
-    "name": "Lightwing Shoes",
-    "lore": "Decorated with pentagons.",
+    "name": "光翼之靴",
+    "lore": "上面装饰着五边形的花纹",
     "armour": "boots",
     "materials": [
         "lumium",

@@ -1,9 +1,9 @@
 {
-  "name": "§6Plate of Honor",
+  "name": "§6荣誉之板",
   "tooltip": [
-    "§eCombine with tools or armors with tool forge / armor forge",
-    "§eto apply a modifier that increases damage or defense as the tool levels up.",
-    "§bMax level is 3 on tools and 1 on armor."
+    "§e用工具锻造台/盔甲装配台将其与工具/盔甲合成",
+    "§e即可获得等级强化，随等级提升匠魂工具/武器的伤害/护甲。",
+    "§b工具上最高可强化3级，盔甲上最高1级。"
   ],
   "ore_dict": "plateHonor",
   "type": "additions:simple"

@@ -1,11 +1,11 @@
 {
   "item_block": {
-    "name": "§cBlock of Protonium",
-    "tooltip": "§5§oIf it's not a game, the gravity of this stuff can rip you into noodles.",
+    "name": "§c质子块",
+    "tooltip": "§5§o如果不是在MC里，这玩意可以在你反应过来之前把你撕成面条。",
     "ore_dict": "blockProtonium",
     "type": "additions:block_simple"
   },
-  "name": "§cBlock of Protonium",
+  "name": "§c质子块",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

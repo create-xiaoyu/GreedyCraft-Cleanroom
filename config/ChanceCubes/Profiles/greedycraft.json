@@ -1,7 +1,7 @@
 {
     "greedycraft": {
         "name": "GreedyCraft ChanceCubes",
-        "description": "Remove annoying rewards",
+        "description": "禁用了一些烦人的和过于OP的奖励",
 		"rewards_to_disable": 
 		[ 
 			"chancecubes:inventory_bomb",

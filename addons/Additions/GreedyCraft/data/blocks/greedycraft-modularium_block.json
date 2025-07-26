@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§6Modularium Block",
+    "name": "§6模块化合金块",
     "ore_dict": "blockModularium",
     "type": "additions:block_simple"
   },
-  "name": "§6Modularium Block",
+  "name": "§6模块化合金块",
   "material": "minecraft:metal",
   "map_color": "minecraft:tnt",
   "hardness": 3.0,

@@ -1,15 +1,15 @@
 {
   "item_block": {
-    "name": "§aBlock of Knowledge",
+    "name": "§a知识精化块",
     "tooltip": [
-      "§7Used to store XP",
-      "§aLeft click air to consume and gain XP",
-      "§eCounts as 2 bookshelves when placed near a enchanting table"
+      "§7用于存储经验",
+      "§a拿着对空气按左键可以使用并获得经验",
+      "§e可当作书架摆在附魔台周围，相当于2个书架"
     ],
     "ore_dict": "blockExperience",
     "type": "additions:block_simple"
   },
-  "name": "§aBlock of Knowledge",
+  "name": "§a知识精化块",
   "material": "minecraft:metal",
   "map_color": "minecraft:lime",
   "hardness": 2.5,

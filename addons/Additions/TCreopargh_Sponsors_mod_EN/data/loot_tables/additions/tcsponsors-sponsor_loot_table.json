@@ -12,7 +12,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"Sponsor's Gem (Disabled)\",Lore:[\"Sponsor items are disabled in server pack.\"]}}"
+                            "tag": "{display:{Name:\"赞助者宝石 (已禁用)\",Lore:[\"赞助者物品在服务端上被禁用\"]}}"
                         }
                     ]
                 }

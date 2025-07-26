@@ -1,7 +1,7 @@
 {
-  "name": "§aCytosinite Ingot",
+  "name": "§a胞嘧锭",
   "is_beacon_payment": true,
-  "tooltip": "§aThis metal is able to perform photosynthesis!",
+  "tooltip": "§a这种金属具有生物的性质！",
   "ore_dict": "ingotCytosinite",
   "type": "additions:simple"
 }

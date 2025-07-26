@@ -1,9 +1,9 @@
 {
-  "name": "§aLucky Clover",
+  "name": "§a幸运四叶草",
   "tooltip": [
-    "§bThe symbol of luck.",
-    "§2§oIn real life it has a 1/5000 chance to be found in clovers.",
-    "§7Can be obtained by punching tall grass. (Low chance!)"
+    "§b幸运的象征",
+    "§2§o平均每5000个三叶草中只有一个四叶草",
+    "§7破坏草丛时有小概率获得"
   ],
   "type": "additions:simple"
 }

@@ -1,8 +1,8 @@
 {
-  "name": "§6McDonkey Deluxe Combo",
+  "name": "§6M记豪华套餐",
   "tooltip": [
-    "§eFilled with delicious food!",
-    "§7Right click to open"
+    "§e里面似乎装满了好吃的！",
+    "§7右键打开"
   ],
   "type": "additions:simple"
 }

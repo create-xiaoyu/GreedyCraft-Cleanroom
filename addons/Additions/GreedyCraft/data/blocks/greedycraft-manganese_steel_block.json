@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§9Manganese Steel Block",
+    "name": "§9锰钢块",
     "ore_dict": "blockManganeseSteel",
     "type": "additions:block_simple"
   },
-  "name": "§9Manganese Steel Block",
+  "name": "§9锰钢块",
   "material": "minecraft:metal",
   "map_color": "minecraft:cyan",
   "hardness": 8.0,

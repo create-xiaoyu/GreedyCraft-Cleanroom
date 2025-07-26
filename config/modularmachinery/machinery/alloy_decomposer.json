@@ -1,6 +1,6 @@
 {
     "registryname": "alloy_decomposer",
-    "localizedname": "Alloy Decomposer",
+    "localizedname": "合金分解机",
     "color": "424242",
     "modifiers": [
         {
@@ -8,7 +8,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "Replace the block on top of the controller into this block to reduce crafting time to 75%!",
+            "description": "将控制器上方紧挨着的方块换成此方块以降低配方制作时间至75%！",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -21,7 +21,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "Replace the block on top of the controller into this block to reduce crafting time to 66%!",
+            "description": "将控制器上方紧挨着的方块换成此方块以降低配方制作时间至66%！",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -34,7 +34,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "Replace the block on top of the controller into this block to reduce crafting time to 50%!",
+            "description": "将控制器上方紧挨着的方块换成此方块以降低配方制作时间至50%！",
             "modifier": {
                 "io": "output",
                 "target": "duration",
@@ -47,7 +47,7 @@
             "x": 0,
             "y": 1,
             "z": 0,
-            "description": "Replace the block on top of the controller into this block to reduce crafting time to 33%!",
+            "description": "将控制器上方紧挨着的方块换成此方块以降低配方制作时间至33%！",
             "modifier": {
                 "io": "output",
                 "target": "duration",

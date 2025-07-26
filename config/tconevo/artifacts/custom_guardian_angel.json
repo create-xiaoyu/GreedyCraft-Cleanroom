@@ -1,8 +1,8 @@
 {
   "weight": 150,
   "type": "tconevo:armour",
-  "name": "Guardian Angel",
-  "lore": "Saves its wearer from Death.",
+  "name": "守护天使",
+  "lore": "传说中能使其穿戴者从死神的口中救出的胸甲。",
   "armour": "chestplate",
   "materials": [
     "cytosinite",

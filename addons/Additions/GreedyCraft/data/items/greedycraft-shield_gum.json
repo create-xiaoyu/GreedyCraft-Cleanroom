@@ -1,10 +1,10 @@
 {
-  "name": "§dShield® Gum",
+  "name": "§d盾牌®软糖",
   "shines": true,
   "tooltip": [
-    "§eGains 80% damage reduction that lasts for 10s!",
-    "§6But chewing it takes a long time...",
-    "§d§lEXPERT ONLY"
+    "§e吃下后获得持续10秒的80%减伤效果！",
+    "§6不过你需要很长时间才能吃下它...",
+    "§d§l专家模式专属"
   ],
   "hunger": 8,
   "saturation": 0.625,

@@ -4,7 +4,7 @@
 	y: -4.0d,
 	description: "{greedycraft.quest.f46e9a69.desc}",
 	text: [
-		"Make steel with a high oven!"
+		"使用高炉冶炼钢锭！"
 	],
 	tasks: [{
 		uid: "458c224a",

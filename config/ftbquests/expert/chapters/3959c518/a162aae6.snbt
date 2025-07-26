@@ -31,7 +31,7 @@
 	tasks: [{
 		uid: "f4c9afe3",
 		type: "checkmark",
-		title: "§bClick this if you think you've got everything ready."
+		title: "§b如果你觉得万事俱备了，就点这个。"
 	}],
 	rewards: [{
 		uid: "14a35e57",

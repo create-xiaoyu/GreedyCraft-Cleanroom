@@ -1,8 +1,8 @@
 {
-  "name": "§6Bravery Certificate",
+  "name": "§6勇气之证",
   "tooltip": [
-    "§e§oOnly the bravest ones shall have it.",
-    "§eRight click to unlock game stage: §6fearless_man§e."
+    "§e§o只有最无畏的人才能拥有它。",
+    "§e右键以解锁游戏阶段§6fearless_man§e。"
   ],
   "type": "additions:simple"
 }

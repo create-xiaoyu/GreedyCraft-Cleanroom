@@ -32,8 +32,8 @@
 	{
 		uid: "8a783dd8",
 		type: "command",
-		title: "§cCRASH WARNING",
+		title: "§c崩端提醒",
 		auto: "enabled",
-		command: "/tellraw @a {\"text\":\"§cWARNING: After this fight your client will inevitably crash (but you can still pick up loot when you rejoin), be prepared.\"}"
+		command: "/tellraw @a {\"text\":\"§c提示：§e注意盖亚III已知会在战斗结束后出现客户端崩溃（但之后重进仍可以捡到战利品），请做好准备。\"}"
 	}]
 }

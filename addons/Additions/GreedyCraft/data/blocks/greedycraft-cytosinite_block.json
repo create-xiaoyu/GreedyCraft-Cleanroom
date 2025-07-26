@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§aCytosinite Block",
+    "name": "§a胞嘧块",
     "ore_dict": "blockCytosinite",
     "type": "additions:block_simple"
   },
-  "name": "§aCytosinite Block",
+  "name": "§a胞嘧块",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

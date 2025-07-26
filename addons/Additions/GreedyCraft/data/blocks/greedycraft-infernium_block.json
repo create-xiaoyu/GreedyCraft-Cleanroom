@@ -1,11 +1,11 @@
 {
   "item_block": {
-    "name": "§6Infernium Block",
+    "name": "§6永燃块",
     "burn_time": 810000,
     "ore_dict": "blockInfernium",
     "type": "additions:block_simple"
   },
-  "name": "§6Infernium Block",
+  "name": "§6永燃块",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§4Crimsonite Block",
+    "name": "§4猩红块",
     "ore_dict": "blockCrimsonite",
     "type": "additions:block_simple"
   },
-  "name": "§4Crimsonite Block",
+  "name": "§4猩红块",
   "material": "minecraft:metal",
   "place_sound": "minecraft:block.metal.place",
   "break_sound": "minecraft:block.metal.break",

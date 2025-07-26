@@ -1,8 +1,8 @@
 {
-  "name": "§6Coin of Death",
+  "name": "§6死亡金币",
   "tooltip": [
-    "§bRight click to make a contract with the devil and enter §cSuper Hardmode§b, gaining max difficulty.",
-    "§bLeft click air to get out of §cSuper Hardmode§b"
+    "§b右键与死神签订契约开启§c超级困难模式§b，直接升至满难度",
+    "§b对着空气左键以解除§c超级困难模式§b"
   ],
   "type": "additions:simple"
 }

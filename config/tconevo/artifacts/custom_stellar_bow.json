@@ -1,8 +1,8 @@
 {
     "weight": 60,
     "type": "tconevo:tool",
-    "name": "Stellar Burster",
-    "lore": "With powers beyond your understanding",
+    "name": "星辰爆能弓",
+    "lore": "力大无穷。",
     "tool": "longbow",
     "materials": [
         "meteor",

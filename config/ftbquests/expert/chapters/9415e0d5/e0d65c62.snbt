@@ -7,7 +7,7 @@
 	tasks: [{
 		uid: "607116a4",
 		type: "observation",
-		title: "Observe a bounty board",
+		title: "观察 悬赏榜",
 		icon: "bountiful:bountyboarditem",
 		match_type: "block_id",
 		match: "bountiful:bountyboard",

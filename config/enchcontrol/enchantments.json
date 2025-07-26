@@ -1295,7 +1295,7 @@
 	},
 	{
 		"id": "bibliocraft:bibliocraft.deathcompassench",
-		"name": "Eternal Compass",
+		"name": "��������",
 		"enabled": false,
 		"hide_on_item": false,
 		"hide_on_book": false,
@@ -1432,7 +1432,7 @@
 	},
 	{
 		"id": "bibliocraft:bibliocraft.readingench",
-		"name": "Read",
+		"name": "��ȡ",
 		"enabled": false,
 		"hide_on_item": false,
 		"hide_on_book": false,

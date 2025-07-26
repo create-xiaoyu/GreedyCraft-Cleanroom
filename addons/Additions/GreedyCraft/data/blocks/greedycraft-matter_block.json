@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§dBlock of Matter",
-    "tooltip": "§dPure form of matter.",
+    "name": "§d物质块",
+    "tooltip": "§d纯粹的物质。",
     "type": "additions:block_simple"
   },
-  "name": "§dBlock of Matter",
+  "name": "§d物质块",
   "material": "minecraft:glass",
   "map_color": "minecraft:pink",
   "hardness": 5.0,

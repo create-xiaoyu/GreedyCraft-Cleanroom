@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§eBlock of Stainless Steel",
+    "name": "§e不锈钢块",
     "ore_dict": "blockStainlessSteel",
     "type": "additions:block_simple"
   },
-  "name": "§eBlock of Stainless Steel",
+  "name": "§e不锈钢块",
   "material": "minecraft:metal",
   "map_color": "minecraft:light_gray",
   "hardness": 20.0,

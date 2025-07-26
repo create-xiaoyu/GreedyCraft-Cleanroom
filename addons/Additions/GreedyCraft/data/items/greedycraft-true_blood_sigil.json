@@ -1,10 +1,10 @@
 {
-  "name": "§4True Blood Sigil",
+  "name": "§4真·血之印记",
   "shines": true,
   "tooltip": [
-    "§eRight click to summon a blood moon",
-    "§eLeft click to skip a blood moon",
-    "§bDoes not consume when used"
+    "§e使用右键召唤血月",
+    "§e使用左键跳过血月到下一个早上",
+    "§b可无限使用"
   ],
   "max_stack": 1,
   "type": "additions:simple"

@@ -11,11 +11,11 @@
 	y: 0.0d,
 	description: "{greedycraft.quest.a9e29df1.desc}",
 	text: [
-		"I think this is the end of the journey.",
-		"Only the most greedy man who desires to get everything and did so,",
-		"Can stand here and decide the fate of the Elysian Project.",
-		"You should know what to do now.",
-		" ---- Beyond Reality Co. Ltd."
+		"我想，这就是旅途的终点了。",
+		"只有极度贪婪，渴望得到一切，也最终得到一切的人，",
+		"才能最终站在这里，决定埃拉西亚的命运。",
+		"你应该想好了怎么做。",
+		" ———— 超越现实有限公司"
 	],
 	can_repeat: true,
 	dependencies: [

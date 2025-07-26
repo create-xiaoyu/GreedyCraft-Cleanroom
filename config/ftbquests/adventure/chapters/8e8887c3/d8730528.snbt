@@ -12,7 +12,7 @@
 	tasks: [{
 		uid: "613dde2d",
 		type: "item",
-		title: "Any kind of log",
+		title: "任意种类的原木",
 		icon: "minecraft:log",
 		items: [{
 			ForgeCaps: {
@@ -53,10 +53,10 @@
 			tag: {
 				display: {
 					Lore: [
-						"§6It reads:",
-						"§eI've been waiting for you for ages, claim your quest rewards by pressing E and clicking 'Quests' at the top left RIGHT NOW!!"
+						"§6上面写着：",
+						"§e我等你等了半天了，还不快点按E在左上角的任务菜单里领奖励！！"
 					],
-					Name: "§bA Sticky Note"
+					Name: "§b一个便条"
 				}
 			}
 		}

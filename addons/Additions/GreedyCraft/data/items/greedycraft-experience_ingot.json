@@ -1,8 +1,8 @@
 {
-  "name": "§aKnowledge Essence Ingot",
+  "name": "§a知识精华锭",
   "tooltip": [
-    "§7Used to store XP",
-    "§aRight click to consume and gain XP"
+    "§7用于存储经验",
+    "§a拿在手上右键以使用并获得经验"
   ],
   "ore_dict": "ingotExperience",
   "type": "additions:simple"

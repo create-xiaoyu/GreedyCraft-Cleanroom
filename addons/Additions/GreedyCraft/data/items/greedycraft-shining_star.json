@@ -1,8 +1,8 @@
 {
-  "name": "§6Shining Star",
+  "name": "§6闪耀之星",
   "tooltip": [
-    "§bRight click to summon a meteor on top of you",
-    "§cDo not use this at your base"
+    "§b右键在头顶召唤陨星",
+    "§c不要在家使用"
   ],
   "type": "additions:simple"
 }

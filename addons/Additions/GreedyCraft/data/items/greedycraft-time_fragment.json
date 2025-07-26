@@ -1,9 +1,9 @@
 {
-  "name": "§bTime Fragment",
+  "name": "§b小块时间碎片",
   "shines": true,
   "tooltip": [
-    "§bSeems to be a piece of debris from another dimension.",
-    "§eObtained from crushing some dungeon loot."
+    "§b似乎是另一个维度留下的残片。",
+    "§e通过用粉碎机粉碎一些地牢战利品获得"
   ],
   "max_stack": 63,
   "ore_dict": "fragmentTime",

@@ -1,8 +1,8 @@
 {
   "weight": 250,
   "type": "tconevo:tool",
-  "name": "Foodie's pan",
-  "lore": "Hope you don't eat this when using this to cook.",
+  "name": "吃货煎锅",
+  "lore": "比起用它来炒菜，你更想直接吃掉它。",
   "tool": "frypan",
   "materials": [
     "pigiron",

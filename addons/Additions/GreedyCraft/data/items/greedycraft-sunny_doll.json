@@ -1,8 +1,8 @@
 {
-  "name": "§eSunny Doll",
+  "name": "§e晴天娃娃",
   "tooltip": [
-    "§bHey, It'll clear up now~",
-    "§eSets the weather to sunny when used."
+    "§b呐，马上就要放晴了哦~",
+    "§e使用后将天气设为晴天"
   ],
   "type": "additions:simple"
 }

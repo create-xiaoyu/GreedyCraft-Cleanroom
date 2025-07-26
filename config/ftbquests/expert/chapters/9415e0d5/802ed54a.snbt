@@ -5,7 +5,7 @@
 	y: 3.5d,
 	description: "{greedycraft.quest.802ed54a.desc}",
 	text: [
-		"Usage is similiar to Akashic Tome, combine it with any wrench to manipulate the machines from that mod"
+		"使用方法类似阿卡什手册，将万能工具和任意扳手合成即可操纵对应mod的机器"
 	],
 	tasks: [{
 		uid: "a8885d67",

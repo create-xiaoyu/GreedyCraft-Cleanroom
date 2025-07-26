@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "717fb62e",
 		type: "item",
-		title: "Any Iron Ore",
+		title: "任何铁矿",
 		items: [{
 			ForgeCaps: {
 				Parent: {
@@ -54,7 +54,7 @@
 			tag: {
 				display: {
 					color: 16744619,
-					Name: "§dFairy Hat"
+					Name: "§d仙女帽子"
 				}
 			}
 		}
@@ -67,7 +67,7 @@
 			tag: {
 				display: {
 					color: 16744619,
-					Name: "§dFairy Shirt"
+					Name: "§d仙女衣服"
 				}
 			}
 		}
@@ -80,7 +80,7 @@
 			tag: {
 				display: {
 					color: 16744619,
-					Name: "§dFairy Pants"
+					Name: "§d仙女裤子"
 				}
 			}
 		}
@@ -93,7 +93,7 @@
 			tag: {
 				display: {
 					color: 16744619,
-					Name: "§dFairy Shoes"
+					Name: "§d仙女鞋子"
 				}
 			}
 		}

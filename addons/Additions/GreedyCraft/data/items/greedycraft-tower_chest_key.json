@@ -1,6 +1,6 @@
 {
-  "name": "§6Battle Tower Chest Key",
-  "tooltip": "§eUnlock Tower Chests by putting them in crafting table!",
+  "name": "§6高塔宝箱钥匙",
+  "tooltip": "§e与战斗高塔宝箱合成来打开它们！",
   "max_stack": 1,
   "durability": 3,
   "harvest_level": 0,

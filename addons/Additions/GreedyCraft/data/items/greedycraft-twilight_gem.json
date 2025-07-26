@@ -1,9 +1,9 @@
 {
-  "name": "§dTwilight Gem",
+  "name": "§d暮光宝石",
   "shines": true,
   "tooltip": [
-    "§bA gem that gives out a mystical glow.",
-    "§6Used to activate the Twilight Forest portal."
+    "§b散发着神秘光辉的宝石",
+    "§6用于激活暮色传送门"
   ],
   "type": "additions:simple"
 }

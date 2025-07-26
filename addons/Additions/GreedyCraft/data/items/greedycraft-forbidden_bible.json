@@ -1,8 +1,8 @@
 {
-  "name": "§cThe Forbidden Bible",
+  "name": "§c禁忌秘典",
   "tooltip": [
-    "§4Demonic whispers are written all over it.",
-    "§4You might summon an evil presence by using this book on a summoning altar."
+    "§4上面写满了恶魔的低语。",
+    "§4把这本书用在铸造祭坛上或许会召唤出某种非常可怕的生物。"
   ],
   "type": "additions:simple"
 }

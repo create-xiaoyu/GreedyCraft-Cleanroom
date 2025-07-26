@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§eTitanium Ore",
+    "name": "§e钛金矿",
     "ore_dict": "oreTitanium",
     "type": "additions:block_simple"
   },
-  "name": "§eTitanium Ore",
+  "name": "§e钛金矿",
   "material": "minecraft:stone",
   "place_sound": "minecraft:block.stone.place",
   "break_sound": "minecraft:block.stone.break",

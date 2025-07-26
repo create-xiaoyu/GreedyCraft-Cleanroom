@@ -1,8 +1,8 @@
 {
   "weight": 1080,
   "type": "tconevo:tool",
-  "name": "Soul Reaper",
-  "lore": "Your soul is now mine.",
+  "name": "灵魂收割者",
+  "lore": "这把武器可以摄人魂魄。",
   "tool": "scythe",
   "materials": [
     "ma.soulium",

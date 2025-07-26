@@ -1,9 +1,9 @@
 {
-  "name": "§cBlood Sigil",
+  "name": "§c血之印记",
   "tooltip": [
-    "§eSummons blood moon when used",
-    "§eBloodmoon will occur at the next possible night",
-    "§7Consumed on use"
+    "§e使用时召唤血月",
+    "§e血月将在下一个晚上到来",
+    "§7一次性物品"
   ],
   "type": "additions:simple"
 }

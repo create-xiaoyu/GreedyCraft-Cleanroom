@@ -38,7 +38,7 @@
 	{
 		uid: "fd53f973",
 		type: "command",
-		title: "Ore Spawn Notification",
-		command: "/tellraw @p {\"text\":\"§bYour world has been blessed with new rare metals.\"}"
+		title: "生成新的矿石提醒",
+		command: "/tellraw @p {\"text\":\"§b你的世界生成了新的稀有金属。\"}"
 	}]
 }

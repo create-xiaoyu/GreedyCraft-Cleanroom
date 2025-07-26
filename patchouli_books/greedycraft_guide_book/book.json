@@ -1,7 +1,7 @@
 {
-	"name": "§cGreedyCraft §b§oModpack Guide",
-	"subtitle": "A detailed guide on the modpack you are playing.",
-	"landing_text": "$(2)Welcome, $(5)$(playername)$()$(br2)This book is a guide for the $(#ff80ab)GreedyCraft$() modpack.\nClick on one of the entries on the right to begin.",
+	"name": "§c贪婪整合包 §b§o从入门到精通",
+	"subtitle": "入门必读的贪婪整合包参考手册",
+	"landing_text": "$(2)欢迎，$(5)$(playername)$()$(br2)本书为$(#ff80ab)贪婪整合包$()的指导教程，以帮助你快速熟悉整合包内的机制和内容。\n请点击右边的目录以查看。",
 	"version": 40,
 	"pause_game": true,
 	"book_texture": "patchouli:textures/gui/book_red.png",

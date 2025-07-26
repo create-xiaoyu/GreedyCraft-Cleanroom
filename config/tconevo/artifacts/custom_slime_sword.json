@@ -1,8 +1,8 @@
 {
     "weight": 75,
     "type": "tconevo:tool",
-    "name": "Ancient Arrow",
-    "lore": "An arrow that has been fitted with powerful ancient technology.",
+    "name": "远古箭矢",
+    "lore": "注入了强大远古科技的箭矢。",
     "tool": "arrow",
     "materials": [
         "polyethylene",

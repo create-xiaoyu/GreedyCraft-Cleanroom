@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§bAqualite Ore",
+    "name": "§b水华矿",
     "ore_dict": "oreAqualite",
     "type": "additions:block_simple"
   },
-  "name": "§bAqualite Ore",
+  "name": "§b水华矿",
   "material": "minecraft:stone",
   "map_color": "minecraft:diamond",
   "hardness": 4.0,

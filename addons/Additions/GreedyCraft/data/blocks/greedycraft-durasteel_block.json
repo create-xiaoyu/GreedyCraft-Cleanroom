@@ -1,10 +1,10 @@
 {
   "item_block": {
-    "name": "§9Durasteel Block",
+    "name": "§9耐钢块",
     "ore_dict": "blockDurasteel",
     "type": "additions:block_simple"
   },
-  "name": "§9Durasteel Block",
+  "name": "§9耐钢块",
   "material": "minecraft:metal",
   "map_color": "minecraft:lapis",
   "hardness": 10.0,
