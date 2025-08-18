@@ -1,9 +1,9 @@
 {
     "name": "compactmachines3:end_portal_blueprint",
-    "target-item": "prefab:item_basic_structure",
+    "target-item": "prefab:item_advanced_chicken_coop",
     "target-meta": 0,
     "target-count": 1,
-    "target-nbt": "{ForgeCaps:{\"prefab:structuresconfiguration\":{configuration:{wareHouseFacing:\"north\",structureEnumName:\"EnderGateway\"}}},id:\"prefab:item_basic_structure\",Count:1b,Damage:0s}",
+    "target-nbt": "{ForgeCaps:{\"prefab:structuresconfiguration\":{configuration:{wareHouseFacing:\"north\",structureEnumName:\"EnderGateway\"}}},id:\"prefab:item_advanced_chicken_coop\",Count:1b,Damage:0s}",
     "duration": 560,
     "catalyst": "minecraft:ender_eye",
     "input-types": {
