@@ -612,7 +612,7 @@ GameStagesUtil.stageEnderCharm.addIngredients([
     <minecraft:end_rod>,
     <minecraft:end_bricks>,
     <minecraft:end_portal_frame>,
-    <prefab:item_basic_structure>.withTag({ForgeCaps: {"prefab:structuresconfiguration": {configuration: {wareHouseFacing: "north", structureEnumName: "EnderGateway"}}}, id: "prefab:item_basic_structure", Count: 1 as byte, Damage: 0 as short}),
+    <prefab:item_advanced_chicken_coop>.withTag({ForgeCaps: {"prefab:structuresconfiguration": {configuration: {wareHouseFacing: "north", structureEnumName: "EnderGateway"}}}, id: "prefab:item_advanced_chicken_coop", Count: 1 as byte, Damage: 0 as short}),
     <ore:endstone>,
     <ore:cropChorusfruit>,
     <hooked:hook:4>

@@ -689,7 +689,7 @@
 					}
 				}
 			},
-			id: "prefab:item_basic_structure",
+			id: "prefab:item_advanced_chicken_coop",
 			tag: {
 				ForgeCaps: {
 					"prefab:structuresconfiguration": {
@@ -699,7 +699,7 @@
 						}
 					}
 				},
-				id: "prefab:item_basic_structure",
+				id: "prefab:item_advanced_chicken_coop",
 				Count: 1b,
 				Damage: 0s
 			}
@@ -715,7 +715,7 @@
 					}
 				}
 			},
-			id: "prefab:item_basic_structure",
+			id: "prefab:item_advanced_chicken_coop",
 			tag: {
 				ForgeCaps: {
 					"prefab:structuresconfiguration": {
@@ -725,7 +725,7 @@
 						}
 					}
 				},
-				id: "prefab:item_basic_structure",
+				id: "prefab:item_advanced_chicken_coop",
 				Count: 1b,
 				Damage: 0s
 			}
@@ -741,7 +741,7 @@
 					}
 				}
 			},
-			id: "prefab:item_basic_structure",
+			id: "prefab:item_advanced_chicken_coop",
 			tag: {
 				ForgeCaps: {
 					"prefab:structuresconfiguration": {
@@ -751,7 +751,7 @@
 						}
 					}
 				},
-				id: "prefab:item_basic_structure",
+				id: "prefab:item_advanced_chicken_coop",
 				Count: 1b,
 				Damage: 0s
 			}
@@ -940,7 +940,7 @@
 					}
 				}
 			},
-			id: "prefab:item_basic_structure",
+			id: "prefab:item_advanced_chicken_coop",
 			tag: {
 				ForgeCaps: {
 					"prefab:structuresconfiguration": {
@@ -950,7 +950,7 @@
 						}
 					}
 				},
-				id: "prefab:item_basic_structure",
+				id: "prefab:item_advanced_chicken_coop",
 				Count: 1b,
 				Damage: 0s
 			}
@@ -969,7 +969,7 @@
 					}
 				}
 			},
-			id: "prefab:item_basic_structure",
+			id: "prefab:item_advanced_chicken_coop",
 			tag: {
 				ForgeCaps: {
 					"prefab:structuresconfiguration": {
@@ -979,7 +979,7 @@
 						}
 					}
 				},
-				id: "prefab:item_basic_structure",
+				id: "prefab:item_advanced_chicken_coop",
 				Count: 1b,
 				Damage: 0s
 			}
@@ -1009,7 +1009,7 @@
 					}
 				}
 			},
-			id: "prefab:item_basic_structure",
+			id: "prefab:item_advanced_chicken_coop",
 			tag: {
 				ForgeCaps: {
 					"prefab:structuresconfiguration": {
@@ -1019,7 +1019,7 @@
 						}
 					}
 				},
-				id: "prefab:item_basic_structure",
+				id: "prefab:item_advanced_chicken_coop",
 				Count: 1b,
 				Damage: 0s
 			}
