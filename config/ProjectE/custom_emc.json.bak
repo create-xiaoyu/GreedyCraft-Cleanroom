@@ -957,63 +957,63 @@
       "emc": 3000
     },
     {
-      "item": "jaopca:item_essencescarlite|0",
+      "item": "jaopca:mysticalagriculture_essence.scarlite|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceaeroite|0",
+      "item": "jaopca:mysticalagriculture_essence.aeroite|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceaqualite|0",
+      "item": "jaopca:mysticalagriculture_essence.aqualite|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceasgardium|0",
+      "item": "jaopca:mysticalagriculture_essence.asgardium|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceastralstarmetal|0",
+      "item": "mysticalagriculture:starmetal_essence|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceexperience|0",
+      "item": "jaopca:mysticalagriculture_essence.experience|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceliquifiedcoralium|0",
+      "item": "jaopca:mysticalagriculture_essence.liquified_coralium|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essencemanganese|0",
+      "item": "jaopca:mysticalagriculture_essence.manganese|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceshadowium|0",
+      "item": "jaopca:mysticalagriculture_essence.shadowium|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceumbrium|0",
+      "item": "jaopca:mysticalagriculture_essence.umbrium|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceambrosium|0",
+      "item": "jaopca:mysticalagriculture_essence.ambrosium|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essencedimensionalshard|0",
+      "item": "jaopca:mysticalagriculture_essence.dimensional_shard|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essencehephaestite|0",
+      "item": "jaopca:mysticalagriculture_essence.hephaestite|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essencequartzblack|0",
+      "item": "mysticalagriculture:black_quartz_essence|0",
       "emc": 0
     },
     {
-      "item": "jaopca:item_essenceniter|0",
+      "item": "mysticalagriculture:saltpeter_essence|0",
       "emc": 0
     },
     {
