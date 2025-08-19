@@ -153,7 +153,7 @@ val crops as IItemStack[][] = [
     [<jaopca:mysticalagriculture_seeds.hephaestite>, <jaopca:mysticalagriculture_essence.hephaestite>],
     [<jaopca:mysticalagriculture_seeds.experience>, <jaopca:mysticalagriculture_essence.experience>],
     [<jaopca:mysticalagriculture_seeds.dimensional_shard>, <jaopca:mysticalagriculture_essence.dimensional_shard>],
-    [<jaopca:mysticalagriculture_seeds.infernium>, <jaopca:item_essenceinfernium>],
+    [<jaopca:mysticalagriculture_seeds.infernium>, <jaopca:mysticalagriculture_essence.infernium>],
     [<jaopca:mysticalagriculture_seeds.liquified_coralium>, <jaopca:mysticalagriculture_essence.liquified_coralium>],
     [<jaopca:mysticalagriculture_seeds.shadowium>, <jaopca:mysticalagriculture_essence.shadowium>],
     [<jaopca:mysticalagriculture_seeds.cytosinite>, <jaopca:mysticalagriculture_essence.cytosinite>],

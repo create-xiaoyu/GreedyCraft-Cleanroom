@@ -190,7 +190,7 @@
 		random_bonus: 1
 	},
 	{
-		item: "jaopca:item_singularityabyssalnite"
+		item: "jaopca:avaritia_singularity.abyssalnite"
 	},
 	{
 		item: "additions:greedycraft-poop",
