@@ -690,9 +690,9 @@ val seedRecipes as IIngredient[][][IItemStack] = {
         [<ore:ingotUmbrium>, essence[3], <ore:ingotUmbrium>]
     ],
     <mysticalagriculture:saltpeter_seeds> : [
-        [<ore:dustNiter>, essence[3], <ore:dustNiter>], 
+        [<ore:dustSaltpeter>, essence[3], <ore:dustSaltpeter>], 
         [essence[3], base[3], essence[3]], 
-        [<ore:dustNiter>, essence[3], <ore:dustNiter>]
+        [<ore:dustSaltpeter>, essence[3], <ore:dustSaltpeter>]
     ],
     <jaopca:mysticalagriculture_seeds.netherite> : [
         [<ore:gemAncientDebris>, essence[6], <ore:gemAncientDebris>], 
