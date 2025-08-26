@@ -43,7 +43,7 @@ events.onCommand(function (event as CommandEvent) {
     
     if (event.commandSender instanceof IPlayer) {
         val player as IPlayer = event.commandSender;    
-        if (((player.name != "TCreopargh") && !isNull(event.parameters[2]) && (event.parameters[2] == "iswuss" || event.parameters[2] == "truehero")) || ((player.name != "TCreopargh") && !isNull(event.parameters[1]) && (event.parameters[1] == "all"))) {
+        if (((player.name != "TCreopargh") && event.parameters.length > 2 && !isNull(event.parameters[2]) && (event.parameters[2] == "iswuss" || event.parameters[2] == "truehero")) || ((player.name != "TCreopargh") && event.parameters.length > 1 && !isNull(event.parameters[1]) && (event.parameters[1] == "all"))) {
             event.cancel();
             player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.anticheat.wtf"));
         }

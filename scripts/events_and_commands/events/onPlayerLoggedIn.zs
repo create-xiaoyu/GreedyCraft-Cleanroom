@@ -41,21 +41,15 @@ events.onPlayerLoggedIn(function (event as PlayerLoggedInEvent) {
 
     if (player.hasGameStage("truehero") && !player.hasGameStage("iswuss")) {
         player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.true_hero.join", "§e" + player.name));
-    } else if (player.hasGameStage("iswuss")) {
-        server.broadcastMessage(ITextComponent.fromTranslation("greedycraft.event.in_cheat.broadcast", "§e" + player.name));
-        player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.in_cheat.chat"));
-        if (player.creative) {
-            player.addGameStage("creative");
-        }
-    } else if (player.creative) {
-        if (!player.hasGameStage("truehero")) {
-            player.addGameStage("creative");
+    } else if (player.hasGameStage("creative_mode") && !player.hasGameStage("disabled")) {
+        player.addGameStage("creative");
         server.broadcastMessage(ITextComponent.fromTranslation("greedycraft.event.in_cheat.broadcast", player.name));
-            server.commandManager.executeCommand(server, "/gamestage add " + player.name + " iswuss");
-            player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.creative_cheat.chat"));
-            server.commandManager.executeCommand(server, "/unlockallstages " + player.name);
-            player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.creative_stage_unlocked"));
-        }
+        server.commandManager.executeCommand(server, "/gamestage add " + player.name + " iswuss");
+        player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.creative_cheat.chat"));
+        server.commandManager.executeCommand(server, "/unlockallstages " + player.name);
+        player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.creative_stage_unlocked"));
+    } else if (!player.hasGameStage("survival_mode")) {
+        player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.creative_stage_unlocked"));
     }
     server.commandManager.executeCommand(server, "/sendwelcomequote " + player.name);
     

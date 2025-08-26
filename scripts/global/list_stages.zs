@@ -132,5 +132,6 @@ global listStages as string[] = [
     "graduated",
     "qualified_ocd",
     "disabled",
-    "roughmobsboss"
+    "roughmobsboss",
+    "expert"
 ];

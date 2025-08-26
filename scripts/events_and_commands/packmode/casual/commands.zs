@@ -19,7 +19,8 @@ import mods.zenutils.command.ZenCommand;
 import crafttweaker.text.ITextComponent;
 
 function isWuss(player as IPlayer) as bool {
-    return (player.creative || (player.world.getGameRules().hasRule("doWussMode") && player.world.getGameRules().getBoolean("doWussMode")) || player.hasGameStage("iswuss")); 
+    // return (player.creative || (player.world.getGameRules().hasRule("doWussMode") && player.world.getGameRules().getBoolean("doWussMode")) || player.hasGameStage("iswuss"));
+    return false;
 }
 
 events.onCommand(function (event as CommandEvent) {

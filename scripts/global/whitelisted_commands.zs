@@ -64,5 +64,18 @@ global whitelistedCommands as string[] = [
     "togetherforever",
     "stagelist",
     "showscoreboard",
-    "sponsors"
+    "sponsors",
+    "gamemode",
+    "heal",
+    "tp",
+    "setblock",
+    "fill",
+    "summon",
+    "give",
+    "effect",
+    "execute",
+    "acunlockallknowledge",
+    "ftb",
+    "sethome",
+    "home"
 ];

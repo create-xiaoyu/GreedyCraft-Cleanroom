@@ -41,21 +41,8 @@ import scripts.util.lang as LangUtil;
 // As everything should be.
 
 static disallowedMods as string[] = [
-    "xijun",
-    "bacteria",
     "deconstruction",
-    "lastsword",
-    "lolipickaxe",
-    "manaita",
-    "torcherino",
-    "decomp_table",
-    "deconstrcution_table",
-    "decon_table",
-    "decontable",
-    "xray",
-    "uncrafting_table",
-    "slashblade",
-    "slashbladetic"
+    "xray"
 ];
 
 function badModLoaded() as bool {
@@ -68,18 +55,18 @@ function badModLoaded() as bool {
     return false;
 }
 
-for mod in disallowedMods {
-    if (loadedMods has mod) {
-        for item in loadedMods[mod].items {
-            ItemStages.removeItemStage(item);
-            ItemStages.addItemStage("disabled", item);
-            ItemStages.setUnfamiliarName(LangUtil.translate("greedycraft.stage.disabled_item.name"), item);
-            RecipeUtil.remove(item);
-            JEI.removeAndHide(item);
-            item.addTooltip(game.localize("greedycraft.stage.disabled_item.tooltip"));
-        }
-    }
-}
+// for mod in disallowedMods {
+//     if (loadedMods has mod) {
+//         for item in loadedMods[mod].items {
+//             ItemStages.removeItemStage(item);
+//             ItemStages.addItemStage("disabled", item);
+//             ItemStages.setUnfamiliarName(LangUtil.translate("greedycraft.stage.disabled_item.name"), item);
+//             RecipeUtil.remove(item);
+//             JEI.removeAndHide(item);
+//             item.addTooltip(game.localize("greedycraft.stage.disabled_item.tooltip"));
+//         }
+//     }
+// }
 
 events.onPlayerLoggedIn(function (event as PlayerLoggedInEvent) {
     var player as IPlayer = event.player;
@@ -93,27 +80,27 @@ events.onPlayerLoggedIn(function (event as PlayerLoggedInEvent) {
     }
 });
 
-events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
+// events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 
-    if (!badModLoaded() || event.phase != "END" || event.side != "SERVER") {
-        return;
-    }
+//     if (!badModLoaded() || event.phase != "END" || event.side != "SERVER") {
+//         return;
+//     }
 
-    var player = event.player;
+//     var player = event.player;
 
-    if (!player.creative && player.world.getWorldTime() % 40 == 0) {
-        player.addPotionEffect(<potion:minecraft:blindness>.makePotionEffect(200, 0, false, false));
-        player.addPotionEffect(<potion:minecraft:wither>.makePotionEffect(200, 4, false, false));
-    }
+//     if (!player.creative && player.world.getWorldTime() % 40 == 0) {
+//         player.addPotionEffect(<potion:minecraft:blindness>.makePotionEffect(200, 0, false, false));
+//         player.addPotionEffect(<potion:minecraft:wither>.makePotionEffect(200, 4, false, false));
+//     }
     
-    if (!player.creative && player.world.getWorldTime() % 600 == 0) {
-        server.commandManager.executeCommand(server, "/clear " + player.name);
-        server.commandManager.executeCommand(server, "/kill " + player.name);
-        player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.anticheat.pls_remove"));
-        for mod in disallowedMods {
-            if (loadedMods has mod) {
-                player.sendChat("§b" + loadedMods[mod].name + "  §e" + loadedMods[mod].version);
-            }
-        }
-    }
-});
+//     if (!player.creative && player.world.getWorldTime() % 600 == 0) {
+//         server.commandManager.executeCommand(server, "/clear " + player.name);
+//         server.commandManager.executeCommand(server, "/kill " + player.name);
+//         player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.anticheat.pls_remove"));
+//         for mod in disallowedMods {
+//             if (loadedMods has mod) {
+//                 player.sendChat("§b" + loadedMods[mod].name + "  §e" + loadedMods[mod].version);
+//             }
+//         }
+//     }
+// });

@@ -353,11 +353,6 @@ RecipeUtil.addShaped("auto_gen_893026726", <ironchest:iron_chest:2>, [
     [<minecraft:diamond>, <minecraft:gold_block>, <minecraft:diamond>],
     [<minecraft:glass>, <minecraft:glass>, <minecraft:glass>]
 ]);
-RecipeUtil.addShaped("auto_gen_-2024479741", <additions:greedycraft-aurora_heart>, [
-    [<quark:rune:16>, <quark:rune:16>, <quark:rune:16>],
-    [<quark:rune:16>, <mowziesmobs:ice_crystal>, <quark:rune:16>],
-    [<quark:rune:16>, <quark:rune:16>, <quark:rune:16>]
-]);
 //
 RecipeUtil.addShaped("auto_gen_-503951361", <additions:greedycraft-experience_ingot> * 8, [
     [<actuallyadditions:item_solidified_experience>, <actuallyadditions:item_solidified_experience>, <actuallyadditions:item_solidified_experience>],
