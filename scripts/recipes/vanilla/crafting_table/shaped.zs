@@ -458,34 +458,34 @@ RecipeUtil.addShaped("bh_medal_upgrade1", <additions:greedycraft-bounty_hunter_m
     [<additions:greedycraft-bounty_hunter_medal_silver>, <additions:greedycraft-bounty_hunter_medal_silver>, <additions:greedycraft-bounty_hunter_medal_silver>]
 ]);
 RecipeUtil.addShaped("auto_gen_-609778103", <danknull:dank_null_panel_0>, [
-    [<ore:dustRedstone>, <ore:gemCoal>, <ore:dustRedstone>],
-    [<ore:gemCoal>, <ore:dustRedstone>, <ore:gemCoal>],
-    [<ore:dustRedstone>, <ore:gemCoal>, <ore:dustRedstone>]
+    [<ore:dustRedstone>, <ore:itemCoal>, <ore:dustRedstone>],
+    [<ore:itemCoal>, <ore:dustRedstone>, <ore:itemCoal>],
+    [<ore:dustRedstone>, <ore:itemCoal>, <ore:dustRedstone>]
 ]);
 RecipeUtil.addShaped("auto_gen_-1593973926", <danknull:dank_null_panel_1>, [
-    [<ore:gemLapis>, <ore:gemCoal>, <ore:gemLapis>],
-    [<ore:gemCoal>, <ore:gemLapis>, <ore:gemCoal>],
-    [<ore:gemLapis>, <ore:gemCoal>, <ore:gemLapis>]
+    [<ore:gemLapis>, <ore:itemCoal>, <ore:gemLapis>],
+    [<ore:itemCoal>, <ore:gemLapis>, <ore:itemCoal>],
+    [<ore:gemLapis>, <ore:itemCoal>, <ore:gemLapis>]
 ]);
 RecipeUtil.addShaped("auto_gen_1115440192", <danknull:dank_null_panel_2>, [
-    [<ore:ingotIron>, <ore:gemCoal>, <ore:ingotIron>],
-    [<ore:gemCoal>, <ore:ingotIron>, <ore:gemCoal>],
-    [<ore:ingotIron>, <ore:gemCoal>, <ore:ingotIron>]
+    [<ore:ingotIron>, <ore:itemCoal>, <ore:ingotIron>],
+    [<ore:itemCoal>, <ore:ingotIron>, <ore:itemCoal>],
+    [<ore:ingotIron>, <ore:itemCoal>, <ore:ingotIron>]
 ]);
 RecipeUtil.addShaped("auto_gen_-1283760985", <danknull:dank_null_panel_3>, [
-    [<ore:ingotGold>, <ore:gemCoal>, <ore:ingotGold>],
-    [<ore:gemCoal>, <ore:ingotGold>, <ore:gemCoal>],
-    [<ore:ingotGold>, <ore:gemCoal>, <ore:ingotGold>]
+    [<ore:ingotGold>, <ore:itemCoal>, <ore:ingotGold>],
+    [<ore:itemCoal>, <ore:ingotGold>, <ore:itemCoal>],
+    [<ore:ingotGold>, <ore:itemCoal>, <ore:ingotGold>]
 ]);
 RecipeUtil.addShaped("auto_gen_1421367790", <danknull:dank_null_panel_4>, [
-    [<ore:gemDiamond>, <ore:gemCoal>, <ore:gemDiamond>],
-    [<ore:gemCoal>, <ore:gemDiamond>, <ore:gemCoal>],
-    [<ore:gemDiamond>, <ore:gemCoal>, <ore:gemDiamond>]
+    [<ore:gemDiamond>, <ore:itemCoal>, <ore:gemDiamond>],
+    [<ore:itemCoal>, <ore:gemDiamond>, <ore:itemCoal>],
+    [<ore:gemDiamond>, <ore:itemCoal>, <ore:gemDiamond>]
 ]);
 RecipeUtil.addShaped("auto_gen_-1058951393", <danknull:dank_null_panel_5>, [
-    [<ore:gemEmerald>, <ore:gemCoal>, <ore:gemEmerald>],
-    [<ore:gemCoal>, <ore:gemEmerald>, <ore:gemCoal>],
-    [<ore:gemEmerald>, <ore:gemCoal>, <ore:gemEmerald>]
+    [<ore:gemEmerald>, <ore:itemCoal>, <ore:gemEmerald>],
+    [<ore:itemCoal>, <ore:gemEmerald>, <ore:itemCoal>],
+    [<ore:gemEmerald>, <ore:itemCoal>, <ore:gemEmerald>]
 ]);
 RecipeUtil.addShaped("dank_null_0", <danknull:dank_null_0>, [
     [null, <danknull:dank_null_panel_0>, null],
