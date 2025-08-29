@@ -40,7 +40,7 @@ events.onPlayerLoggedIn(function(event as crafttweaker.event.PlayerLoggedInEvent
         server.commandManager.executeCommand(server, "/scoreboard players set §b title 3"); 
         server.commandManager.executeCommand(server, "/scoreboard players set " + LangUtil.translate("greedycraft.scoreboard.author") + " title 4");
         if (player.hasGameStage("iswuss")) {
-            if (player.creative) {
+            if (player.hasGameStage("creative_mode")) {
                 server.commandManager.executeCommand(server, "/scoreboard players set " + LangUtil.translate("greedycraft.scoreboard.creative_mode") + " title 1");
             } else {
                 server.commandManager.executeCommand(server, "/scoreboard players set " + LangUtil.translate("greedycraft.scoreboard.cheat_mode") + " title 1");

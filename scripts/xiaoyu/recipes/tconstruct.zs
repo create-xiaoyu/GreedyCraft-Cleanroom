@@ -8,6 +8,8 @@ import mods.tconstruct.Casting;
 import mods.tconstruct.Melting;
 import mods.tconstruct.Alloy;
 
+// 修复耐酸铝撞注册
+
 var removeTableRecipe as IItemStack[] = [
     <tconstruct:ingots:6>,
     <tconstruct:nuggets:6>
@@ -18,7 +20,6 @@ var removeMeltingAlumiteRecipe as IItemStack[] = [
     <tconstruct:ingots:6>,
     <tconstruct:nuggets:6>
 ];
-
 
 for remove in removeTableRecipe {
     Casting.removeTableRecipe(remove);

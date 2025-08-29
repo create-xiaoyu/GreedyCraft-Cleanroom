@@ -118,7 +118,15 @@ var JEIhide as IItemStack[] = [
     <tconstruct:metal:7>,
     <tconstruct:ingots:6>,
     <tconstruct:nuggets:6>,
-    <plustic:plustic.molten_alumite>
+    <plustic:plustic.molten_alumite>,
+    <forestry:resources:1>,
+    <tconstruct:common_ore>,
+    <mekanism:oreblock:1>,
+    <tconstruct:common_ore:2>,
+    <forestry:resources:2>,
+    <tconstruct:common_ore:1>,
+    <mekanism:oreblock:2>,
+    <mekanism:oreblock:4>
 ];
 
 for hide in JEIhide {

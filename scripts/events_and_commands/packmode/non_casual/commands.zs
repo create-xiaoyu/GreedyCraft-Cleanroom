@@ -132,7 +132,7 @@ events.onPlayerTick(function (event as PlayerTickEvent) {
     server.commandManager.executeCommand(server, "/scoreboard players reset " + LangUtil.translate("greedycraft.scoreboard.cheat_mode"));
     server.commandManager.executeCommand(server, "/scoreboard players reset " + LangUtil.format("greedycraft.scoreboard.true_hero", player.name));
     if (player.hasGameStage("iswuss")) {
-        if (player.creative) {
+        if (player.hasGameStage("creative_mode")) {
             server.commandManager.executeCommand(server, "/scoreboard players set " + LangUtil.translate("greedycraft.scoreboard.creative_mode") + " title 1");
         } else {
             server.commandManager.executeCommand(server, "/scoreboard players set " + LangUtil.translate("greedycraft.scoreboard.cheat_mode") + " title 1");
