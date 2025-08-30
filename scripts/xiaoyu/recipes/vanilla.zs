@@ -2,18 +2,6 @@
 
 #priority 1
 
-import crafttweaker.item.IItemStack;
-
-var recipesRemove as IItemStack[] = [
-    <tconstruct:metal:7>,
-    <tconstruct:ingots:6>,
-    <tconstruct:nuggets:6>
-];
-
-for remove in recipesRemove {
-    recipes.remove(remove);
-}
-
 // 赏金猎人奖章[铜]
 /*
  * 有序合成：
@@ -55,6 +43,6 @@ recipes.addShaped("残破书卷", <additions:greedycraft-ancient_tome_fragment> 
 
 // 无序合成：
 // 匠魂怀古矿石转换
-recipes.addShapeless("匠魂铜矿转热力铜矿", <thermalfoundation:ore>, [<tconstruct:common_ore>]);
-recipes.addShapeless("匠魂锡矿转热力锡矿", <thermalfoundation:ore:1>, [<tconstruct:common_ore:1>]);
-recipes.addShapeless("匠魂铝矿转热力铝矿", <thermalfoundation:ore:4>, [<tconstruct:common_ore:2>]);
+// recipes.addShapeless("匠魂铜矿转热力铜矿", <thermalfoundation:ore>, [<tconstruct:common_ore>]);
+// recipes.addShapeless("匠魂锡矿转热力锡矿", <thermalfoundation:ore:1>, [<tconstruct:common_ore:1>]);
+// recipes.addShapeless("匠魂铝矿转热力铝矿", <thermalfoundation:ore:4>, [<tconstruct:common_ore:2>]);
