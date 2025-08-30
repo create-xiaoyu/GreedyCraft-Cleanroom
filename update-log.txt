@@ -1,0 +1,37 @@
+整合包更新日志：
+
+1.37.1.1 -> 1.37.1.2：
+修复无底之箱板无法合成
+钻石无法放入高级压印器
+世界中不会再出现mek和匠魂怀古的矿石
+
+1.37.1.2 -> 1.37.1.3：
+更新日志：
+1.修复矿物挖下来会变成匠魂怀古矿石
+2.修补下界和末地矿石部分缺失汉化
+3.修复计分板逻辑异常
+4.jei隐藏重复矿石
+5.修复末影接口配方问题
+6.添加配方匠魂怀古矿石可转换为热力矿石
+7.部分脚本添加注释
+8.通用修改开启对crafttweaker的nbt修复
+9.更新模组：封包合成 TheOneProbe-Ce 测试假人
+10.修复MEK非官方社区版json格式错误的日志报错问题
+删除模组：
+delete:mods\PackagedAuto-1.12.2-1.0.22.69.jar
+delete:mods\TestDummy2-2.0.4.jar
+delete:mods\TheOneProbe-CE-1.12-1.3.5-fix3.jar
+
+1.37.1.3 -> 1.37.1.4：
+更新日志：
+1.回退plustic和匠魂为官方版本以修复匠魂类问题
+2.删除回滚后多余脚本
+3.替换cleanroom-relauncher为非官方版
+4.将cleanroom版本更新至最新预览构建
+删除模组及文件：
+delete:mods\plustic-9.2.1-original-mc1.12.2.jar
+delete:mods\TinkersAntique-1.12.2-2.13.0.202.jar
+delete:mods\!cleanroom-relauncher-0.3.0.jar
+delete:scripts\xiaoyu\recipes\ore_dictionary.zs
+delete:scripts\xiaoyu\recipes\tconstruct.zs
+delete:config\relauncher.json
