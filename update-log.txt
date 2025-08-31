@@ -46,3 +46,7 @@ delete:config\relauncher.json
 删除模组及文件：
 delete:scripts\tweaks\display_name.zs
 delete:mods\MysticalCreations-1.12.2-1.6.1.jar
+
+1.37.1.5 -> 1.37.1.6：
+更新日志：
+更改匠魂(金)赌博词条
