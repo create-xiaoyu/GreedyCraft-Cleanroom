@@ -210,9 +210,9 @@ gambleTrait.color = Color.fromHex("fdd835").getIntColor();
 gambleTrait.localizedName = game.localize("greedycraft.tconstruct.armor_trait.gambleTrait.name");
 gambleTrait.localizedDescription = game.localize("greedycraft.tconstruct.armor_trait.gambleTrait.desc");
 gambleTrait.onHurt = function(trait, armor, player, source, damage, newDamage, evt) {
-    if (Math.random() < 0.05) {
-        return newDamage * 2.0f;
-    }
+    // if (Math.random() < 0.05) {
+    //     return newDamage * 2.0f;
+    // }
     if (Math.random() < 0.25) {
         return (newDamage / 2.0f) as float;
     }

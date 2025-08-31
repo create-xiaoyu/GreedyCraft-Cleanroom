@@ -101,9 +101,12 @@ gambleTrait.localizedDescription = game.localize("greedycraft.tconstruct.tool_tr
 gambleTrait.calcDamage = function(trait, tool, attacker, target, originalDamage, newDamage, isCritical) {
     var dmg = newDamage;
     var rand as double = Math.random();
-    if (rand < 0.15) {
-        dmg = newDamage * 2 as float; 
-    } else if (rand < 0.45) {
+    // if (rand < 0.15) {
+    //     dmg = newDamage * 2 as float; 
+    // } else if (rand < 0.45) {
+    //     dmg = newDamage * 2 as float; 
+    // }
+    if (rand < 0.45) {
         dmg = newDamage * 2 as float; 
     }
     return dmg;
