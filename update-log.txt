@@ -35,3 +35,14 @@ delete:mods\!cleanroom-relauncher-0.3.0.jar
 delete:scripts\xiaoyu\recipes\ore_dictionary.zs
 delete:scripts\xiaoyu\recipes\tconstruct.zs
 delete:config\relauncher.json
+
+1.37.1.4 -> 1.37.1.5：
+更新日志：
+1.修复MEK有机农场产物异常问题
+2.修补业汉化
+3.修复天境传送门无法开启
+4.修复部分模组的指南被添加到阶段
+5.下调枯萎巨龙两魂到神龙级聚合
+删除模组及文件：
+delete:scripts\tweaks\display_name.zs
+delete:mods\MysticalCreations-1.12.2-1.6.1.jar
