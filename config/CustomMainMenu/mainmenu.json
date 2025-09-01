@@ -133,7 +133,7 @@
             "imageHeight": 383,
 			"wrappedButton": 17325,
             "texture": "greedycraft:mainmenu/account.png",
-            "tooltip": "¡ì7ÄúÄ¿Ç°µÇÂ¼µÄÓÃ»§ÃûÊÇ¡ìe#username#\n¡ìaµã»÷ÒÔÇĞ»»ÕË»§£¡"
+            "tooltip": "Â§7æ‚¨ç›®å‰ç™»å½•çš„ç”¨æˆ·åæ˜¯Â§e#username#\nÂ§aç‚¹å‡»ä»¥åˆ‡æ¢è´¦æˆ·ï¼"
         },
         "sponsor": {
             "text": " ",
@@ -214,7 +214,7 @@
 			"imageWidth": 383,
 			"imageHeight": 383,
 			"texture": "greedycraft:mainmenu/bisect.png",
-			"tooltip": "¡ì6¡ìlĞèÒª·şÎñÆ÷Âğ£¿\n¡ìbÌ°À·ÕûºÏ°ü¡ìaÓÉ¡ì9Bisect Hosting¡ìaÔŞÖú£¡\n¡ìaÊ¹ÓÃÓÅ»İÂë¡ìdTCreopargh¡ìa¼´¿É»ñÈ¡Ê×ÔÂ¡ìb25%%ÓÅ»İ¡ìa£¡\n¡ìe£¨½¨Òé·şÎñÆ÷ÄÚ´æ²»ÉÙÓÚ¡ì68GB¡ìe¡££©",
+			"tooltip": "Â§6Â§léœ€è¦æœåŠ¡å™¨å—ï¼Ÿ\nÂ§bè´ªå©ªæ•´åˆåŒ…Â§aç”±Â§9Bisect HostingÂ§aèµåŠ©ï¼\nÂ§aä½¿ç”¨ä¼˜æƒ ç Â§dTCreoparghÂ§aå³å¯è·å–é¦–æœˆÂ§b25%%ä¼˜æƒ Â§aï¼\nÂ§eï¼ˆå»ºè®®æœåŠ¡å™¨å†…å­˜ä¸å°‘äºÂ§68GBÂ§eã€‚ï¼‰",
 			"action": {
 				"type": "openLink",
 				"link": "https://bisecthosting.com/TCreopargh"
@@ -224,7 +224,7 @@
     "labels": {
         "mojang": {
             "text": "Copyright Mojang AB. Do not distribute!",
-            "hoverText": "¡ì7¡ìnµã»÷²é¿´Minecraft¿ª·¢ÈËÔ±ÁĞ±í",
+            "hoverText": "Â§7Â§nç‚¹å‡»æŸ¥çœ‹Minecraftå¼€å‘äººå‘˜åˆ—è¡¨",
             "color": -1,
             "alignment": "bottom_right",
             "posX": -2,
@@ -236,8 +236,8 @@
             }
         },
         "minecraft_version": {
-			"text": "¡ìaMinecraft ¡ì2#mcversion#",
-			"hoverText": "¡ìaMinecraft Coder Pack ¡ì2#mcpversion#",
+			"text": "Â§aMinecraft Â§2#mcversion#",
+			"hoverText": "Â§aMinecraft Coder Pack Â§2#mcpversion#",
             "color": -1,
             "posX": 2,
             "posY": -52,
@@ -245,16 +245,16 @@
         },
         "modinfo": {
             "alignment": "bottom_left",
-			"text": "¡ì9Forge°æ±¾: ¡ìb#forgeversion#  ¡ìeÒÑ¼ÓÔØ¡ì6#modsloaded#¡ìe¸öÄ£×é",
-			"hoverText": "¡ìaFML°æ±¾: ¡ì2#fmlversion#  ¡ìdÒÑÆôÓÃ¡ì5#modsactive#¡ìd¸öÄ£×é",
+			"text": "Â§9Forgeç‰ˆæœ¬: Â§b#forgeversion#  Â§eå·²åŠ è½½Â§6#modsloaded#Â§eä¸ªæ¨¡ç»„",
+			"hoverText": "Â§aFMLç‰ˆæœ¬: Â§2#fmlversion#  Â§då·²å¯ç”¨Â§5#modsactive#Â§dä¸ªæ¨¡ç»„",
             "color": -1,
             "posX": 2,
             "posY": -32
         },
         "packinfo": {
             "alignment": "bottom_left",
-			"text": " ¡ìe¡ï ¡ìb¡ìlÌ°À·ÕûºÏ°ü ¡ìe¡ï ¡ìr¡ìdby TCreopargh",
-			"hoverText": " ¡ì5¡ï ¡ìc¡ìlÌ°À·ÕûºÏ°ü ¡ì5¡ï ¡ìr¡ìaby TCreopargh",
+			"text": " Â§eâ˜… Â§bÂ§lè´ªå©ªæ•´åˆåŒ… Â§eâ˜… Â§rÂ§dby TCreopargh",
+			"hoverText": " Â§5â˜… Â§cÂ§lè´ªå©ªæ•´åˆåŒ… Â§5â˜… Â§rÂ§aby TCreopargh",
             "action": {
                 "type": "openLink",
                 "link": "https://greedycraft.com/"
@@ -264,8 +264,8 @@
             "posY": -42
         },
         "time": {
-			"text": "¡ì9ÄãºÃ£¬¡ìe#username#¡ì9£¡¡ì6ÏÖÔÚÊÇ£º¡ìb#time#",
-			"hoverText": "¡ì9ÄãºÃ£¬¡ìe#username#¡ì9£¡¡ì6ÏÖÔÚÊÇ£º¡ìd#date# ¡ìb#time#",
+			"text": "Â§9ä½ å¥½ï¼ŒÂ§e#username#Â§9ï¼Â§6ç°åœ¨æ˜¯ï¼šÂ§b#time#",
+			"hoverText": "Â§9ä½ å¥½ï¼ŒÂ§e#username#Â§9ï¼Â§6ç°åœ¨æ˜¯ï¼šÂ§d#date# Â§b#time#",
             "posX": 2,
             "posY": 12,
             "color": -1,

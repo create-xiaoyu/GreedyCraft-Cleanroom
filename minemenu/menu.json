@@ -1,7 +1,7 @@
 {
   "main": {
     "0": {
-      "title": "¡ì5²é¿´µ±Ç°ÄÑ¶È ¡ì9¡ìoScalingHealth",
+      "title": "Â§5æŸ¥çœ‹å½“å‰éš¾åº¦ Â§9Â§oScalingHealth",
       "icon": {
         "name": "headcrumbs:skull",
         "damage": 0
@@ -14,7 +14,7 @@
       }
     },
     "1": {
-      "title": "¡ì6´ò¿ªÀ©Õ¹ÎïÆ·À¸ ¡ì7(Èç¹ûÒÑ½âËø) ¡ì9¡ìoCyclic",
+      "title": "Â§6æ‰“å¼€æ‰©å±•ç‰©å“æ  Â§7(å¦‚æœå·²è§£é”) Â§9Â§oCyclic",
       "icon": {
         "name": "forestry:apiarist_bag",
         "damage": 0
@@ -27,7 +27,7 @@
       }
     },
     "2": {
-      "title": "¡ì6´ò¿ª¿ìËÙºÏ³ÉÌ¨ ¡ì7(Èç¹ûÒÑ½âËø) ¡ì9¡ìoCyclic",
+      "title": "Â§6æ‰“å¼€å¿«é€Ÿåˆæˆå° Â§7(å¦‚æœå·²è§£é”) Â§9Â§oCyclic",
       "icon": {
         "name": "minecraft:crafting_table",
         "damage": 0
@@ -40,7 +40,7 @@
       }
     },
     "3": {
-      "title": "¡ì5ÊÍ·ÅÊµÌå ¡ì9¡ìoPlusTiC",
+      "title": "Â§5é‡Šæ”¾å®ä½“ Â§9Â§oPlusTiC",
       "icon": {
         "name": "minecraft:spawn_egg",
         "damage": 0
@@ -53,7 +53,7 @@
       }
     },
     "4": {
-      "title": "¡ì3´ò¿ªÎŞµ×Ö®Ïä ¡ì9¡ìo/dank/null",
+      "title": "Â§3æ‰“å¼€æ— åº•ä¹‹ç®± Â§9Â§o/dank/null",
       "icon": {
         "name": "minecraft:chest",
         "damage": 0
@@ -66,7 +66,7 @@
       }
     },
     "5": {
-      "title": "¡ì6´ò¿ª±³°ü ¡ì9¡ìoSimply Backpacks",
+      "title": "Â§6æ‰“å¼€èƒŒåŒ… Â§9Â§oSimply Backpacks",
       "icon": {
         "name": "simplybackpacks:commonbackpack",
         "damage": 0
@@ -79,7 +79,7 @@
       }
     },
     "6": {
-      "title": "¡ì6´ò¿ªÎŞÏßºÏ³ÉÖÕ¶Ë ¡ì7(Èç¹ûÒÑ×°±¸)",
+      "title": "Â§6æ‰“å¼€æ— çº¿åˆæˆç»ˆç«¯ Â§7(å¦‚æœå·²è£…å¤‡)",
       "icon": {
         "name": "appliedenergistics2:wireless_crafting_terminal",
         "damage": 0
@@ -92,7 +92,7 @@
       }
     },
     "7": {
-      "title": "¡ìaÇĞ»»ÕæÊµµÚÒ»ÈË³Æ¡ìr¡ì9¡ìo RealFirstPerson2",
+      "title": "Â§aåˆ‡æ¢çœŸå®ç¬¬ä¸€äººç§°Â§rÂ§9Â§o RealFirstPerson2",
       "icon": {
         "name": "minecraft:skull",
         "damage": 3
@@ -105,7 +105,7 @@
       }
     },
     "8": {
-      "title": "¡ì6ÇåÀíÄÚ´æ ¡ì9¡ìoMemory Cleaner",
+      "title": "Â§6æ¸…ç†å†…å­˜ Â§9Â§oMemory Cleaner",
       "icon": {
         "name": "additions:greedycraft-item_purger",
         "damage": 0
@@ -118,7 +118,7 @@
       }
     },
     "9": {
-      "title": "¡ìaÇĞ»»´Å¿¨Ä£Ê½ ¡ì9¡ìo(´ËÏîÎŞĞ§)",
+      "title": "Â§aåˆ‡æ¢ç£å¡æ¨¡å¼ Â§9Â§o(æ­¤é¡¹æ— æ•ˆ)",
       "icon": {
         "name": "appliedenergistics2:material",
         "damage": 60
