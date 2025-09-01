@@ -57,6 +57,8 @@ delete:mods\MysticalCreations-1.12.2-1.6.1.jar
 1.修复能量核心组装后模型无法显示问题
 2.将能量核心移出阶段限制
 3.更新Fugue到预览构建修复错误日志在日志文件里疯狂写入
+删除模组及文件：
+delete:mods\hardcoreitemstages-1.12.2-1.0.1.jar
 
 1.37.1.7 -> 1.37.1.8：
 更新日志：
