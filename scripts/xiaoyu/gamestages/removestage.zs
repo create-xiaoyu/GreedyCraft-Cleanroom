@@ -11,7 +11,8 @@ var removeNeterStage as IItemStack[] = [
     <cyclicmagic:tool_trade>,
     <draconicevolution:info_tablet>,
     <mekanism:dictionary>,
-    <projecte:item.pe_manual>
+    <projecte:item.pe_manual>,
+    <draconicevolution:energy_storage_core>
 ];
 
 for remove in removeNeterStage {
