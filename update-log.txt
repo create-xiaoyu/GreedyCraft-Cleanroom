@@ -64,3 +64,6 @@ delete:mods\MysticalCreations-1.12.2-1.6.1.jar
 2.回滚cleanroom版本为0.3.13-alpha正式版
 3.将整合包GBK编码文件修改为UTF-8
 4.删除cleanroom_relauncher.cfg文件（应当自行填写）
+删除模组及文件：
+delete:mods\pouchofunknown-1.9.jar
+delete:config\pouchofunknown-1.9.jarcleanroom_relauncher.cfg
