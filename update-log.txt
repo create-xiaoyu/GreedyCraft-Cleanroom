@@ -68,4 +68,4 @@ delete:mods\hardcoreitemstages-1.12.2-1.0.1.jar
 4.删除cleanroom_relauncher.cfg文件（应当自行填写）
 删除模组及文件：
 delete:mods\pouchofunknown-1.9.jar
-delete:config\pouchofunknown-1.9.jarcleanroom_relauncher.cfg
+delete:config\cleanroom_relauncher.cfg
