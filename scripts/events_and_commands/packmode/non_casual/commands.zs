@@ -31,7 +31,8 @@ import scripts.util.lang as LangUtil;
 import scripts.util.versions as VersionUtil;
 
 function isWuss(player as IPlayer) as bool {
-    return (player.creative || player.hasGameStage("iswuss")); 
+    // return (player.creative || player.hasGameStage("iswuss"));
+    return false;
 }
 
 events.onCommand(function (event as CommandEvent) {
@@ -90,7 +91,7 @@ events.onCommand(function (event as CommandEvent) {
     if (isBanned) {
         if (event.commandSender instanceof IPlayer) {
             val player as IPlayer = event.commandSender;
-            if (!isWuss(player)) {
+            if (!player.hasGameStage("creative_mode")) {
                 event.cancel();
                 //player.server.commandManager.executeCommand(player.server, "/kill " + player.name);
                 player.sendRichTextMessage(ITextComponent.fromTranslation("greedycraft.event.anticheat.general"));

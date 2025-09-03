@@ -67,3 +67,18 @@ delete:mods\MysticalCreations-1.12.2-1.6.1.jar
 删除模组及文件：
 delete:mods\pouchofunknown-1.9.jar
 delete:config\pouchofunknown-1.9.jarcleanroom_relauncher.cfg
+
+1.37.1.8 -> 1.37.1.9：
+更新日志：
+[WARN]警告！此更新为破坏性更新
+
+1.修复进入下界时有概率崩溃(修改寻找巧克力重铸版模组源代码与结构生成相关部分)
+2.以打补丁的方式修复电力装载词条可能无效(By shinara)
+3.修改命令执行逻辑，现在仅以创造模式创建的存档可无限制执行命令
+4.开放/spawn /back /time /spawn命令
+5.更新模组：通用修改 ZenUtils ae2无线终端
+删除模组及文件：
+delete:mods\ae2wut-1.1.4.jar
+delete:mods\UniversalTweaks-1.12.2-1.15.2.jar
+delete:mods\zenutils-1.25.5.jar
+delete:mods\Chocolate_Quest_Repoured-1.12.2-2.7.1B.jar

@@ -77,5 +77,8 @@ global whitelistedCommands as string[] = [
     "acunlockallknowledge",
     "ftb",
     "sethome",
-    "home"
+    "home",
+    "back",
+    "time",
+    "spawn"
 ];
