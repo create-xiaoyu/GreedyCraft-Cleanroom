@@ -100,3 +100,4 @@ delete:mods\modularmachinery-1.12.2-1.11.1.jar
 delete:mods\UniversalTweaks-1.12.2-1.16.0.jar
 delete:mods\zenutils-1.25.6.jar
 delete:mods\jei_1.12.2-4.16.1.1013.jar
+delete:mods\+Fugue-0.20.1.jar
