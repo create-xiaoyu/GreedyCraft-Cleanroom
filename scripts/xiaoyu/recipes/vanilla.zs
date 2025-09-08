@@ -237,7 +237,7 @@ recipes.addShaped("固体离心机控制器", <modularmachinery:solid_centrifuge
  * 马玉灵块 不锈钢块 马玉灵块
  */
 
-recipes.addShaped("聚合熔炉控制器", <modularmachinery:solid_centrifuge_controller>,
+recipes.addShaped("聚合熔炉控制器", <modularmachinery:fusion_forge_controller>,
 [[<tconstruct:metal:2>,<additions:greedycraft-stainless_steel_block>,<tconstruct:metal:2>],
 [<additions:greedycraft-stainless_steel_block>,<modularmachinery:blockcontroller>,<additions:greedycraft-stainless_steel_block>],
 [<tconstruct:metal:2>,<additions:greedycraft-stainless_steel_block>,<tconstruct:metal:2>]]);
