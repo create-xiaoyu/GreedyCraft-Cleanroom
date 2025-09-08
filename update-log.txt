@@ -84,3 +84,19 @@ delete:mods\ae2wut-1.1.4.jar
 delete:mods\UniversalTweaks-1.12.2-1.15.2.jar
 delete:mods\zenutils-1.25.5.jar
 delete:mods\Chocolate_Quest_Repoured-1.12.2-2.7.1B.jar
+
+1.37.1.9 -> 1.37.1.10：
+更新日志：
+1.替换模块化机械为社区版
+2.添加模块化机械：聚合熔炉
+3.增加聚合矩阵合成及合成路线到聚合熔炉
+4.替换JEI为HEI（copy了一份贪婪2的配置文件）
+5.更新模组：通用修改 ZenUtils
+6.更新《贪婪整合包从入门到精通》
+7.在hei中隐藏所有模块化机械蓝图
+8.为所有模块化机械控制器添加合成配方
+删除模组及文件：
+delete:mods\modularmachinery-1.12.2-1.11.1.jar
+delete:mods\UniversalTweaks-1.12.2-1.16.0.jar
+delete:mods\zenutils-1.25.6.jar
+delete:mods\jei_1.12.2-4.16.1.1013.jar
