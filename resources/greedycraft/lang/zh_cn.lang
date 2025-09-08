@@ -425,7 +425,7 @@ greedycraft.tooltip.modularmachinery.blockcasing.2=§e2级机械升级方块
 greedycraft.tooltip.modularmachinery.blockcasing.3=§e3级机械升级方块
 greedycraft.tooltip.modularmachinery.blockcasing.5=§e4级机械升级方块
 greedycraft.tooltip.modularmachinery.itemblueprint.1=§e如果遇到问题请查阅整合包手册
-greedycraft.tooltip.modularmachinery.itemblueprint.2=§c机器工作不需要蓝图，蓝图仅供查询配方和结构
+greedycraft.tooltip.modularmachinery.itemblueprint.2=§c机器工作不需要蓝图。
 greedycraft.tooltip.oeintegration.excavatemodifier.1=§e请在工具锻造台中与工具合成以应用该强化 
 greedycraft.tooltip.oeintegration.excavatemodifier.2=§e(最高5级，低级挖矿时不总是连锁)
 greedycraft.tooltip.ore.ingotNetherite.1=§e请用匠魂冶炼炉制作这种合金
@@ -1700,3 +1700,5 @@ greedycraft.event.sponsor.welcome.1=§e加入了游戏！§d§ka§r §b<§a<§e<
 
 greedycraft.misc.lightspeedpotion.name=§b§o卡其脱离太
 greedycraft.misc.lightspeedpotion.tooltip=§a感受疾风吧！
+
+greedycraft.xiaoyu.tooltip.modularmachinery.controller=§eJEI中鼠标左键点击以查询配方，使用木棍右键控制器可进行自动化搭建。

@@ -2,11 +2,11 @@
 
 #priority 1
 
-import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
 
 import mods.jei.JEI;
 
-var JEIhide as IItemStack[] = [
+var JEIhide as IIngredient[] = [
     <aeadditions:terminal.universal.wireless>,
     <jaopca:avaritia_singularity.alumina>,
     <jaopca:avaritia_singularity.aluminium>,
@@ -120,7 +120,7 @@ var JEIhide as IItemStack[] = [
     <mekanism:oreblock:1>,
     <forestry:resources:2>,
     <mekanism:oreblock:2>,
-    <mekanism:oreblock:4>
+    <mekanism:oreblock:4>,
 ];
 
 for hide in JEIhide {
