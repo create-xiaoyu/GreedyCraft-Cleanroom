@@ -1,4 +1,4 @@
-// 此脚本及xiaoyu文件夹下所有脚本，由create_xiaoyu编写
+// 此脚本及xiaoyu文件夹下大部分脚本，由create_xiaoyu编写
 
 #priority 1
 

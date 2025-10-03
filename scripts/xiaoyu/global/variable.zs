@@ -1,4 +1,4 @@
-// 此脚本及xiaoyu文件夹下所有脚本，由create_xiaoyu编写
+// 此脚本及xiaoyu文件夹下大部分脚本，由create_xiaoyu编写
 
 #priority 2
 
@@ -19,5 +19,6 @@ global ModularMachineryController as IIngredient[] = [
     <modularmachinery:durasteel_forge_controller>,
     <modularmachinery:solid_centrifuge_controller>,
     <modularmachinery:organic_producer_controller>,
-    <modularmachinery:fusion_forge_controller>
+    <modularmachinery:fusion_forge_controller>,
+    
 ];

@@ -1,4 +1,4 @@
-// 此脚本及xiaoyu文件夹下所有脚本，由create_xiaoyu编写
+// 此脚本及xiaoyu文件夹下大部分脚本，由create_xiaoyu编写
 
 #priority 1
 
@@ -7,28 +7,36 @@ import crafttweaker.item.IIngredient;
 
 import mods.mekanism.organicfarm;
 
-var removeOrganicFarm as IItemStack[] = [
-    <mysticalcreations:cake_seeds>,
-    <mysticalcreations:witch_seeds>,
-    <mysticalcreations:titanium_seeds>,
-    <mysticalcreations:chromium_seeds>,
-    <mysticalcreations:stainless_steel_seeds>,
-    <mysticalcreations:fusion_matrix_seeds>,
-    <mysticalcreations:meteor_seeds>
-];
-
-var Name as string[] = [
+val Name as string[] = [
     "cake",
     "witch",
     "titanium",
     "chromium",
     "stainless_steel",
     "fusion_matrix",
-    "meteor"
+    "meteor",
+    "scarlite",
+    "aeroite",
+    "aqualite",
+    "asgardium",
+    "experience",
+    "liquified_coralium",
+    "manganese",
+    "shadowium",
+    "umbrium",
+    "ambrosium",
+    "dimensional_shard",
+    "hephaestite",
+    "infernium",
+    "cytosinite",
+    "netherite",
+    "cryonium"
 ];
 
-for remove in removeOrganicFarm {
-    organicfarm.removeRecipe(remove);
+for remove in Name {
+    val seedName as string = "mysticalcreations:" + remove + "_seeds";
+    val removeSeedsRecipes as IItemStack = itemUtils.getItem(seedName);
+    organicfarm.removeRecipe(removeSeedsRecipes);
 }
 
 for add in Name {

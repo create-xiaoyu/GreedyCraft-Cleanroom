@@ -5,7 +5,7 @@
 
 #priority 800
 
-#packmode casual adventure
+#packmode expert
 
 // Powered by TCreopargh
 
@@ -679,7 +679,7 @@ val seedRecipes as IIngredient[][][IItemStack] = {
 } as IIngredient[][][IItemStack];
 
 for seed in seedRecipes {
-    // recipes.remove(seed);
+    recipes.remove(seed);
     var baseItemName as string = game.localize("greedycraft.mysticalagriculture.base_item");
     var grid as IIngredient[][] = seedRecipes[seed] as IIngredient[][];
     if (grid.length > 0 && grid[0].length > 0) {

@@ -1,4 +1,4 @@
-// 此脚本及xiaoyu文件夹下所有脚本，由create_xiaoyu编写
+// 此脚本及xiaoyu文件夹下大部分脚本，由create_xiaoyu编写
 
 #priority 1
 
@@ -18,4 +18,4 @@ FusionCrafting.add(<additions:greedycraft-dragon_soul>, <minecraft:dragon_egg>, 
  * 10亿RF
  * 下界之星核心 4x水晶矩阵 觉醒核心 极寒水晶
  */
-FusionCrafting.add(<additions:greedycraft-wither_soul>, <mysticalagradditions:special>, FusionCrafting.DRACONIC, 1000000004,[<avaritia:block_resource:2>, <avaritia:block_resource:2>, <avaritia:block_resource:2>, <avaritia:block_resource:2>, <draconicevolution:awakened_core>, <redstonerepository:material:5>]);
+FusionCrafting.add(<additions:greedycraft-wither_soul>, <mysticalagradditions:special>, FusionCrafting.DRACONIC, 1000000002,[<avaritia:block_resource:2>, <avaritia:block_resource:2>, <avaritia:block_resource:2>, <avaritia:block_resource:2>, <draconicevolution:awakened_core>, <redstonerepository:material:5>]);

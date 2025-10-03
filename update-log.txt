@@ -101,3 +101,26 @@ delete:mods\UniversalTweaks-1.12.2-1.16.0.jar
 delete:mods\zenutils-1.25.6.jar
 delete:mods\jei_1.12.2-4.16.1.1013.jar
 delete:mods\+Fugue-0.20.1.jar
+
+1.37.1.10 -> 1.37.1.11：
+更新日志：
+1.将Cleanroom启动方式更改为HMCL原生支持
+2.新增贪婪二特调光影
+3.删除jaopca神秘农业扩展
+4.休闲和冒险模式可以使用工作台合成各种子
+5.修复某些未知物品是英文(By lqr)
+6.修复一些本地化错误
+7.更新模组：Fugue Mekanism-CE-Unofficial Forgelin-Continuous HadEnoughItems MoBends PackagedThaumic ae2wut zenutils
+删除模组及文件：
+delete:mods\+Fugue-0.20.3.jar
+delete:mods\ae2wut-1.1.7.jar
+delete:mods\Forgelin-Continuous-2.2.0.0.jar
+delete:mods\HadEnoughItems_1.12.2-4.29.7.jar
+delete:mods\ItemStages-1.12.2-2.0.51.jar
+delete:mods\MoBends_1.12.2-1.2.1-19.12.21.jar
+delete:mods\PackagedThaumic-1.12.2-1.0.3.19.jar
+delete:mods\zenutils-1.25.7.jar
+delete:mods\Mekanism-CE-Unofficial-Multiblock-Machine-9.9.1.230.jar
+delete:mods\Mekanism-CE-Unofficial-Generators-9.9.1.230.jar
+delete:mods\Mekanism-CE-Unofficial-9.9.1.230.jar
+delete:mods\Chocolate_Quest_Repoured-1.12.2-2.7.2B.jar

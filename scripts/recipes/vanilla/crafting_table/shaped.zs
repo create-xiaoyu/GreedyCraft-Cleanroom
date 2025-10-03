@@ -1345,9 +1345,9 @@ RecipeUtil.addShaped("efln", <tconstruct:throwball:1> * 4, [
     [<ore:gunpowder>, <ore:dustSulfur>, <ore:gunpowder>]
 ]);
 RecipeUtil.addShaped("shadowium_essence", <additions:shadowium_ingot>, [
-    [<jaopca:mysticalagriculture_essence.shadowium>, <jaopca:mysticalagriculture_essence.shadowium>, <jaopca:mysticalagriculture_essence.shadowium>],
-    [<jaopca:mysticalagriculture_essence.shadowium>, null, <jaopca:mysticalagriculture_essence.shadowium>],
-    [<jaopca:mysticalagriculture_essence.shadowium>, <jaopca:mysticalagriculture_essence.shadowium>, <jaopca:mysticalagriculture_essence.shadowium>]
+    [<mysticalcreations:shadowium_seeds>, <mysticalcreations:shadowium_seeds>, <mysticalcreations:shadowium_seeds>],
+    [<mysticalcreations:shadowium_seeds>, null, <mysticalcreations:shadowium_seeds>],
+    [<mysticalcreations:shadowium_seeds>, <mysticalcreations:shadowium_seeds>, <mysticalcreations:shadowium_seeds>]
 ]);
 RecipeUtil.addShaped("heal_block", <openblocks:heal>, [
     [<scalinghealth:heartcontainer>, <scalinghealth:heartcontainer>, <scalinghealth:heartcontainer>],

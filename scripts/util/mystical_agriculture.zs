@@ -49,8 +49,8 @@ function registerSeedRecipe(seed as IItemStack, baseItem as IItemStack, tier as 
         
         var baseItemName as string = game.localize("greedycraft.mysticalagriculture.base_item");
         baseItemName = baseItem.displayName;
-        seed.addTooltip(I18n.format("greedycraft.mysticalagriculture.seed_tooltip", baseItemName));
-        mods.jei.JEI.addDescription(seed, I18n.format("greedycraft.mysticalagriculture.jei_info", baseItemName));
+        // seed.addTooltip(I18n.format("greedycraft.mysticalagriculture.seed_tooltip", baseItemName));
+        // mods.jei.JEI.addDescription(seed, I18n.format("greedycraft.mysticalagriculture.jei_info", baseItemName));
 
         mods.forestry.Carpenter.addRecipe(seed, [
             [baseItem, essences[tier], baseItem],
