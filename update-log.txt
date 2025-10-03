@@ -124,3 +124,4 @@ delete:mods\Mekanism-CE-Unofficial-Multiblock-Machine-9.9.1.230.jar
 delete:mods\Mekanism-CE-Unofficial-Generators-9.9.1.230.jar
 delete:mods\Mekanism-CE-Unofficial-9.9.1.230.jar
 delete:mods\Chocolate_Quest_Repoured-1.12.2-2.7.2B.jar
+delete:mods\++relauncher-0.4.7-beta-shadow.jar
