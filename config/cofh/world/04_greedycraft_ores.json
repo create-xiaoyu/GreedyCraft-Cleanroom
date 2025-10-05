@@ -700,7 +700,7 @@
                 ],
                 "cluster-size": 3
             },
-            "cluster-count": 1,
+            "cluster-count": 5,
             "min-height": 8,
             "max-height": 50,
             "chunk-chance": 1,
