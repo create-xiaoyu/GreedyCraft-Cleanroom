@@ -89,9 +89,9 @@ recipes.addShaped("豆浆机控制器", <modularmachinery:soymilk_producer_contr
 // 经验发电机控制器
 /*
  * 有序合成：
- * 知识精化块 知识精化块 知识精化块
- * 知识精化块 机械控制器 知识精化块
- * 知识精化块 知识精化块 知识精化块
+ * 知识精华块 知识精华块 知识精华块
+ * 知识精华块 机械控制器 知识精华块
+ * 知识精华块 知识精华块 知识精华块
  */
 
 recipes.addShaped("经验发电机控制器", <modularmachinery:exp_power_generator_controller>,

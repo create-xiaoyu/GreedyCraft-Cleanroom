@@ -1,6 +1,6 @@
 {
   "item_block": {
-    "name": "§a知识精化块",
+    "name": "§a知识精华块",
     "tooltip": [
       "§7用于存储经验",
       "§a拿着对空气按左键可以使用并获得经验",
@@ -9,7 +9,7 @@
     "ore_dict": "blockExperience",
     "type": "additions:block_simple"
   },
-  "name": "§a知识精化块",
+  "name": "§a知识精华块",
   "material": "minecraft:metal",
   "map_color": "minecraft:lime",
   "hardness": 2.5,
