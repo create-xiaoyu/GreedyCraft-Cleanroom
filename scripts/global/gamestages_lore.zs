@@ -287,12 +287,12 @@ global gameStagesLore as string[][string][string][string] = {
             ]
         },
         laser_gun_blueprint: {
-            alias: ["悠悠球蓝图"],
+            alias: ["镭射枪蓝图"],
             lore: [
-                "解锁了悠悠球的制作配方。"
+                "解锁了镭射枪的制作配方。"
             ],
             unlocks: [
-                "可以制作并使用匠魂悠悠球"
+                "可以制作并使用匠魂镭射枪"
             ]
         },
         tactic_blueprint: {
