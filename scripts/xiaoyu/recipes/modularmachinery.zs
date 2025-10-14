@@ -9,9 +9,7 @@ MMCEUtil.addForgeRecipe("tconstruct_ingots_2", "fusion_forge", (200 * FORGE_COST
     <tconstruct:ingots>,
     <tconstruct:ingots:1>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 振金 + 阳光合金 + 离金 *3 = 精金 *4
@@ -20,9 +18,7 @@ MMCEUtil.addForgeRecipe("taiga_adamant_ingot", "fusion_forge", (200 * FORGE_COST
     <taiga:solarium_ingot>,
     <taiga:iox_ingot> *3
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 虚金 + 离金 *3 = 精金 *4
@@ -30,9 +26,7 @@ MMCEUtil.addForgeRecipe("taiga_adamant_ingot_2", "fusion_forge", (200 * FORGE_CO
     <taiga:nihilite_ingot>,
     <taiga:iox_ingot> *3
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 瓦雷利亚 *2 + 乌鲁 *2 + 辐光和金 = 阳光合金 *2
@@ -41,9 +35,7 @@ MMCEUtil.addForgeRecipe("taiga_solarium_ingot", "fusion_forge", (200 * FORGE_COS
     <taiga:uru_ingot> *2,
     <taiga:nucleum_ingot>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 普罗克希 *3 + 深渊金属 + 熔晶 = 辐光和金 *4
@@ -52,9 +44,7 @@ MMCEUtil.addForgeRecipe("taiga_nucleum_ingot", "fusion_forge", (200 * FORGE_COST
     <taiga:abyssum_ingot>,
     <taiga:osram_ingot>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 帝金 *3 + 熔晶 + 零素 = 辐光和金 *4
@@ -63,9 +53,7 @@ MMCEUtil.addForgeRecipe("taiga_nucleum_ingot_2", "fusion_forge", (200 * FORGE_CO
     <taiga:osram_ingot>,
     <taiga:eezo_ingot>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 铌 *3 + 零素 + 深渊金属 = 辐光和金 *4
@@ -74,9 +62,7 @@ MMCEUtil.addForgeRecipe("taiga_nucleum_ingot_3", "fusion_forge", (200 * FORGE_CO
     <taiga:eezo_ingot>,
     <taiga:abyssum_ingot>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 普罗姆 *3 + 钯 *3 + 零素 = 普罗克希 *4
@@ -85,9 +71,7 @@ MMCEUtil.addForgeRecipe("taiga_proxii_ingot", "fusion_forge", (200 * FORGE_COST_
     <taiga:palladium_ingot> *3,
     <taiga:eezo_ingot>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 杜兰特 *3 + 普罗姆 + 深渊金属 = 帝金 *2
@@ -96,9 +80,7 @@ MMCEUtil.addForgeRecipe("taiga_imperomite_ingot", "fusion_forge", (200 * FORGE_C
     <taiga:prometheum_ingot>,
     <taiga:abyssum_ingot>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 钯锭 *3 + 杜兰特 + 熔晶 = 铌 *4
@@ -107,9 +89,7 @@ MMCEUtil.addForgeRecipe("taiga_niob_ingot", "fusion_forge", (200 * FORGE_COST_MU
     <taiga:duranite_ingot>,
     <taiga:osram_ingot>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 零素 + 深渊金属 + 熔晶 + 黑陨铁 *10 = 离金 *4
@@ -119,9 +99,7 @@ MMCEUtil.addForgeRecipe("taiga_iox_ingot", "fusion_forge", (300 * FORGE_COST_MUL
     <taiga:osram_ingot>,
     <taiga:obsidiorite_ingot> *10
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 零素 + 深渊金属 + 熔晶 + 陨铁 *10 + 黑曜石*10 = 离金 *4
@@ -132,9 +110,7 @@ MMCEUtil.addForgeRecipe("taiga_iox_ingot_2", "fusion_forge", (300 * FORGE_COST_M
     <taiga:meteorite_ingot> *10,
     <minecraft:obsidian> *10
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 铅锭 *3 + 铂锭 + 末影珍珠 = 末影 *2
@@ -143,9 +119,7 @@ MMCEUtil.addForgeRecipe("thermalfoundation_material_167", "fusion_forge", (200 *
     <thermalfoundation:material:134>,
     <minecraft:ender_pearl>
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
 
 // 马玉灵 *2 + 精金 + 末影*2 = 聚合矩阵 *2
@@ -154,7 +128,5 @@ MMCEUtil.addForgeRecipe("tconevo_material", "fusion_forge", (200 * FORGE_COST_MU
     <taiga:adamant_ingot>,
     <thermalfoundation:material:167> *2
 ], {
-    <additions:greedycraft-creative_soul> : {
-        1
-    }
+    <additions:greedycraft-creative_soul> : 1
 });
