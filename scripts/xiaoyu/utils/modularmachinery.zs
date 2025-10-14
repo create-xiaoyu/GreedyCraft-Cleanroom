@@ -7,7 +7,7 @@ import crafttweaker.item.IItemStack;
 import mods.modularmachinery.RecipePrimer;
 import mods.modularmachinery.RecipeBuilder;
 
-function addForgeRecipe(recipesName as string, machineryName as string, tickTime as int, Energy as long, outItem as IItemStack, outItemNumber as int, inputItem as IItemStack[]) {
+function addForgeRecipe(recipesName as string, machineryName as string, tickTime as int, Energy as long, outItem as IItemStack, outItemNumber as int, inputItem as IItemStack[], catalyticItem as int[IItemStack]) {
     val builder as RecipePrimer = RecipeBuilder.newBuilder(recipesName, machineryName, tickTime);
 
     builder.addEnergyPerTickInput(Energy);
@@ -22,6 +22,35 @@ function addForgeRecipe(recipesName as string, machineryName as string, tickTime
 
     builder.build();
 
+    if (!isNull(catalyticItem)) {
+        var newTickTime as int = tickTime;
+        var catalytic as IItemStack = catalyticItem;
+
+        for item in catalyticItem {
+            catalytic = item
+        }
+
+        for item, catalyticData in catalyticItem {
+            newTickTime = catalyticData
+        }
+
+        val builder as RecipePrimer = RecipeBuilder.newBuilder(recipesName + "_catalytic", machineryName, newTickTime);
+
+        builder.addEnergyPerTickInput(Energy);
+
+        for ingredient in inputItem {
+            if (!isNull(ingredient)) {
+                builder.addItemInputs(ingredient);
+            }
+        }
+
+        builder.addItemInputs(catalytic);
+
+        builder.addItemOutput(outItem *outItemNumber);
+        builder.addItemOutput(catalytic);
+
+        builder.build();
+    }
 }
 
 function addPowerGeneratorRecipe(recipesName as string, machineryName as string, tickTime as int, outPower as long, inputItem as IItemStack[]) {
