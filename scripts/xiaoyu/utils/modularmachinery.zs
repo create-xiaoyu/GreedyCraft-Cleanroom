@@ -23,31 +23,25 @@ function addForgeRecipe(recipesName as string, machineryName as string, tickTime
     builder.build();
 
     if (!isNull(catalyticItem)) {
-        var newTickTime as int = tickTime;
-        var catalytic as IItemStack = catalyticItem;
+        for item, time in catalyticItem {
+            val catalytic as IItemStack = catalyticItem.keys()[0];
+            val newTickTime as int = catalyticItem.values()[0];
 
-        for item, catalyticData in catalyticItem {
-            newTickTime = catalyticData;
-            val builder as RecipePrimer = RecipeBuilder.newBuilder(recipesName + "_catalytic", machineryName, newTickTime);
-        }
+            val builder as RecipePrimer = RecipeBuilder.newBuilder(recipesName, machineryName, newTickTime);
 
-        for ingredient in inputItem {
-            if (!isNull(ingredient)) {
-                builder.addItemInputs(ingredient);
-                builder.addItemOutput(catalytic);
+            builder.addEnergyPerTickInput(Energy);
+
+            for ingredient in inputItem {
+                if (!isNull(ingredient)) {
+                    builder.addItemInputs(ingredient);
+                }
             }
+
+            builder.addItemInputs(catalytic);
+            builder.addItemOutput(outItem *outItemNumber);
+            builder.addItemOutput(catalytic);
+            builder.build();
         }
-
-        for item in catalyticItem {
-            builder.addItemInputs(item);
-
-        }
-
-        builder.addEnergyPerTickInput(Energy);
-
-        builder.addItemOutput(outItem *outItemNumber);
-
-        builder.build();
     }
 }
 
