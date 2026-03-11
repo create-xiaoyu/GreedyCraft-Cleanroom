@@ -272,7 +272,7 @@
             "alignment": "top_left"
         },
         "announcements": {
-            "text": "web:http://v4.shenhua2233.cn:20002/Minecraft/ModPack/GreedyCaft/greedycraft-announcements.txt",
+            "text": "web:https://json.tcreopargh.xyz/greedycraft-announcements.txt",
             "action": {
                 "type": "openLink",
                 "link": "https://greedycraft.com/"
